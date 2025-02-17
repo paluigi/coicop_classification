@@ -1,0 +1,590 @@
+"Code","Description","ExplanatoryNote","Change_date"
+"01-12",Dépenses de consommation individuelle à la charge des ménages,,
+"01",Produits alimentaires et boissons non alcoolisées,,
+"01.1",Produits alimentaires,"Cette classe comprend les produits alimentaires achetés pour être consommés à domicile. En sont exclus les produits alimentaires vendus pour consommation immédiate, hors domicile, par les hôtels, les restaurants, les cafés, les bars, les kiosques, les vendeurs ambulants, les distributeurs automatiques, etc. (11.1.1); les plats cuisinés par des restaurants qui ne sont pas consommés sur place (11.1.1); les plats cuisinés par les traiteurs qui sont emportés par les clients ou livrés à leur domicile (11.1.1); et les produits vendus expressément comme aliments pour animaux de compagnie (09.3.4).",
+"01.1.1",Pain et céréales (ND),"- Riz sous toutes ses formes;
+- Maïs, blé, orge, avoine, seigle et autres céréales sous forme de grain ou de farine;
+- Pain et autres produits de boulangerie (biscottes, croissants et viennoiseries, pâtisseries et tartes, gâteaux secs, gaufres et crêpes, pain d'épices, tourtes, quiches et pizzas, etc.);
+- Mélanges et pâtes pour la préparation de produits de boulangerie;
+- Pâtes alimentaires sous toutes leurs formes; couscous;
+- Préparations à base de céréales (flocons de maïs, flocons d'avoine, etc.) et autres produits analogues (malt, farine de malt, extrait de malt, fécule de pomme de terre, tapioca, sagou et autres fécules et amidons).
+Sont inclus : produits à base de farine préparés avec de la viande, du poisson, des fruits de mer, du fromage, des légumes ou des fruits.
+Sont exclus : viandes en croûte (01.1.2); poissons en croûte (01.1.3); maïs doux en épis ou en grains (01.1.7).",
+"01.1.2",Viande (ND),"- Viande fraîche, réfrigérée ou surgelée;
+- Espèces bovine, porcine, ovine et caprine;
+- Cheval, mulet, âne, chameau, etc.;
+- Volaille (poulet, canard, oie, dinde, pintade);
+- Lièvre, lapin et gibier (antilope, daim, sanglier, faisan, grouse, pigeon, caille, etc.);
+- Abats comestibles frais, réfrigérés ou surgelés;
+- Viande et abats comestibles séchés, salés ou fumés (chair à saucisse, saucisson, lard, jambon, pâté, etc.);
+- Conserves et préparations à base de viande (viande en boîte, extraits de viande, jus de viande, viande en croûte, etc.).
+Sont inclus : viande et abats comestibles de mammifères marins (otarie, phoque, baleine, etc.) et d'espèces exotiques (kangourou, autruche, alligator, etc.); animaux (dont volaille) achetés vivants pour être consommés comme aliments.
+Sont exclus : escargots et autres gastéropodes (01.1.3); saindoux et autres graisses animales alimentaires (01.1.5); soupes, potages et bouillons contenant de la viande (01.1.9).",
+"01.1.3",Poisson et fruits de mer (ND),"- Poisson frais, réfrigéré ou surgelé;
+- Crustacés (y compris crabes terrestres), mollusques (y compris escargots et coquillages) et cuisses de grenouilles, réfrigérés ou surgelés;
+- Poisson, crustacés et mollusques séchés, fumés ou salés;
+- Autres conserves et préparations à base de poisson, crustacés et mollusques (poisson, crustacés et mollusques en boîte, caviar et autres oeufs de poisson, poisson en croûte, etc.).
+Sont inclus : crabes terrestres, escargots et cuisses de grenouille; poisson, crustacés et mollusques achetés vivants pour être consommés comme aliments.
+Sont exclus : soupes, potages et bouillons contenant du poisson (01.2.9).",
+"01.1.4","Lait, fromage et oeufs (ND)","- Lait cru; lait pasteurisé ou stérilisé;
+- Lait condensé, concentré ou en poudre;
+- Yaourt, crème de lait, desserts lactés, boissons lactées et autres produits analogues à base de lait;
+- Fromage divers et caillebotte;
+- Oeufs et préparations exclusivement à base d'oeuf.
+Sont inclus : lait, crème et yaourts additionnés de sucre, de cacao, de fruits ou d'aromatisants; succédanés du lait, comme le lait de soja.
+Sont exclus : beurre et produits dérivés du beurre (01.1.5).",
+"01.1.5",Huiles et graisses (ND),"- Beurre et produits dérivés du beurre (huile de beurre, beurre fondu, etc.);
+- Margarine (y compris allégée) et autres graisses végétales (dont le beurre d'arachide);
+- Huiles alimentaires (huile d'olive, huile de soja, huile de maïs, huile de tournesol, huile de coton, huile d'arachide, huile de noix, etc.);
+- Graisses animales alimentaires (saindoux, etc.).
+Sont exclus : huile de foie de morue et huile de foie de flétan (06.1.1).",
+"01.1.6",Fruits (ND),"- Fruits frais, réfrigérés ou surgelés;
+- Fruits séchés, écorces de fruit, noyaux et amandes, fruits à coque et graines comestibles;
+- Fruits en conserves et produits à base de fruits.
+Sont inclus : melons et pastèques.
+Sont exclus : légumes cultivés pour leur fruit (aubergine, concombre, tomate notamment) (01.1.7); confitures, compotes et purées, pâtes de fruit (01.1.8); fruits confits (01.1.8); jus de fruit et sirops (01.2.2).",
+"01.1.7",Légumes (ND),"- Légumes frais, réfrigérés, surgelés ou séchés, cultivés pour leurs feuilles ou leur tige (asperge, brocoli, chou-fleur, endive, fenouil, épinard, etc.), leur fruit (aubergine, concombre, courgette, poivron vert, potiron, tomate, etc.) ou leur racine (betterave, carotte, oignon, panais, radis, navet, etc.);
+- Pommes de terre et autres tubercules frais ou réfrigérés (manioc, arrow-root, patate douce, etc.);
+- Légumes en conserves et produits à base de légumes;
+- Produits issus de tubercule (farine, flocons, purée, frites et chips), y compris les préparations surgelées telles que les pommes de terre découpées.
+Sont inclus : olives; ail; légumineuses; maïs doux; fenouil marin et autres algues comestibles; champignons comestibles.
+Sont exclus : fécule de pomme de terre, tapioca, sagou et autres amidons et fécules (01.1.1); soupes, potages et bouillons contenant des légumes (01.1.9); plantes aromatiques (persil, romarin, thym, etc.) et épices (poivre, piment, gingembre, etc.) (01.1.9); jus de légume (01.2.2).",
+"01.1.8","Sucre, confiture, miel, chocolat et confiserie (ND)","- Sucre de canne ou de betterave, brut ou raffiné, en poudre, cristallisé ou en morceaux;
+- Confitures et compotes, pâtes de fruit, miel naturel et artificiel, sirop d'érable, mélasse et fruits confits;
+- Chocolat en tablette ou en plaque, gomme à mâcher, bonbons, pastilles et autres confiseries;
+- Produits à base de cacao et préparations pour dessert à base de cacao;
+- Glace, crème glacée et sorbet.
+Sont inclus : succédanés de sucre (sucrettes).
+Sont exclus : cacao et poudre à base de chocolat (01.2.1).",
+"01.1.9",Produits alimentaires n.c.a. (ND),"- Sel, épices (poivre, piment, gingembre, etc.), plantes aromatiques (persil, romarin, thym, etc.), sauces, condiments, assaisonnements (moutarde, mayonnaise, ketchup, sauce de soja, etc.), vinaigre;
+- Poudres à lever préparées, levure de boulanger, préparations pour dessert, soupes, potages, bouillons, ingrédients divers pour la cuisine, etc.;
+- Aliments homogénéisés pour nourrisson et préparations diététiques, quelle qu'en soit la composition.
+Sont exclus : desserts lactés (01.1.4); lait de soja (01.1.4); succédanés de sucre (01.1.8); préparations pour dessert à base de cacao (01.1.8).",
+"01.2",Boissons non alcoolisées,"Cette classe comprend les boissons non alcoolisées achetées pour être consommées à domicile. En sont exclues les boissons non alcoolisées vendues pour consommation immédiate, hors domicile, par les hôtels, les restaurants, les cafés, les bars, les kiosques, les vendeurs ambulants, les distributeurs automatiques, etc. (11.1.1).",
+"01.2.1","Café, thé et cacao (ND)","- Café torréfié ou non, décaféiné ou non, moulu ou non, y compris le café instantané;
+- Thé, maté et autres produits et plantes à infuser;
+- Cacao, sucré ou non, et poudre à base de chocolat.
+Sont inclus : préparations pour boissons à base de cacao; succédanés de café et de thé; extraits et essences de café et de thé.
+Sont exclus : chocolat en tablette ou en barre (01.1.8); aliments à base de cacao et préparation pour desserts à base de cacao (01.1.8).",
+"01.2.2","Eaux minérales, boissons rafraîchissantes, jus de fruits et de légumes (ND)","- Eau minérale ou de source; toute eau potable vendue conditionnée;
+- Boissons rafraîchissantes, gazeuses ou non : sodas, colas, limonades, etc.;
+- Jus de fruits et de légumes;
+- Sirops et concentrés pour la préparation de boissons.
+Sont exclus : version non alcoolisée de boissons généralement alcooliques, telle que a bière sans alcool (02.1).",
+"02","Boissons alcoolisées, tabac et stupéfiants",,
+"02.1",Boissons alcoolisées,"Cette classe comprend les boissons alcoolisées achetées pour être consommées à domicile. En sont exclues les boissons non alcoolisées vendues pour consommation immédiate, hors domicile, par les hôtels, les restaurants, les cafés, les bars, les kiosques, les vendeurs ambulants, les distributeurs automatiques, etc. (11.1.1).
+Elle comprend les versions non alcoolisées de boissons généralement alcoolisées, telles que la bière sans alcool.",
+"02.1.1",Alcools de bouche (ND),"- Eaux-de-vie, liqueurs et autres spiritueux.
+Sont inclus : hydromel; apéritifs autres que les apéritifs à base de vin (02.1.2).",
+"02.1.2",Vin et boissons fermentées (ND),"- Vin et boissons fermentées, cidre et poiré, saké;
+- Apéritifs à base de vin, vins enrichis en alcool, champagne et autres vins mousseux.",
+"02.1.3",Bière (ND),"- Bière (blonde, brune, etc.).
+Sont inclus : bière à faible teneur en alcool et bière sans alcool; panaché.",
+"02.2",Tabac,"Ce groupe comprend tous les achats de tabac par les ménages, y compris ceux effectués dans les restaurants, les cafés, les bars, les stations-service, etc.",
+"02.2.0",Tabac (ND),"- Cigarettes, tabac et papier à cigarette;
+- Cigares, tabac pour pipe, tabac à mâcher ou à priser;
+Sont exclus : autres articles pour fumeur (12.3.2).",
+"02.3",Stupéfiants,,
+"02.3.0",Stupéfiants (ND),"- Cannabis, opium, cocaïne et leurs dérivés;
+- Stupéfiants divers d'origine végétale, dont noix de cola, feuilles de bétel et noix d'arec;
+- Autres stupéfiants et drogues, y compris chimiques et synthétiques.",
+"03",Articles d'habillement et chaussures,,
+"03.1",Articles d'habillement,,
+"03.1.1",Tissus pour habillement (SD)1,"- Tissus (ou étoffes) en fibres naturelles, synthétiques ou mélangées.
+Sont exclus : tissus d'ameublement (05.2.0).",
+"03.1.2",Vêtements (SD),"- Vêtements pour hommes, femmes, enfants (3 à 13 ans) et nourrissons (0 à 2 ans), de confection ou sur mesure, en toutes matières (y compris le cuir, la fourrure, le plastique et le caoutchouc), pour tous les jours, pour le sport ou pour le travail;
+- Capes, manteaux, imperméables, anoraks, parkas, blousons, vestes, pantalons, gilets, complets, tailleurs, robes, jupes, etc.;
+- Chemises, corsages, pull-overs, chandails, gilets, shorts, maillots de bain, survêtements, sweat-shirts, tee-shirts, justaucorps, etc.;
+- Tricots de corps, slips, chaussettes, bas, collants, jupons, soutien-gorges, culottes, combinaisons, gaines, corsets, bodys, etc.;
+- Pyjamas, chemises de nuit, robes d'intérieur, robes de chambre, peignoirs, etc.;
+- Vêtements et chaussons de bébé en textiles.
+Sont exclus : bonneterie médicale, dont bas à varices (06.1.2); couches pour bébé (12.1.3).",
+"03.1.3",Autres articles et accessoires d'habillement (SD),"- Cravates, mouchoirs, écharpes, foulards, gants, moufles, manchons, ceintures, bretelles, tabliers, blouses, bavoirs, protège-manches, chapeaux, casquettes, bérets, bonnets, etc.;
+- Fils à coudre, fils à tricoter et accessoires de couture (boucles, boutons-pressions, fermetures éclair, rubans, dentelles, passementerie, etc.).",
+"03.1.4","Nettoyage, réparation et location d'articles d'habillement (S)1","- Nettoyage à sec, blanchissage et teinture de vêtements;
+- Reprisage, raccommodage et retouche de vêtements;
+- Location de vêtements.
+Sont inclus : valeur totale de la réparation (c'est-à-dire le coût de la main-d'oeuvre et des fournitures).
+Sont exclus : tissus, fils, accessoires, etc. que les ménages achètent dans l'intention d'effectuer eux-mêmes les réparations (03.1.1 ou 03.1.3); raccommodage de linge de maison et autres articles de ménage en textile (05.2.0); nettoyage à sec, blanchissage, teinture et location de linge de maison et autres articles de ménage en textile (05.6.2).",
+"03.2",Chaussures,,
+"03.2.1",Chaussures diverses (SD),"- Toutes les chaussures pour hommes, femmes, enfants (3 à 13 ans) et nourrissons (0 à 2 ans), y compris les chaussures de sport pouvant être portées tous les jours ou pour une activité de loisirs (chaussures pour le jogging, le cross, le tennis, le basket-ball, la navigation de plaisance, etc.).
+Sont inclus : guêtres, jambières et articles analogues; lacets; fournitures pour chaussures (talons, semelles, etc.) achetés par les ménages dans l'intention de faire des réparations.
+Sont exclus : chaussons de bébé en textiles (03.1.2); embauchoirs, chausse-pieds et cirages, crèmes et autres produits de nettoyage pour chaussures (05.6.1); chaussures orthopédiques (06.1.3); chaussures conçues spécialement pour la pratique d'un sport (chaussures de ski, de football, de golf et autres chaussures munies de patins à glace ou à roulettes, de pointes, de crampons, etc.) (09.3.2); protège-tibias et autres accessoires de protection liés à la pratique d'un sport (09.3.2).",
+"03.2.2",Cordonnerie et location de chaussures (S)1,"- Cordonnerie; services de nettoyage et de cirage de chaussures;
+- Location de chaussures.
+Sont inclus : valeur totale du service de réparation (c'est-à-dire le coût de la main-d'oeuvre et des fournitures).
+Sont exclus : parties de chaussure (talons, semelles, etc.) que les ménages achètent dans l'intention d'effectuer eux-mêmes les réparations (03.2.1); cirages, crèmes et autres articles d'entretien des chaussures (05.6.1); réparation (09.3.2) ou location (09.4.1) de chaussures conçues spécialement pour la pratique d'un sport (chaussures de ski, de football, de golf et autres chaussures munies de patins à glace ou à roulettes, de pointes, de crampons, etc.).",
+"04","Logement, eau, gaz, électricité et autres combustibles",,
+"04.1",Loyers effectifs,"De façon générale, les loyers comprennent le coût de l'utilisation du terrain sur lequel se trouve la propriété, du logement occupé, des installations de chauffage, de plomberie, d'éclairage, etc., et, dans le cas d'un logement loué meublé, des meubles.
+Ils comprennent également le coût de l'utilisation d'un garage de stationnement en relation avec le logement. Il n'est pas nécessaire que le garage soit physiquement contigu au logement; ni qu'il soit loué par le même propriétaire.
+Les loyers ne comprennent pas le coût de l'utilisation de garages ou de places de stationnement sans rapport avec le logement (07.2.4). En sont également exclues les charges relatives à l'alimentation en eau (04.4.1), à l'enlèvement des ordures (04.4.2) et à la collecte des eaux usées (04.4.3); les charges de copropriété (gardiennage, jardinage, nettoyage des escaliers, chauffage et éclairage, entretien des ascenseurs et des vide-ordures, etc.) dans les immeubles collectifs (04.4.4); les frais d'électricité (04.5.1) et de gaz (04.5.2); le coût du chauffage et de l'eau chaude fournis par les centrales de chauffage urbain (04.5.5).",
+"04.1.1",Loyers effectivement payés par les locataires (S),"- Loyers effectivement payés par les locataires ou sous-locataires occupant un local non meublé ou meublé en tant que résidence principale.
+Sont inclus : paiements effectués par des ménages occupant une chambre dans un hôtel ou une pension en tant que résidence principale.
+Sont exclus : services d'hébergement fournis par les établissements d'enseignement et les foyers (11.2.0) et les maisons de retraite (12.4.0).",
+"04.1.2",Autres loyers effectifs (S),"- Loyers effectifs des résidences secondaires.
+Sont exclus : services d'hébergement fournis par les villages ou centres de vacances (11.2.0).",
+"04.2",Loyers fictifs,"Voir, plus haut, la note de la rubrique 04.1.",
+"04.2.1",Loyers fictifs des propriétaires-occupants (S),- Loyers fictifs des propriétaires occupant leur résidence principale.,
+"04.2.2",Autres loyers fictifs (S),"- Loyers fictifs des résidences secondaires.
+- Loyers fictifs des ménages qui paient un loyer réduit ou sont logés gratuitement.",
+"04.3",Entretien et réparation des logements,"Les travaux d'entretien et de réparation des logements se distinguent par deux caractéristiques : premièrement, ils doivent être effectués régulièrement pour maintenir le logement en bon état; deuxièmement, ils ne modifient pas le fonctionnement, la capacité ou la durée de vie utile du logement.
+Il existe deux types de travaux d'entretien et de réparation des logements : les petits travaux (décoration et réparation des installations, etc.) généralement effectués tant par les locataires que par les propriétaires; et les gros travaux (ravalement, réfection du toit, etc.), qui ne sont effectués que par les propriétaires.
+Seules les dépenses des locataires ou propriétaires-occupants concernant le matériel et les services nécessaires aux petits travaux d'entretien et de réparation font partie des dépenses de consommation individuelle des ménages. Les dépenses des propriétaires-occupants concernant le matériel et les services nécessaires aux gros travaux n'entrent pas dans cette catégorie.
+Le matériel que les locataires ou propriétaires-occupants achètent dans l'intention d'effectuer eux-mêmes les travaux d'entretien ou de réparation sont à inclure à la rubrique 04.3.1. Lorsque les locataires ou les propriétaires-occupants paient une entreprise pour effectuer ces travaux, la valeur totale du service (y compris le coût des fournitures) est à inclure à la rubrique 04.3.2.",
+"04.3.1",Fournitures pour travaux d'entretien et de réparation des logements (ND),"- Produits et matériaux (peintures, vernis, enduits, papiers peints, tentures murales, vitres, plâtre, ciment, mastic, colle à papier peint, etc.) achetés pour effectuer des petits travaux d'entretien et de réparation du logement.
+Sont inclus : petits articles de plomberie (tuyaux, robinets, joints, etc.); matériaux de revêtement (lattes de plancher, carreaux de céramique, etc.); pinceaux, brosses et grattoirs à peinture, vernis et papier peint.
+Sont exclus : moquette et linoléum (05.1.2); petit outillage, accessoires de porte, prises de courant, fils électriques et ampoules (05.5.2); balais, brosses à récurer, brosses à poussière et produits de nettoyage (05.6.1); produits, matériaux et pièces nécessaires aux gros travaux d'entretien et de réparation (consommation intermédiaire) ou aux travaux d'agrandissement et de transformation du logement (formation de capital).",
+"04.3.2",Services concernant l'entretien et les réparations du logement (S),"- Services fournis par différents corps de métier (plombiers, électriciens, menuisiers, vitriers, peintres, décorateurs, cireurs de parquet, etc.) dans le cadre de petits travaux d'entretien et de réparation du logement.
+Sont inclus : valeur totale du service (c'est-à-dire le coût de la main-d'oeuvre et des fournitures).
+Sont exclus : pièces que les ménages achètent séparément dans l'intention d'effectuer eux-mêmes les travaux d'entretien ou de réparation (04.3.1); services concernant des gros travaux d'entretien et de réparation (consommation intermédiaire) et des travaux d'agrandissement ou de transformation du logement (formation de capital).",
+"04.4",Alimentation en eau et services divers liés au logement,,
+"04.4.1",Alimentation en eau (ND),"- Alimentation en eau.
+Sont inclus : dépenses connexes (location de compteur, relevé de compteur, redevances fixes, etc.).
+Sont exclus : eau potable vendue conditionnée (01.2.2); eau chaude ou vapeur provenant d'une centrale de chauffage urbain (04.5.5).",
+"04.4.2",Collecte des ordures ménagères (S),- Enlèvement et traitement des ordures ménagères.,
+"04.4.3",Reprise des eaux usées (S),- Reprise et traitement des eaux usées.,
+"04.4.4",Services divers liés au logement n.c.a. (S),"- Charges de copropriété (gardiennage, jardinage, nettoyage des escaliers, chauffage et éclairage, entretien des ascenseurs et des vide-ordures, etc.) dans les immeubles collectifs;
+- Services relatifs à la sécurité des habitations;
+- Déblaiement de la neige et ramonage.
+Sont exclus : services ménagers (nettoyage des fenêtres, désinfection, fumigation, dératisation et désinsectisation, etc.) (05.6.2); services de gardes du corps (12.7.0).",
+"04.5","Électricité, gaz et autres combustibles",,
+"04.5.1",Électricité (ND),"- Électricité.
+Sont inclus : dépenses connexes (location de compteur, relevé de compteur, redevances fixes, etc.).",
+"04.5.2",Gaz (ND),"- Gaz de ville et gaz naturel;
+- Hydrocarbures liquéfiés (butane, propane, etc.).
+Sont inclus : dépenses connexes (location de compteur, relevé de compteur, récipients de stockage, redevances fixes, etc.).",
+"04.5.3",Combustibles liquides (ND),- Fioul domestique (pour le chauffage et l'éclairage).,
+"04.5.4",Combustibles solides (ND),"- Charbon, coke, boulets et briquettes, bois de feu, charbon de bois, tourbe, etc.",
+"04.5.5",Énergie thermique (ND),"- Eau chaude ou vapeur provenant d'une centrale de chauffage urbain.
+Sont inclus : dépenses connexes (location de compteur, relevé de compteur, redevances fixes, etc.); glace utilisée pour rafraîchir ou réfrigérer.",
+"05","Meubles, articles de ménage et entretien courant du foyer",,
+"05.1","Meubles, articles d'ameublement, tapis et autres revêtements de sol",,
+"05.1.1",Meubles et articles d'ameublement (D),"- Lits, canapés, divans, tables, chaises, buffets, commodes et étagères;
+- Appareils d'éclairage (plafonniers, lampes et lampadaires, globes, lampes de chevet, etc.);
+- Tableaux, sculptures, gravures, tapisseries et autres objets d'art, y compris les reproductions d'oeuvre d'art et autres objets décoratifs;
+- Paravents, cloisons mobiles et autres meubles et appareils.
+Sont inclus : frais de livraison et d'installation, le cas échéant; sommiers, matelas, tatamis; meubles de salle de bains; mobilier pour bébé (berceau, chaise haute, parc, etc.); volets; meubles de camping et de jardin; miroirs, bougeoirs et chandeliers.
+Sont exclus : Literie et parasols (05.2.0); coffres-forts (05.3.1); articles décoratifs en verre et en céramique (05.4.0); horloges (12.3.1); thermomètres et baromètres muraux (12.3.2); couffins et poussettes (12.3.2); oeuvres d'art et mobilier anciens acquis principalement pour servir de réserve de valeur (formation de capital).",
+"05.1.2",Tapis et revêtements de sol divers (D),"- Tapis, moquette, linoléum et autres revêtements de sol analogues.
+Sont inclus : pose des revêtements de sol.
+Sont exclus : tapis de salle de bains, nattes et paillassons (05.2.0); tapis anciens acquis principalement pour servir de réserve de valeur (formation de capital).",
+"05.1.3","Réparation de meubles, d'articles d'ameublement et de revêtements souples pour le sol (S)","- Réparation de meubles, d'articles d'ameublement et de revêtements souples pour le sol.
+Sont inclus : valeur totale du service (c'est-à-dire le coût de la main-d'oeuvre et des fournitures); restauration d'oeuvres d'art, de mobilier ancien et de tapis anciens autres que ceux acquis principalement pour servir de réserve de valeur (formation de capital).
+Sont exclus : fournitures que les ménages achètent séparément dans l'intention d'effectuer eux-mêmes les réparations (05.1.1 ou 05.1.2, selon le cas); nettoyage à sec de tapis (05.6.2).",
+"05.2",Articles de ménage en textiles,,
+"05.2.0",Articles de ménage en textiles (SD),"- Tissus d'ameublement, tissu pour rideaux, doubles rideaux, stores, rideaux de porte, etc.;
+- Literie (futons, oreillers, traversins, hamacs, etc.);
+- Linge de lit (draps, taies d'oreiller, couvertures, couvertures de voyage, plaids, duvets, couvre-lits et moustiquaires);
+- Linge de table et de toilette (nappes, serviettes de table, serviettes et gants de toilette, etc.);
+- Autres articles de ménage en textiles (cabas, sacs à linge, sacs à chaussures, housses pour vêtements et meubles, drapeaux, parasols, etc.);
+- Réparation de ces articles.
+Sont inclus : tissu d'ameublement à la coupe; toile cirée; tapis de salle de bains, nattes et paillassons.
+Sont exclus : tentures murales (04.3.1); tapisseries (05.1.1); revêtements de sol tels que tapis et moquette (05.1.2); couvertures électriques (05.3.2); housses pour voitures, motocycles, etc. (07.2.1); matelas pneumatiques et sacs de couchage (09.3.2).",
+"05.3",Appareils ménagers,,
+"05.3.1","Gros appareils ménagers, électriques ou non (D)","- Réfrigérateurs, congélateurs et réfrigérateurs-congélateurs;
+- Lave-linge, sèche-linge, armoires sèche-linge, lave-vaisselle, machines à repasser;
+- Cuisinières, rôtissoires, plaques de cuisson, réchauds, fours et fours à micro-ondes;
+- Climatiseurs, humidificateurs, appareils de chauffage, chauffe-eau, ventilateurs et hottes aspirantes;
+- Aspirateurs, nettoyeurs à vapeur, shampouineuses et machines à décaper, cirer et polir les parquets;
+- Autres gros appareils ménagers (coffres-forts, machines à coudre, machines à tricoter, adoucisseurs d'eau, etc.).
+Sont inclus : livraison et installation des appareils, le cas échéant.
+Sont exclus : appareils encastrés dans la structure du bâtiment (formation de capital).",
+"05.3.2",Petits appareils électroménagers (SD),"- Moulins à café, cafetières électriques, centrifugeuses, ouvre-boîtes, mixeurs, friteuses, grils, couteaux, grille-pain, sorbetières, yaourtières, plaques chauffantes, fers à repasser, bouilloires, ventilateurs mobiles, couvertures électriques, etc.
+Sont exclus : petits appareils ménagers no",
+"05.3.3",Réparation d'appareils ménagers (S),"- Réparation d'appareils ménagers.
+Sont inclus : valeur totale du service (c'est-à-dire le coût de la main-d'oeuvre et des fournitures); frais de crédit-bail et de location de gros appareils électroménagers.
+Sont exclus : fournitures que les ménages achètent séparément dans l'intention d'effectuer eux-mêmes les réparations (05.3.1 ou 05.3.2, selon le cas).",
+"05.4","Verrerie, vaisselle et ustensiles de ménage",,
+"05.4.0","Verrerie, vaisselle et ustensiles de ménage (SD)","- Verrerie, cristallerie, céramique et porcelaine utilisées pour la table, la cuisine, la salle de bains, les toilettes, au bureau et pour la décoration;
+- Articles de coutellerie, couverts et argenterie;
+- Ustensiles de cuisine non électriques, quelle qu'en soit la matière (casseroles, cocottes, autocuiseurs, poêles, moulins à café, presse-purée, hachoirs, chauffe-plats, balances de ménages et autres ustensiles mécaniques analogues);
+- Articles ménagers non électriques, quelle qu'en soit la matière, telles que boîtes à pain, à café, à épices, etc.; poubelles, corbeilles à papier, paniers à linge, cassettes et coffres-forts portatifs, porte-serviettes, casiers à bouteille, fers à repasser non électriques et planches; boîtes aux lettres, biberons, bouteilles thermos et glacières;
+- Réparation de ces articles.
+Sont exclus : appareils d'éclairage (05.1.1); appareils électroménagers inclus dans 05.3.1 ou 05.3.2; vaisselle en carton (05.6.1); pèse-personnes et pèse-bébés (12.1.3); cendriers (12.3.2).",
+"05.5",Outillage et autre matériel pour la maison et le jardin,,
+"05.5.1",Gros outillage et matériel (D),"- Outillage et matériel motorisés (perceuses, scies, ponceuses et taille-haies électriques, tracteurs de jardin, tondeuses à gazon, motoculteurs, tronçonneuses et pompes à eau);
+- Réparation de ces articles.
+Sont inclus : frais de crédit-bail ou de location d'outillage et de matériel de bricolage.",
+"05.5.2",Petit outillage et accessoires divers (SD),"- Outils à main (scies, marteaux, tournevis, clefs, pinces, cisailles, râpes et limes, etc.);
+- Outils de jardinage (brouettes, arrosoirs, tuyaux d'arrosage, bêches, pelles, râteaux, fourches, faux, faucilles et sécateurs;
+- Échelles et escabeaux;
+- Accessoires de porte (gonds, poignées et serrures), accessoires de radiateurs et cheminées, autres articles en métal pour la maison (tringles à rideaux, baguettes pour moquette, crochets, etc.) ou pour le jardin (chaînes, grillage, piquets et autre matériel pour clôtures et bordures);
+- Petits accessoires électriques (prises de courant, interrupteurs, fils électriques, ampoules, tubes fluorescents, torches électriques, lampes de poche, piles électriques d'usage courant, sonnettes et alarmes, etc.);
+- Réparation de ces articles.",
+"05.6",Biens et services liés à l'entretien courant du foyer,,
+"05.6.1",Biens d'équipement ménager non durables (ND),"- Produits de nettoyage et d'entretien (savons, lessives en poudre ou liquides, poudres à récurer, détergents, eau de Javel, adoucissants, assouplissants, produits à nettoyer les vitres, cires, encaustiques, teintures, déboucheurs, désinfectants, insecticides, fongicides, eau distillée, etc.);
+- Articles de nettoyage (balais, brosses, pelles, plumeaux, balais et chiffons à poussière, torchons, serpillières, éponges de ménage, tampons à récurer, paille de fer, peau de chamois, etc.);
+- Produits en papier (filtres, nappes et serviettes, essuie-tout, sacs à aspirateurs et vaisselle en carton, etc.), papier d'aluminium et sacs-poubelles en plastique;
+- Autres articles de ménage non durables (allumettes, bougies, mèches de lampe, alcool à brûler, pinces à linge, porte-manteaux, épingles, épingles de sûreté, aiguilles à coudre, aiguilles à tricoter, dés à coudre, clous, vis, écrous et boulons, punaises, joints, colle et rubans adhésifs à usage ménager, corde, ficelle, gants en caoutchouc, etc.).
+Sont inclus : cirages, crèmes et autres articles de nettoyage des chaussures; extincteurs de ménage.
+Sont exclus : pinceaux, brosses et grattoirs à peinture, vernis et papier peint (04.3.1); extincteurs pour véhicules (07.2.1); produits destinés spécialement au nettoyage et à l'entretien de véhicules (peintures, produits pour nettoyer les chromes, matériaux d'étanchéité, produits de nettoyage des carrosseries); produits horticoles pour l'entretien des jardins d'ornement (09.3.3); mouchoirs en papier, papier hygiénique, savons de toilette, éponges de toilette et autres produits d'hygiène corporelle (12.1.3).",
+"05.6.2",Services domestiques et services ménagers (S),"- Services domestiques fournis par du personnel rémunéré employé à titre privé (majordomes, cuisiniers, bonnes, chauffeurs, jardiniers, gouvernantes, secrétaires, précepteurs, jeunes au pair, etc.);
+- Services analogues (dont garde d'enfant et ménage) fournis par des entreprises ou des travailleurs indépendants;
+- Services ménagers (nettoyage des vitres, désinfection, fumigation, désinsectisation et dératisation, etc.);
+- Nettoyage à sec, blanchissage et teinture de linge de maison, d'articles de ménage en textile et de tapis;
+- Location de meubles, d'articles d'ameublement, de tapis, d'appareils ménagers et de linge de maison.
+Sont exclus : nettoyage à sec, blanchissage et teinture de vêtements (03.1.4); collecte des ordures (04.4.2); reprise des eaux usées (04.4.3); charges de copropriété (gardiennage, jardinage, nettoyage des escaliers, chauffage et éclairage, entretien des ascenseurs et des vide-ordures, etc.) dans les immeubles collectifs (04.4.4); services relatifs à la sécurité des habitations (04.4.4); déblaiement de la neige et ramonage (04.4.4); services de déménagement et de garde-meubles (07.3.6); services de nourrice, crèches, garderies et autres établissements d'accueil des enfants (12.4.0); gardes du corps (12.7.0).",
+"06",Santé,Cette division comprend également les services de santé fournis par les centres de santé scolaires et universitaires.,
+"06.1","Produits, appareils et matériels médicaux","Ce groupe comprend les médicaments, les prothèses, le matériel et les appareils médicaux et autres produits en rapport avec la santé achetés par des particuliers ou des ménages, sur ou sans ordonnance, généralement auprès de pharmaciens ou de fournisseurs de matériel médical. Ces articles sont destinés à être consommés ou utilisés en dehors des établissements de santé. Lorsqu'ils sont fournis directement à des patients non hospitalisés par des médecins, des dentistes ou du personnel paramédical ou à des patients hospitalisés par des hôpitaux, etc., ils sont classés, selon le cas, dans les services ambulatoires (06.2) ou dans les services hospitaliers (06.3).",
+"06.1.1",Produits pharmaceutiques (ND),"- Préparations pharmaceutiques, médicaments, spécialités pharmaceutiques, sérums et vaccins, vitamines et oligo-éléments, huile de foie de morue et de flétan, contraceptifs oraux.
+Sont exclus : produits vétérinaires (09.3.4); articles d'hygiène corporelle tels que les savons médicinaux (12.1.3).",
+"06.1.2",Produits médicaux divers (ND),"- Thermomètres médicaux, pansements adhésifs et non adhésifs, seringues hypodermiques, trousses de premier secours, bouillottes et poches de glace, bonneterie médicale (bas à varices, genouillères, etc.), tests de grossesse, préservatifs et autres contraceptifs mécaniques.",
+"06.1.3",Appareils et matériel thérapeutiques (D),"- Lunettes de vue et lentilles de contact, aides auditives, oeil de verre, membres artificiels et autres prothèses diverses, appareils, bandes, chaussures et ceintures orthopédiques, bandages et supports herniaires, minerves, matériel de massage médical et lampes thérapeutiques, fauteuils roulants et voitures d'invalide motorisés ou non, lits ?spéciaux?, béquilles, appareils électroniques et autres servant à surveiller la tension artérielle, etc.;
+- Réparation de ces articles.
+Sont inclus : prothèses dentaires (mais non les frais de pose).
+Sont exclus : location de matériel thérapeutique (06.2.3); lunettes, ceintures et bandes de protection liées à la pratique d'un sport (09.3.2); lunettes de soleil non correctives (12.3.2).",
+"06.2",Services ambulatoires,"Ce groupe comprend les services médicaux, dentaires et paramédicaux fournis directement aux patients non hospitalisés par les médecins, les dentistes, les auxiliaires médicaux et les membres des professions paramédicales. Ces services peuvent être assurés à domicile, chez le médecin, dans un cabinet médical, dans un dispensaire ou dans les services de consultation externe des hôpitaux et autres établissements de santé.
+Les services ambulatoires comprennent les médicaments, les prothèses, les appareils et le matériel médicaux et autres produits liés à la santé que les médecins, les dentistes, le personnel paramédical et les auxiliaires médicaux fournissent directement aux patients non hospitalisés.
+Les services médicaux, dentaires et paramédicaux fournis par les hôpitaux et autres établissements de soins à des patients hospitalisés sont classés dans les services hospitaliers (06.3).",
+"06.2.1",Services médicaux (S),"- Consultations de médecins généralistes ou spécialistes.
+Sont inclus : services d'orthodontiste.
+Sont exclus : services de laboratoires d'analyses médicales et de centres de radiologie (06.2.3); services des praticiens de la médecine traditionnelle (06.2.3).",
+"06.2.2",Services dentaires (S),"- Services de dentistes, spécialistes de l'hygiène buccale et autres auxiliaires dentaires.
+Sont inclus : frais de pose des prothèses dentaires.
+Sont exclus : prothèses dentaires (06.1.3); services d'orthodontiste (06.2.1); services de laboratoires d'analyses médicales et de centres de radiologie (06.2.3).",
+"06.2.3",Services paramédicaux (S),"- Services des laboratoires d'analyses médicales et des centres de radiologie;
+- Services d'infirmiers et de sages-femmes indépendants;
+- Services d'acupuncteurs, de chiropracteurs et d'ostéopathes, d'optométristes, de physiothérapeutes, d'orthophonistes, etc., indépendants;
+- Kinésithérapie;
+- Cures thermales ou thalassothérapie ambulatoires (autres que services fournis par les hôpitaux;
+- Services d'ambulance (autres que ceux fournis par les hôpitaux);
+- Location de matériel thérapeutique.
+Sont inclus : services des praticiens de la médecine traditionnelle.",
+"06.3",Services hospitaliers,"L'hospitalisation s'entend du séjour d'un patient dans un hôpital pour la durée du traitement. Le terme recouvre aussi les services des hôpitaux de jour, l'hospitalisation à domicile et les services des établissements d'accueil pour malades incurables.
+Ce groupe comprend les services des centres hospitaliers et des hôpitaux spécialisés, des centres de soin médicaux et des maternités, les services des maisons de santé, de repos et de convalescence qui assurent essentiellement des soins en régime hospitalier, et les services d'établissements pour personnes âgées dans lesquels le suivi médical constitue un élément essentiel, et des centres de rééducation qui accueillent des patients en régime hospitalier et dont l'objectif est de dispenser un traitement plutôt que d'assurer séjour et assistance.
+Les hôpitaux s'entendent d'établissements où les patients sont soignés sous la supervision directe de médecins. Les centres de soins médicaux, les maternités, les maisons de repos et les maisons de santé traitent également des patients qui séjournent dans l'établissement, mais les soins y sont supervisés et souvent dispensés par du personnel moins qualifié que les médecins.
+Ce groupe ne comprend pas les services d'établissements tels que les infirmeries, cabinets et dispensaires qui assurent uniquement des services ambulatoires (02.2). Il ne comprend pas non plus les maisons de retraite, les établissements pour personnes handicapées et les centres de rééducation assurant essentiellement séjour et assistance (05.1).",
+"06.3.0",Services hospitaliers (S),"Fourniture des services suivants aux patients hospitalisés :
+- Services de base : administration; hébergement, restauration; surveillance et soins assurés par du personnel non spécialisé (aides-soignants); premiers soins et réanimation; transport par ambulance; distribution de médicaments et autres produits pharmaceutiques; fourniture d'appareils et de matériel thérapeutiques;
+- Services médicaux : services de médecins généralistes et spécialistes, de chirurgiens et de dentistes; analyses médicales et radiologie; services paramédicaux (services d'infirmiers, de sages-femmes, de chiropracteurs, d'optométristes, de physiothérapeutes, d'orthophonistes, etc.).",
+"07",Transports,,
+"07.1",Achat de véhicules,"Les achats de véhicules de plaisance (autocaravanes, caravanes, remorques, avions et bateaux, etc.) entrent dans la rubrique 09.2.1.",
+"07.1.1",Voitures automobiles (D),"- Voitures automobiles de tourisme (y compris les breaks, monospaces, etc.) à deux ou quatre roues motrices.
+Sont exclus : voitures d'invalides (06.1.3); autocaravanes (09.2.1); voiturettes de golf (09.2.1).",
+"07.1.2",Motocycles (D),"- Motocycles de tous types, scooters et cyclomoteurs.
+Sont inclus : side-cars; motoneiges.
+Sont exclus : voitures d'invalide (06.1.3); voiturettes de golf (09.2.1).",
+"07.1.3",Bicyclettes (D),"- Bicyclettes et tricycles en tous genres.
+Sont inclus : cyclopousses.
+Sont exclus : cycles jouets (09.3.1).",
+"07.1.4",Véhicules à traction animale,"- Véhicules à traction animale.
+Sont inclus : animaux tirant le véhicule et matériel connexe (jougs, colliers, harnais, brides, guides, etc.).
+Sont exclus : chevaux et poneys, voitures hippomobiles et matériel connexe à usage récréatif (09.2.1).",
+"07.2",Dépenses d'utilisation des véhicules,"Les pièces de rechange, accessoires ou lubrifiants que les ménages achètent dans l'intention d'effectuer eux-mêmes des travaux d'entretien et de réparation, ou toute autre intervention, sont à classer, selon le cas, dans les rubriques 07.2.1 ou 07.2.2. Lorsque les ménages paient une entreprise pour assurer l'entretien, la réparation ou la pose de ces articles, la valeur totale du service (coût des pièces compris) est à inclure dans la rubrique 07.2.3.",
+"07.2.1",Pièces de rechange et accessoires pour véhicules de tourisme (SD),"- Pneus (neufs, d'occasion ou rechapés), chambres à air, bougies d'allumage, amortisseurs, filtres, pompes et autres pièces de rechange ou accessoires pour véhicule particulier.
+Sont inclus : extincteurs pour véhicules; produits expressément destinés au nettoyage et à l'entretien de véhicules (peintures, produits pour nettoyer les chromes, matériaux d'étanchéité et produits d'entretien de la carrosserie; housses pour voitures, motocycles, etc.).
+Sont exclus : casques de motocyclistes et de cyclistes (03.1.3); produits non spécifiquement destinés au nettoyage et à l'entretien de véhicules (eau distillée, éponges, peaux de chamois, détergents, etc.) (05.6.1); frais de pose des pièces de rechange et des accessoires et frais de peinture, de lavage et de polissage de la carrosserie (07.2.3); radiotéléphones (08.2.0); autoradios (09.1.1); sièges-autos pour bébés (12.3.2).",
+"07.2.2",Carburants et lubrifiants pour véhicules de tourisme (ND),"- Essence et autres carburants (gazole, gaz de pétrole liquéfié, alcool et mélanges pour moteur à deux temps, etc.);
+- Lubrifiants, liquides de frein et d'embrayage, liquides de refroidissement et additifs.
+Sont inclus : carburant nécessaire au gros outillage et au matériel visés à la rubrique 05.5.1 et aux véhicules de plaisance visés à la rubrique 09.2.1.
+Sont exclus : frais de vidange et de graissage (07.2.3).",
+"07.2.3",Entretien et réparation de véhicules particuliers (S),"- Services liés à l'entretien et à la réparation de véhicules particuliers (pose de pièces de rechange et d'accessoires, équilibrage des roues, inspection technique, dépannage, vidange, graissage et lavage.
+Sont inclus : valeur totale du service (c'est-à-dire le coût de la main-d'oeuvre et des).
+Sont exclus : pièces de rechange, accessoires ou lubrifiants que les ménages achètent séparément dans l'intention d'effectuer eux-mêmes les travaux d'entretien ou de réparation (07.2.1 ou 07.2.2); contrôle technique automobile (07.2.4).",
+"07.2.4",Services divers liés aux véhicules particuliers (S),"- Location de garages ou de places de stationnement non liés au logement;
+- Péages (ponts, tunnels, bacs, autoroutes) et parcmètres;
+- Leçons de conduite, examen du permis de conduire et permis de conduire;
+- Contrôle technique automobile;
+- Location de voiture sans chauffeur.
+Sont exclus : location de voiture avec chauffeur (07.3.2); frais d'assurance de véhicule de tourisme (12.5.4).",
+"07.3",Services de transport,"Les services entrant dans cette catégorie sont généralement classés par mode de transport. Les achats de titres de transport couvrant au moins deux modes de transport (autobus et métro ou train et bac, par exemple) sont à inclure dans la rubrique 07.3.5 lorsqu'il n'est pas possible d'établir la part revenant à chaque mode dans le coût total du billet.
+Les dépenses ayant trait à des repas, collations, boissons ou rafraîchissements et les frais d'hébergement entrent dans cette catégorie s'ils sont compris dans le billet et non facturés séparément. Sinon, ils doivent être classés à la division 11.
+Les services de transport scolaire sont inclus, mais les services d'ambulance sont exclus (06.2.3).",
+"07.3.1",Transport ferroviaire de passagers (S),"- Transport de personnes, voyageant seule ou en groupe, et de bagages par train, tramway et métro.
+Sont inclus : transport de véhicules de tourisme.
+Sont exclus : transport en funiculaire (07.3.6).",
+"07.3.2",Transport routier de passagers (S),"- Transport de personnes, voyageant seule ou en groupe, et de bagages par autobus, autocar, taxi ou voiture de louage avec chauffeur.",
+"07.3.3",Transport aérien de passagers (S),"- Transport de personnes, voyageant seule ou en groupe, et de bagages par avion ou hélicoptère.",
+"07.3.4",Transport maritime et fluvial de passagers (S),"- Transport de personnes, voyageant seule ou en groupe, et de bagages par navire, bateau, bac, hydroglisseur et hydroptère.
+Sont inclus : transport de véhicules de tourisme.",
+"07.3.5",Transport combiné de passagers (S),"- Transport de personnes, voyageant seule ou en groupe, et de bagages par au moins deux modes de transport, lorsqu'il n'est pas possible d'établir la part revenant à chaque mode de transport.
+Sont inclus : transport de véhicules de tourisme.
+Sont exclus : forfaits touristiques (09.6.0).",
+"07.3.6",Services de transport divers (S),"- Transport par funiculaire, téléphérique et télésiège;
+- Services de déménagement et de garde-meuble; 
+- Services de porteur, de consigne et d'expédition de bagages;
+- Commissions d'agents de voyage, lorsqu'elles sont facturées séparément.
+Sont exclus : transport en téléphérique et télésiège dans les stations de ski et les centres de vacances (09.4.1).",
+"08",Communications,,
+"08.1",Services postaux,,
+"08.1.0",Services postaux (S),"- Frais d'expédition de lettres, cartes postales et colis;
+- Expédition de lettres et colis personnels.
+Sont inclus : l'achat de timbres postaux non oblitérés, cartes postales et aérogrammes préaffranchis.
+Sont exclus : l'achat de timbres oblitérés (09.3.1); les services financiers des bureaux de poste (12.6.2).",
+"08.2",Matériel de téléphonie et de télécopie,,
+"08.2.0",Matériel de téléphonie et de télécopie (D),"- Achat de postes téléphoniques, radiotéléphones, télécopieurs, répondeurs et hauts-parleurs téléphoniques;
+- Frais de réparation du matériel de téléphonie et de télécopie.
+Sont exclus : les systèmes de télécopie et de messagerie vocale installés sur ordinateur individuel (09.1.3).",
+"08.3",Services de téléphonie et de télécopie,,
+"08.3.0",Services de téléphonie et de télécopie (S),"- Frais d'installation et d'abonnement relatifs au matériel téléphonique personnel;
+- Communications téléphoniques à partir d'un poste privé ou public (cabine publique, cabine de bureau de poste, etc.); communications téléphoniques à partir d'hôtels, de cafés, de restaurants, etc.;
+- Services de télégraphie, télex et télécopie;
+- Services de renseignement par téléphone ou minitel; connexions à Internet;
+- Location de postes téléphoniques, télécopieurs, répondeurs et hauts-parleurs téléphoniques.
+Sont inclus : les services de radiotéléphonie et de radiotélégraphie et les services radiotélex.",
+"09",Loisirs et culture,,
+"09.1","Matériel audiovisuel, photographique et de traitement de l'information",,
+"09.1.1","Matériel de réception, d'enregistrement et de reproduction du son et de l'image (D)","- Postes de télévision, magnétoscopes, antennes de télévision de tous types;
+- Postes de radio, autoradios, radios-réveils, émetteurs-récepteurs radiophoniques et émetteurs-récepteurs pour radioamateurs;
+- Électrophones, lecteurs de bandes et de cassettes, magnétophones à bandes et à cassettes, lecteurs de disques compacts, baladeurs, chaînes stéréo et éléments composant ces appareils (platines de tourne-disques, syntoniseurs, amplificateurs, hauts-parleurs, etc.), microphones et écouteurs.
+Sont exclus : les caméras vidéo, les caméscopes et les caméras à prise de son intégrée (09.1.2).",
+"09.1.2",Matériel photographique et cinématographique et appareils optiques (D),"- Appareils photographiques, caméras cinématographiques et caméras à prise de son intégrée, caméras vidéo et caméscopes, projecteurs de films et de diapositives, agrandisseurs et matériel de développement, accessoires (écrans, visionneuses, lentilles, flashes, filtres, posemètres, etc.);
+- Jumelles, microscopes, télescopes et boussoles.",
+"09.1.3",Matériel de traitement de l'information (D),"- Ordinateurs individuels et écrans de visualisation, imprimantes, et accessoires connexes divers; logiciels et progiciels (systèmes d'exploitation, applications, langages, etc.);
+- Calculatrices, y compris les calculettes;
+- Machines à écrire et machines de traitement de texte.
+Sont inclus : les systèmes de télécopie et de messagerie vocale installés sur ordinateur individuel.
+Sont exclus : les disquettes et CD-rom préenregistrés servant de support à des livres et des encyclopédies numérisés, des méthodes d'apprentissage des langues, des présentations multimédias (09.1.4); les logiciels de jeu vidéo (09.3.1); les consoles de jeu vidéo se branchant sur un poste de télévision (09.3.1); les rubans encreurs pour machines à écrire (09.5.4); les cartouches d'encre pour photocopieuses et imprimantes (09.5.4); les règles à calcul (09.5.4).",
+"09.1.4",Supports d'enregistrement (SD),"- Disques et disques compacts;
+- Supports préenregistrés : bandes et cassettes audio, cassettes vidéo, disquettes et CD-ROM pour magnétophones à bandes et à cassettes, magnétoscopes et ordinateurs individuels;
+- Supports vierges : bandes et cassettes audio, cassettes vidéo, disquettes et CD-ROM pour magnétophones à bandes et à cassettes, magnétoscopes et ordinateurs individuels;
+- Pellicules, chargeurs et disques photographiques et cinématographiques (vierges);
+Sont inclus : les bandes et CD-ROM préenregistrés contenant des romans, des pièces de théâtre, de la poésie; les disquettes et CD-rom préenregistrés servant de support à des livres et des encyclopédies numérisés, des méthodes d'apprentissage des langues, des présentations multimédias; les fournitures photographiques telles que papier et lampes flashes; les pellicules vierges dont les frais de développement sont compris dans le prix d'achat sans être isolés.
+Sont exclus : les logiciels et progiciels (systèmes d'exploitation, applications, langages, etc.); les piles (05.5.2); les logiciels (09.1.3); les logiciels de jeu, les cassettes et CD-ROM de jeux vidéo (09.3.1); le développement des pellicules et le tirage des photographies (09.4.2).",
+"09.1.5","Réparation de matériel audiovisuel, photographique et de traitement de l'information (S)","- Réparation de matériel audiovisuel, photographique et de traitement de l'information.
+Sont inclus : la valeur totale du service (c'est-à-dire le coût de la main-d'oeuvre et des pièces).
+Sont exclus : le matériel acheté par des ménages ayant l'intention d'effectuer eux-mêmes des réparations (09.1.1), (09.1.2) ou (09.1.3).",
+"09.2",Autres biens durables à fonction récréative et culturelle,,
+"09.2.1",Biens durables pour loisirs de plein air (D),"- Autocaravanes, caravanes et remorques;
+- Avions, U.L.M., planeurs, deltaplanes et montgolfières;
+- Bateaux, moteurs hors-bord, voiles, gréement et superstructures;
+- Chevaux et poneys, véhicules hippomobiles et accessoires connexes (harnais, brides, rênes, selles, etc.);
+- Gros matériel récréatif et sportif tels que les canoës, kayaks, et planches à voile, le matériel de plongée et les voiturettes de golf.
+Sont inclus : l'accastillage des bateaux et l'équipement des autocaravanes, caravanes, etc.
+Sont exclus : les chevaux et poneys, les véhicules hippomobiles et les accessoires connexes à usage privé (07.1.4), les canots et radeaux pneumatiques, ainsi que les piscines gonflables pour enfants ou pour la plage (09.3.2).",
+"09.2.2",Instruments de musique et biens durables destinés aux loisirs d'intérieur (D),"- Instruments de musique de toutes tailles, y compris les instruments de musique électriques, tels que les pianos, orgues, violons, guitares, batteries, trompettes, clarinettes, flûtes, flûtes à bec, harmonicas, etc.;
+- Tables de billard, tables de ping-pong, billards électriques, machines à jeux, etc.
+Sont exclus : les jouets (09.3.1).",
+"09.2.3",Entretien et réparation des autres biens durables à fonction récréative et culturelle (S),"- Entretien et réparation d'autres biens durables à fonction récréative et culturelle.
+Sont inclus : la valeur totale du service (c'est-à-dire le coût de la main-d'oeuvre et des pièces); le remisage des bateaux, autocaravanes, caravanes, etc., en hiver; les services de hangar pour les avions privés; le stationnement de bateaux en port de plaisance; les services vétérinaires ou autres (pension, services de maréchal-ferrant) pour chevaux et poneys achetés pour l'équitation.
+Sont exclus : les carburants destinés aux véhicules de plaisance (07.2.2); les fournitures achetées par des ménages ayant l'intention d'effectuer eux-mêmes l'entretien ou les réparations (09.2.1), (09.2.2); les services vétérinaires et autres pour animaux de compagnie (09.3.5).",
+"09.3","Autres articles et matériel de loisirs, de jardinage et animaux de compagnie",,
+"09.3.1","Jeux, jouets et passe-temps (SD)","- Jeux de cartes, jeux de société, jeux d'échecs, etc.;
+- Jouets de tous types, y compris les poupées, les jouets en matière souple, les voitures, trains, cycles jouets, les jeux de construction, les puzzles, la pâte à modeler, les jeux électroniques, les masques, déguisements, farces et attrapes, les bibelots, les feux d'artifice et fusées, les guirlandes et décorations pour arbres de Noël;
+- Articles de philatélie (timbres oblitérés, albums de timbres, etc.), autres articles de collection (pièces, médailles, minéraux, spécimens zoologiques et botaniques, etc.) et autres instruments et articles de loisirs n.c.a.
+Sont inclus : les logiciels de jeu vidéo; les consoles de jeu vidéo se branchant sur un poste de télévision; les cassettes et CD-ROM de jeux vidéo.
+Sont exclus : les articles de collection entrant dans la catégorie des oeuvres d'art ou des antiquités (05.1.1); les timbres postaux non oblitérés (08.1.0); les arbres de Noël (09.3.3); les albums de découpages pour enfants (09.5.1).",
+"09.3.2","Articles de sport, matériel de camping et matériel pour activités de plein air (SD)","- Articles de sport et matériel pour la gymnastique et l'éducation physique tels que les balles, volants, filets, raquettes, battes, skis, clubs de golf, fleurets, sabres, perches, poids, disques, javelots, haltères, extenseurs pour pectoraux et autres articles pour la musculation;
+- Parachutes et équipements connexes;
+- Armes à feu et munitions pour la chasse, le sport et l'autodéfense;
+- Cannes à pêche et autres articles de pêche;
+- Articles de plage et matériel pour jeux de plein air tels que boules, croquet, frisbee, volley-ball, canots et radeaux pneumatiques et piscines gonflables;
+- Matériel de camping tel que les tentes et accessoires connexes, sacs de couchage, sacs à dos, matelas pneumatiques et gonfleurs, réchauds de camping et barbecues;
+- Réparation de ces articles.
+Sont inclus : les chaussures conçues spécialement en vue de la pratique d'une activité sportive (chaussures de ski, chaussures de football, chaussures de golf et autres chaussures munies de patins à glace ou à roulettes, de pointes, de crampons, etc.); casques de protection pour la pratique de sports; autres articles de protection pour la pratique de sports tels que les gilets de sauvetage, gants de boxe, vêtements matelassés, protège-tibias, lunettes, ceintures, bandages, etc.
+Sont exclus : les casques de motocyclistes et de cyclistes (03.1.3); le mobilier de camping et de jardin (05.1.1).",
+"09.3.3","Produits pour jardins, plantes et fleurs (ND)","- Fleurs et feuillages naturels ou artificiels, plantes, arbustes et arbrisseaux, bulbes, tubercules, graines, gazon en plaques, engrais, composts, tourbes, terreaux et terres horticoles, préparations horticoles, pots et bacs.
+Sont inclus : les arbres de Noël naturels et artificiels; les frais de livraison des fleurs et plantes.
+Sont exclus : les gants de jardinage (03.1.3); les services de jardinage (04.4.4) ou (05.6.2); le matériel de jardinage (05.5.1); les outils de jardinage (05.5.2); les insecticides et pesticides de ménage (05.6.1).",
+"09.3.4",Animaux de compagnie et articles connexes (ND),"- Animaux de compagnie, aliments et produits vétérinaires et de toilettage pour animaux de compagnie, colliers, laisses, niches, cages à oiseaux, aquariums, litière pour chats, etc.
+Sont exclus : les chevaux et poneys (07.1.4) ou (09.2.1); les services vétérinaires (09.3.5).",
+"09.3.5",Services vétérinaires et autres services pour animaux de compagnie (S),"- Services vétérinaires et autres services pour animaux de compagnie tels que le toilettage, la garde, le tatouage et le dressage.
+Sont exclus : les services vétérinaires et autres (pension, services de maréchal-ferrant...) pour les chevaux et poneys achetés pour l'équitation (09.2.3).",
+"09.4",Services récréatifs et culturels,,
+"09.4.1",Services récréatifs et sportifs (S),"Services fournis par :
+- Stades, hippodromes, circuits de course auto-moto, vélodromes, etc.;
+- Patinoires, piscines, terrains de golf, gymnases et autres centres de culture physique, courts de tennis, terrains de squash et salles de bowling;
+- Fêtes foraines et parcs d'attraction;
+- Manèges, balançoires et autres équipements de terrains de jeux pour enfants;
+- Billards électriques et autres jeux destinés aux adultes, à l'exception des jeux de hasard;
+- Pistes de ski, remontées mécaniques et installations analogues;
+- Location de matériel et accessoires de sport et de loisirs, tels que les avions, les bateaux, les chevaux, les skis et le matériel de camping;
+- Cours particuliers ou collectifs de bridge, échecs, aérobic, danse, musique, patinage, ski, natation et autre, organisés dans un cadre extrascolaire;
+- Services de guides de montagne, guides touristiques, etc.;
+- Assistance pour la navigation pour la navigation de plaisance.
+Sont inclus : la location de chaussures conçues spécialement en vue de la pratique d'une activité sportive (chaussures de ski, chaussures de football, chaussures de golf et autres chaussures munies de patins à glace ou à roulettes, de pointes, de crampons, etc.).
+Sont exclus : le transport par téléphérique ou télésiège hors des stations de ski ou des centres de villégiature (07.3.6).",
+"09.4.2",Services culturels (S),"Services fournis par les :
+- Salles de cinéma, théâtres, opéras, salles de concert, music-halls, cirques, spectacles de sons et lumière;
+- Musées, bibliothèques, galeries d'art, salles d'exposition;
+- Monuments historiques, parcs nationaux, jardins zoologiques et botaniques, aquariums;
+- Location de matériel et accessoires à fonction culturelle, tels que les postes de télévision, cassettes vidéo, etc.;
+- Télévision et radio, en particulier les redevances et abonnements;
+- Services de photographes, tels que le développement de pellicules, le tirage et l'agrandissement de photographies, la réalisation de portraits et de photographies de mariage, etc.
+Sont inclus : les services des musiciens, clowns et artistes se produisant dans des réceptions privées.",
+"09.4.3",Jeux de hasard (S),"- Rémunération des services des preneurs de paris, totalisateurs, casinos et autres établissements de jeu, machines à jeux, salles de bingo, loteries par grattage et tirage, tombolas et sweepstakes, etc. (par rémunération d'un service, on entend la différence entre le prix d'achat des billets de loterie ou de placement des paris et le montant versé aux gagnants).",
+"09.5","Journaux, livres et articles de papeterie",,
+"09.5.1",Livres (SD),"- Livres, y compris les atlas, dictionnaires, encyclopédies, manuels, guides et partitions.
+Sont inclus : les albums de découpages et albums pour enfants; la reliure d'ouvrages.
+Sont exclus : les bandes et CD-ROM préenregistrés contenant des romans, des pièces de théâtre, de la poésie (09.1.4); les disquettes et CD-rom préenregistrés servant de support à des livres et des encyclopédies numérisés, des méthodes d'apprentissage des langues, des présentations multimédias (09.1.4); les albums de timbres (09.3.1).",
+"09.5.2",Journaux et publications périodiques (ND),"- Journaux, revues et autres publications périodiques.",
+"09.5.3",Imprimés divers (ND),"- Catalogues et imprimés publicitaires;
+- Affiches, cartes postales, illustrées ou non; calendriers;
+- Cartes de voeux et cartes de visite, faire-part et autres cartes préimprimées;
+- Cartes et globes.
+Sont exclus : les cartes postales et aérogrammes préaffranchis (08.1.0); les albums de timbres (09.3.1).",
+"09.5.4",Papeterie et matériel de dessin (ND),"- Blocs-notes, enveloppes, livres comptables, carnets de notes, agendas, etc.;
+- Stylos, crayons, stylos à plume, stylos et crayons à bille, stylos à feutre, encres, gommes, taille-crayons, etc.;
+- Stencils, papier carbone, rubans pour machine à écrire, tampons encreurs, liquides correcteurs, etc.;
+- Perforateurs à papier, massicots, ciseaux à papier, colles à papier et adhésifs, agrafeuses et agrafes, trombones, punaises, etc.;
+- Matériel de dessin et de peinture tels que toiles, papier, carton, peintures, crayons à dessin, pastels et pinceaux.
+Sont inclus : les cartouches d'encre pour photocopieuses et imprimantes; les matériels pédagogiques (tels que les cahiers, règles à calcul, instruments de géométrie, ardoises, craies et plumiers).
+Sont exclus : les calculettes (09.1.3).",
+"09.6",Forfaits touristiques,,
+"09.6.0",Forfaits touristiques (S),"- Tous les forfaits ou circuits touristiques composites associant le transport, la nourriture, l'hébergement, la mise à disposition de guides, etc.
+Sont inclus : les excursions d'une demi-journée et d'une journée; les pèlerinages.",
+"10",Enseignement,"Cette division ne comprend que les services d'enseignement. Elle ne comprend pas les matériels pédagogiques tels que les livres (09.5.1) et la papeterie (09.5.4), ni les services annexes tels que les services de santé (06), de transport (07.3), de restauration (11.1.2) et d'hébergement (11.2.0).
+Elle comprend le téléenseignement, notamment par radio et télévision.
+Les services d'enseignement sont organisés selon les catégories définies dans la Classification internationale type de l'éducation établie en 1997 (CITE-97) par l'Organisation des Nations Unies pour l'éducation, la science et la culture (UNESCO).",
+"10.1",Enseignement préélémentaire et primaire,,
+"10.1.0",Enseignement préélémentaire et primaire (S),"
+- Niveaux 0 et 1 de la CITE-97 : enseignement préélémentaire et primaire.
+Sont inclus : les programmes d'alphabétisation destinés aux élèves trop âgés pour s'inscrire à l'école primaire.",
+"10.2",Enseignement secondaire,,
+"10.2.0",Enseignement secondaire (S),"
+- Niveaux 2 et 3 de la CITE-97 : premier et deuxième cycles de l'enseignement secondaire.
+Sont inclus : l'enseignement secondaire extrascolaire dispensé à des adultes et à des jeunes.",
+"10.3",Enseignement postsecondaire non supérieur,,
+"10.3.0",Enseignement postsecondaire non supérieur (S),"- Niveau 4 de la CITE-97 : enseignement postsecondaire non supérieur.
+Sont inclus : l'enseignement extrascolaire postsecondaire non supérieur dispensé à des adultes et à des jeunes.",
+"10.4",Enseignement supérieur,,
+"10.4.0",Enseignement supérieur (S),- Niveaux 5 et 6 de la CITE-97 : premier et deuxième cycles de l'enseignement supérieur.,
+"10.5",Enseignement non défini par niveau,,
+"10.5.0",Enseignement non défini par niveau (S),"- Programmes d'enseignement, généralement destinés à des adultes, n'exigeant pas des candidats qu'ils aient suivi un enseignement particulier, notamment programmes de formation professionnelle et de culture générale.
+Sont exclus : les leçons de conduite (07.2.4); les cours de formation à vocation récréative, tels que les cours de sport ou de bridge (09.4.1).",
+"11",Restaurants et hôtels,,
+"11.1",Services de restauration,,
+"11.1.1","Restaurants, cafés et établissements similaires (S)","- Services de restauration (repas, collations, boissons et rafraîchissements) fournis par les restaurants, cafés, buffets, bars, salons de thé, etc., y compris :
+- Dans les lieux de loisirs, de culture, de sport ou de divertissement : théâtres, cinémas, stades, piscines, complexes sportifs, musées, galeries d'art, boîtes de nuit et clubs de danse, etc.;
+- Dans les transports publics (bus, trains, bateaux, avions, etc.) lorsque ces services sont facturés à part;
+- La vente de produits alimentaires et boissons vendus pour consommation immédiate par les kiosques, ainsi que par les vendeurs ambulants et assimilés, y compris de produits alimentaires et les boissons vendus pour consommation immédiate par les distributeurs automatiques;
+- La vente de plats cuisinés à emporter vendus par les restaurants;
+- La vente de plats cuisinés vendus par les traiteurs, que ces plats soient emportés par le consommateur ou livrés à domicile.
+Sont inclus : les pourboires.
+Sont exclus : l'achat de tabac (02.2.0); les communications téléphoniques (08.3.0).",
+"11.1.2",Cantines (S),"- Services de restauration des cantines de chantier, d'entreprise et d'établissement scolaire, universitaire et autre.
+Sont inclus : les réfectoires universitaires, les mess et les carrés d'officiers.
+Sont exclus : les services de restauration fournis aux patients hospitalisés.",
+"11.2",Services d'hébergement,,
+"11.2.0",Services d'hébergement (S),"- Hôtels, pensions de famille, motels, auberges et chambres d'hôtes;
+- Villages et centres de vacances, terrains de camping pour tentes et caravanes, auberges de jeunesse et refuges de montagne;
+- Pensionnats, résidences universitaires et autres;
+- Transports publics (trains, bateaux, etc.) lorsque la location des lits ou couchettes est facturée à part;
+- Foyers pour jeunes travailleurs ou immigrés.
+Sont inclus : les pourboires, les chasseurs d'hôtel.
+Sont exclus : les versements effectués par les ménages qui occupent une chambre dans un hôtel ou une pension de famille à titre de résidence principale (04.1.1); les loyers versés par des ménages qui louent une résidence secondaire pendant des vacances (04.1.2); les communications téléphoniques (08.3.0); les services de restauration fournis par les établissements susmentionnés à l'exception du petit déjeuner ou d'autres repas dont le prix est compris dans le prix du logement (11.1.1); l'hébergement dans les orphelinats, foyers pour personnes handicapées ou inadaptées (12.4.0).",
+"12",Biens et services divers,,
+"12.1",Soins corporels,,
+"12.1.1",Salons de coiffure et instituts de soins et de beauté (S),"- Services des salons de coiffure, barbiers, instituts de beauté, manucures, pédicures, bains turcs, saunas, solariums, massages à fins non thérapeutiques, etc.
+Sont inclus : les soins corporels, l'épilation et les soins analogues.
+Sont exclus : les cures thermales (06.2.3) ou (06.3.0); les services des centres de culture physique (09.4.1).",
+"12.1.2",Appareils électriques pour soins corporels (SD),"
+- Rasoirs et tondeuses électriques, sèche-cheveux à main et casques, fers à friser et peignes soufflants, lampes à rayons ultraviolets, vibromasseurs, brosses à dents électriques et autres appareils électriques pour l'hygiène dentaire, etc.;
+- Réparation de ces articles.",
+"12.1.3","Autres appareils, articles et produits pour soins corporels (ND)","- Appareils non électriques : rasoirs, tondeuses, lames de rasoir et de tondeuse, ciseaux, limes à ongles, peignes, blaireaux, brosses à cheveux, brosses à dents, brosses à ongles, épingles à cheveux, bigoudis, pèse-personnes, pèse-bébés, etc.;
+- Articles d'hygiène corporelle : savon de toilette, savon médicinal, lait et huile de toilette, savon à barbe, crème et mousse à raser, pâte dentifrice, etc.;
+- Produits de beauté : rouge à lèvres, vernis à ongles, produits de maquillage et démaquillants (poudres, pinceaux à poudre, houppettes), laques et lotions capillaires, lotions avant et après-rasage, produits solaires, produits épilatoires, parfums et eaux de toilette, déodorants corporels, produits pour le bain, etc.;
+- Autres produits : papier de toilette, mouchoirs et serviettes en papier, serviettes hygiéniques, ouate, coton, cotons de tige, couches pour bébés, éponges de toilette, etc.
+Sont exclus : les mouchoirs en tissu (03.1.3).",
+"12.2",Prostitution,,
+"12.2.0",Prostitution (S),- Services fournis par les prostitué(e)s et services analogues.,
+"12.3",Effets personnels n.c.a.,,
+"12.3.1",Articles de bijouterie et horlogerie (D),"- Pierres et métaux précieux et bijoux en pierres et métaux précieux;
+- Bijoux fantaisie, boutons de manchettes et épingles de cravate;
+- Horloges, montres, chronomètres, réveils, réveils de voyage;
+- Réparation de ces articles.
+Sont exclus : les objets décoratifs (05.1.1) ou (05.4.0); les radio-réveils (09.1.1); les pierres et métaux précieux et les bijoux en pierres et métaux précieux acquis principalement pour servir de réserve de valeur (formation de capital).",
+"12.3.2",Autres effets personnels (SD),"- Bagages et autres articles de voyage pour effets personnels : valises, malles, sacs de voyage, mallettes, sacoches, sacs à main, portefeuilles, porte-monnaie, etc.;
+- Articles pour bébés : landaus, poussettes, couffins, relax, lits et sièges auto, porte-bébés frontaux et dorsaux, laisses et harnais, etc.;
+- Articles pour fumeurs : pipes, briquets, étuis à cigarettes, coupe-cigares, etc.;
+- Articles personnels divers : lunettes de soleil, cannes, parapluies et ombrelles, éventails, porte-clefs, etc.;
+- Articles funéraires : cercueils, pierres tombales, urnes funéraires, etc.;
+- Réparation de ces articles.
+Sont inclus : le fluide à briquets; les thermomètres et baromètres muraux.
+Sont exclus : le mobilier pour bébé (05.1.1); les sacs à provision (05.2.0); les biberons (05.4.0).",
+"12.4",Protection sociale,"La protection sociale s'entend ici des services d'aide et de soutien fournis aux personnes suivantes : personnes âgées, handicapés, accidentés du travail ou personnes ayant contracté une maladie professionnelle, survivants, chômeurs, indigents, sans-abri, personnes à faible revenu, autochtones, immigrés, réfugiés, alcooliques et toxicomanes, etc. Cette catégorie recouvre également les services d'aide et de soutien aux familles et aux enfants.",
+"12.4.0",Protection sociale (S),"Cette classe comprend l'accueil avec hébergement, les services d'aide à domicile, les services des centres de jour et les services de réadaptation. Elle recouvre en particulier les montants versés par des ménages à :
+- Des maisons de retraite, résidences pour personnes handicapées, centres de réadaptation assurant un séjour et une assistance et non des soins et une rééducation, écoles pour handicapés dont le but principal est d'aider les élèves à surmonter leur infirmité;
+- Des services visant à faciliter le maintien à domicile des personnes âgées et des handicapés (services d'aide ménagère, de repas, de garderie et centres de vacances);
+- Des nourrices, crèches, garderies et autres établissements d'accueil pour enfants;
+- Des services de conseil, d'orientation, d'arbitrage, de placement en famille d'accueil et d'adoption à l'intention des familles.",
+"12.5",Assurance,"La rémunération du service des assurances est classée selon le type d'assurance, selon qu'il s'agit d'assurances-vie ou d'assurances dommages (assurance habitation, assurance maladie et assurance transports, etc.). S'il est impossible d'en répartir le montant entre les différents risques couverts, on comptabilisera la rémunération du service des assurances multirisques au titre de la couverture du risque principal.
+
+Par rémunération du service, on entend la différence entre, d'une part, le montant des indemnités dues et, d'autre part, le montant des primes acquises et des suppléments de primes.",
+"12.5.1",Assurance-vie (S),"- Rémunération des services d'assurance-vie, d'assurance décès, d'assurance éducation, etc.",
+"12.5.2",Assurance habitation (S),"- Rémunération des services d'assurance versée par les propriétaires-occupants et les locataires pour s'assurer contre les risques que couvrent généralement les polices souscrites par les locataires contre l'incendie, le vol, les dégâts des eaux, etc.
+Sont exclus : la rémunération des services d'assurance versée par les propriétaires-occupants pour s'assurer contre les risques que couvrent généralement les polices souscrites par les bailleurs (consommation intermédiaire).",
+"12.5.3",Assurance maladie (S),- Rémunération des services d'assurance maladie et d'assurance accident.,
+"12.5.4",Assurance transports (S),"- Rémunération des services d'assurance liés à l'utilisation des véhicules de tourisme;
+- Rémunération des services d'assurance voyage et d'assurance bagages.",
+"12.5.5",Autres assurances (S),"- Rémunération des services d'autres assurances telles que l'assurance responsabilité civile contre les blessures ou les dommages causés aux personnes ou à la propriété de tiers.
+Sont exclus : la responsabilité civile ou les dommages causés aux personnes ou à la propriété de tiers du fait de l'utilisation d'un véhicule de tourisme (12.5.4).",
+"12.6",Services financiers n.c.a.,,
+"12.6.1",Coût des services d'intermédiation financière indirectement mesurés (S),- Coût des services d'intermédiation financière indirectement mesurés.,
+"12.6.2",Autres services financiers n.c.a. (S),"- Frais effectivement facturés par les banques, bureaux de poste, caisses d'épargne, bureaux de change et institutions financières analogues;
+- Commissions et rémunération des services des agents de change, conseillers en placement, conseils fiscaux et autres;
+- Frais administratifs prélevés par les fonds de pension et institutions analogues.",
+"12.7",Autres services n.c.a.,,
+"12.7.0",Autres services n.c.a. (S),"- Montants versés à des conseillers juridiques, bureaux de placement, etc.;
+- Montants versés à des services de pompes funèbres et services analogues;
+- Montants versés à des agences immobilières, services de logement, commissaires priseurs, établissements de vente aux enchères et autres établissements de courtage;
+- Frais de photocopie et de reprographie;
+- Frais d'établissement de certificats de naissance, de mariage et de décès et d'autres documents administratifs;
+- Frais de parution d'annonces et publicités dans la presse;
+- Montants versés à des graphologues, astrologues, détectives privés, gardes du corps, agences matrimoniales et conseillers matrimoniaux, écrivains publics et détenteurs de concessions diverses (chaises, toilettes, vestiaires, etc.).",
+"13",Dépenses de consommation individuelle à la charge des institutions sans but lucratif au service des ménages (ISBLSM),,
+"13.1",Logement,"On retrouve cette fonction dans le groupe 01.0 de la COPNI.
+Ce groupe correspond au groupe 04.1 (Dépenses de consommation individuelles des ménages en loyers effectifs) et au groupe 14.1 (Dépenses de consommation individuelle des administrations publiques liées au logement).",
+"13.1.0",Logement (S),- Comme indiqué sous 01.0.0 dans la COPNI. Correspond à (04.1.1) et à (14.1.0).,
+"13.2",Santé,"On retrouve cette fonction dans les groupes 02.1 à 02.6 de la COPNI.
+Ce groupe correspond à la division 06 (Dépenses de consommation individuelle des ménages liées à la santé) et au groupe 14.2 (Dépenses de consommation individuelle des administrations publiques liées à la santé).",
+"13.2.1",Produits pharmaceutiques (ND),- Comme indiqué sous 02.1.1 dans la COPNI. Correspond à (06.1.1) et à (14.2.1).,
+"13.2.2",Produits médicaux divers (ND),- Comme indiqué sous 02.1.2 dans la COPNI. Correspond à (06.1.2) et (14.2.2).,
+"13.2.3",Appareils et matériels thérapeutiques (D),- Comme indiqué sous 02.1.3 dans la COPNI. Correspond à (06.1.3) et (14.2.3).,
+"13.2.4",Services médicaux ambulatoires (S),- Comme indiqué sous 02.2.1 dans la COPNI. Correspond à (06.2.1) et (14.2.4).,
+"13.2.5",Services dentaires ambulatoires (S),- Comme indiqué sous 02.2.2 dans la COPNI. Correspond à (06.2.2) et (14.2.5).,
+"13.2.6",Services paramédicaux ambulatoires (S),- Comme indiqué sous 02.2.3 dans la COPNI. Correspond à (06.2.3) et (14.2.6).,
+"13.2.7",Services hospitaliers (S),- Comme indiqué sous 02.3.0 dans la COPNI. Correspond à (06.3.0) et (14.2.7).,
+"13.2.8",Autres services de santé (S),"- Comme indiqué sous 02.4.0, 02.5.0 et 02.6.0 dans la COPNI.",
+"13.3",Loisirs et culture,"On retrouve cette fonction dans les groupes 03.1 et 03.2 de la COPNI.
+Ce groupe correspond aux groupes 09.4 (Dépenses de consommation individuelle des ménages dans le domaine des loisirs et de la culture) et 14.3 (Dépenses de consommation individuelle des administrations publiques dans le domaine des loisirs et de la culture).",
+"13.3.1",Services récréatifs et sportifs (S),- Comme indiqué sous 03.1.0 dans la COPNI. Correspond à (09.4.1) et (14.3.1).,
+"13.3.2",Services culturels (S),- Comme indiqué sous 03.2.0 dans la COPNI. Correspond à (09.4.2) et (14.3.2).,
+"13.4",Enseignement,"On retrouve cette fonction dans les groupes 04.1 à 04.7 de la COPNI.
+Ce groupe correspond à la division 10 (Dépenses de consommation individuelle des ménages liées à l'Enseignement) et au groupe 14.4 (Dépenses de consommation individuelle des administrations publiques liées à l'enseignement).",
+"13.4.1",Enseignement préélémentaire et primaire (S),- Comme indiqué sous 04.1.0 dans la COPNI. Correspond à (10.1.0) et (14.4.1).,
+"13.4.2",Enseignement secondaire (S),- Comme indiqué sous 04.2.0 dans la COPNI. Correspond à (10.2.0) et (14.4.2).,
+"13.4.3",Enseignement postsecondaire non supérieur (S),- Comme indiqué sous 04.3.0 dans la COPNI. Correspond à (10.3.0) et (14.4.3).,
+"13.4.4",Enseignement supérieur (S),- Comme indiqué sous 04.4.0 dans la COPNI. Correspond à (10.4.0) et (14.4.4).,
+"13.4.5",Enseignement non défini par niveau (S),- Comme indiqué sous 04.5.0 dans la COPNI. Correspond à (10.5.0) et (14.4.5).,
+"13.4.6",Autres services d'enseignement (S),- Comme indiqué sous 04.6.0 et 04.7.0 dans la COPNI.,
+"13.5",Protection sociale,"On retrouve cette fonction dans les groupes 05.1 et 05.2 de la COPNI.
+Ce groupe correspond aux groupes 12.4 (Dépenses de consommation individuelle des ménages liées à la protection sociale) et 14.5 (Dépenses de consommation individuelle des administrations publiques liées à la protection sociale).",
+"13.5.0",Protection sociale (S),- Comme indiqué sous 05.1.0 et 05.2.0 dans la COPNI. Correspond à (12.4.0) et (14.5.0).,
+"13.6",Autres services,"On retrouve ces fonctions dans les groupes 06.0, 07.1, 07.2, 07.3, 08.1, 08.2, 09.1 et 09.2 de la COPNI.
+Ce groupe n'a pas d'équivalent dans les divisions 01 à 12 (Dépenses de consommation individuelle des ménages) ni dans la division 14 (Dépenses de consommation individuelle des administrations publiques).",
+"13.6.1",Cultes (S),- Comme indiqué sous 06.0.0 dans la COPNI.,
+"13.6.2",Partis politiques et organisations professionnelles et syndicales (S),"- Comme indiqué sous 07.1.0, 07.2.0 et 07.3.0 dans la COPNI.",
+"13.6.3",Protection de l'environnement (S),- Comme indiqué sous 08.1.0 et 08.2.0 dans la COPNI.,
+"13.6.4",Services n.c.a. (S),- Comme indiqué sous 09.1.0 et 09.2.0 dans la COPNI.,
+"14",Dépenses de consommation individuelle à la charge des administrations publiques,,
+"14.1",Logement,"On retrouve cette fonction dans le groupe 10.6 de la COFOG.
+Ce groupe correspond au groupe 04.1 (Dépenses de consommation individuelles des ménages en loyers effectifs) et au groupe 13.1 (Dépenses de consommation individuelle des ISBLSM liées au logement).",
+"14.1.0",Logement (S),- Comme indiqué sous 10.6.0 dans la COFOG. Correspond à (04.1.1) et (13.1.0).,
+"14.2",Santé,"On retrouve cette fonction dans les groupes 07.1 à 07.4 de la COFOG.
+Ce groupe correspond à la division 06 (Dépenses de consommation individuelle des ménages liées à la santé) et au groupe 13.2 (Dépenses de consommation individuelle des ISBLSM liées à la santé).",
+"14.2.1",Produits pharmaceutiques (ND),- Comme indiqué sous 07.1.1 dans la COFOG. Correspond à (06.1.1) et à (13.2.1).,
+"14.2.2",Produits médicaux divers (ND),- Comme indiqué sous 07.1.2 dans la COFOG. Correspond à (06.1.2) et (13.2.2).,
+"14.2.3",Appareils et matériels thérapeutiques (D),- Comme indiqué sous 07.1.3 dans la COFOG. Correspond à (06.1.3) et (13.2.3).,
+"14.2.4",Services médicaux ambulatoires (S),- Comme indiqué sous 07.2.1 et 07.2.2 dans la COFOG. Correspond à (06.2.1) et (13.2.4).,
+"14.2.5",Services dentaires ambulatoires (S),- Comme indiqué sous 07.2.3 dans la COFOG. Correspond à (06.2.2) et (13.2.5).,
+"14.2.6",Services paramédicaux ambulatoires (S),- Comme indiqué sous 07.2.4 dans la COFOG. Correspond à (06.2.3) et (13.2.6).,
+"14.2.7",Services hospitaliers (S),"- Comme indiqué sous 07.3.1, 07.3.2, 07.3.3 et 07.3.4 dans la COFOG. Correspond à (06.3.0) et (13.2.6).",
+"14.2.8",Services de santé publique (S),- Comme indiqué sous 07.4.0 dans la COFOG.,
+"14.3",Loisirs et culture,"On retrouve cette fonction dans les groupes 08.1 et 08.2 de la COFOG.
+Ce groupe correspond au groupe 09.4 (Dépenses de consommation individuelle des ménages dans le domaine des loisirs et de la culture) et au groupe 13.3 (Dépenses de consommation individuelle des ISBLSM dans le domaine des loisirs et de la culture).",
+"14.3.1",Services récréatifs et sportifs (S),- Comme indiqué sous 08.1.0 dans la COFOG. Correspond à (09.4.1) et (13.3.1).,
+"14.3.2",Services culturels (S),- Comme indiqué sous 08.2.0 dans la COFOG. Correspond à (09.4.2) et (13.3.2).,
+"14.4",Enseignement,"On retrouve cette fonction dans les groupes 09.1 à 09.5 de la COFOG.
+Ce groupe correspond à la division 10 (Dépenses de consommation individuelle à la charge des ménages liées à l'enseignement) et au groupe 13.4 (Dépenses de consommation individuelle à la charge des ISBLSM liées à l'enseignement).",
+"14.4.1",Enseignement préélémentaire et primaire (S),- Comme indiqué sous 09.1.1 et 09.1.2 dans la COFOG. Correspond à (10.1.0) et (13.4.1).,
+"14.4.2",Enseignement secondaire (S),- Comme indiqué sous 09.2.1 et 09.2.2 dans la COFOG. Correspond à (10.2.0) et (13.4.2).,
+"14.4.3",Enseignement postsecondaire non supérieur (S),- Comme indiqué sous 09.3.0 dans la COFOG. Correspond à (10.3.0) et (13.4.3).,
+"14.4.4",Enseignement supérieur (S),- Comme indiqué sous 09.4.1 et 09.4.2 dans la COFOG. Correspond à (10.4.0) et (13.4.4).,
+"14.4.5",Enseignement non défini par niveau (S),- Comme indiqué sous 09.5.0 dans la COFOG. Correspond à (10.5.0) et (13.4.5).,
+"14.4.6",Services annexes à l'enseignement (S),- Comme indiqué sous 09.6.0 dans la COFOG.,
+"14.5",Protection sociale,"On retrouve cette fonction dans les groupes 10.1 à 10.5 et dans le groupe 10.7 de la COFOG.
+Ce groupe correspond au groupe 12.4 (Dépenses de consommation individuelle à la charge des ménages liées à la protection sociale) et au groupe 13.5 (Dépenses de consommation individuelle à la charge des ISBLSM liées à la protection sociale).",
+"14.5.0",Protection sociale (S),"- Comme indiqué sous 10.1.1 à 10.5.0 et 10.7.0 dans la COFOG. Correspond à (12.4.0) et (13.5.0).
+
+==============================",

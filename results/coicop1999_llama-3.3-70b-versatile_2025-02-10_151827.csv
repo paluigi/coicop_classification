@@ -1,0 +1,2805 @@
+Code,Description
+01.1.1,Bread and cereals
+01.1.1,Rice in all forms
+01.1.1,Maize
+01.1.1,Wheat
+01.1.1,Barley
+01.1.1,Oats
+01.1.1,Rye
+01.1.1,Bread
+01.1.1,Crispbread
+01.1.1,Rusks
+01.1.1,Toasted bread
+01.1.1,Biscuits
+01.1.1,Gingerbread
+01.1.1,Wafers
+01.1.1,Waffles
+01.1.1,Crumpets
+01.1.1,Muffins
+01.1.1,Croissants
+01.1.1,Cakes
+01.1.1,Tarts
+01.1.1,Pies
+01.1.1,Quiches
+01.1.1,Pizzas
+01.1.1,Mixes for bakery products
+01.1.1,Doughs for bakery products
+01.1.1,Pasta products
+01.1.1,Couscous
+01.1.1,Cornflakes
+01.1.1,Oatflakes
+01.1.1,Malt
+01.1.1,Malt flour
+01.1.1,Malt extract
+01.1.1,Potato starch
+01.1.1,Tapioca
+01.1.1,Sago
+01.1.1,Farinaceous-based products with meat
+01.1.1,Farinaceous-based products with fish
+01.1.1,Farinaceous-based products with seafood
+01.1.1,Farinaceous-based products with cheese
+01.1.1,Farinaceous-based products with vegetables
+01.1.1,Farinaceous-based products with fruit
+01.1.2,Meat
+01.1.2,Fresh bovine meat
+01.1.2,Chilled swine meat
+01.1.2,Frozen sheep meat
+01.1.2,Frozen goat meat
+01.1.2,Horse meat
+01.1.2,Mule meat
+01.1.2,Donkey meat
+01.1.2,Camel meat
+01.1.2,Chicken meat
+01.1.2,Duck meat
+01.1.2,Goose meat
+01.1.2,Turkey meat
+01.1.2,Guinea fowl meat
+01.1.2,Hare meat
+01.1.2,Rabbit meat
+01.1.2,Antelope meat
+01.1.2,Deer meat
+01.1.2,Boar meat
+01.1.2,Pheasant meat
+01.1.2,Grouse meat
+01.1.2,Pigeon meat
+01.1.2,Quail meat
+01.1.2,Fresh edible offal
+01.1.2,Chilled edible offal
+01.1.2,Frozen edible offal
+01.1.2,Dried meat
+01.1.2,Salted meat
+01.1.2,Smoked meat
+01.1.2,Sausages
+01.1.2,Salami
+01.1.2,Bacon
+01.1.2,Ham
+01.1.2,P�t�
+01.1.2,Canned meat
+01.1.2,Meat extracts
+01.1.2,Meat juices
+01.1.2,Meat pies
+01.1.2,Seal meat
+01.1.2,Walrus meat
+01.1.2,Whale meat
+01.1.2,Kangaroo meat
+01.1.2,Ostrich meat
+01.1.2,Alligator meat
+01.1.2,Live bovine animals for consumption
+01.1.2,Live swine for consumption
+01.1.2,Live sheep for consumption
+01.1.2,Live goat for consumption
+01.1.2,Live poultry for consumption
+01.1.3,Fish and seafood
+01.1.3,Fresh fish
+01.1.3,Chilled fish
+01.1.3,Frozen fish
+01.1.3,Fresh seafood
+01.1.3,Chilled seafood
+01.1.3,Frozen seafood
+01.1.3,Crustaceans
+01.1.3,Molluscs
+01.1.3,Other shellfish
+01.1.3,Sea snails
+01.1.3,Dried fish
+01.1.3,Smoked fish
+01.1.3,Salted fish
+01.1.3,Dried seafood
+01.1.3,Smoked seafood
+01.1.3,Salted seafood
+01.1.3,Canned fish
+01.1.3,Canned seafood
+01.1.3,Caviar
+01.1.3,Other hard roes
+01.1.3,Fish pies
+01.1.3,Land crabs
+01.1.3,Land snails
+01.1.3,Frogs
+01.1.3,Live fish for consumption
+01.1.3,Live seafood for consumption
+01.1.4,"Milk, cheese and eggs"
+01.1.4,Raw milk
+01.1.4,Pasteurized milk
+01.1.4,Sterilized milk
+01.1.4,Condensed milk
+01.1.4,Evaporated milk
+01.1.4,Powdered milk
+01.1.4,Yoghurt
+01.1.4,Cream
+01.1.4,Milk-based desserts
+01.1.4,Milk-based beverages
+01.1.4,Cheese
+01.1.4,Curd
+01.1.4,Eggs
+01.1.4,Egg products
+01.1.4,Milk with sugar
+01.1.4,Milk with cocoa
+01.1.4,Milk with fruit
+01.1.4,Milk with flavourings
+01.1.4,Cream with sugar
+01.1.4,Cream with cocoa
+01.1.4,Cream with fruit
+01.1.4,Cream with flavourings
+01.1.4,Yoghurt with sugar
+01.1.4,Yoghurt with cocoa
+01.1.4,Yoghurt with fruit
+01.1.4,Yoghurt with flavourings
+01.1.4,Soya milk
+01.1.5,Oils and fats
+01.1.5,Butter
+01.1.5,Butter oil
+01.1.5,Ghee
+01.1.5,Margarine
+01.1.5,Diet margarine
+01.1.5,Peanut butter
+01.1.5,Olive oil
+01.1.5,Corn oil
+01.1.5,Sunflower-seed oil
+01.1.5,Cottonseed oil
+01.1.5,Soybean oil
+01.1.5,Groundnut oil
+01.1.5,Walnut oil
+01.1.5,Lard
+01.1.6,Fruit
+01.1.6,Fresh fruit
+01.1.6,Chilled fruit
+01.1.6,Frozen fruit
+01.1.6,Dried fruit
+01.1.6,Fruit peel
+01.1.6,Fruit kernels
+01.1.6,Nuts
+01.1.6,Edible seeds
+01.1.6,Preserved fruit
+01.1.6,Fruit-based products
+01.1.6,Melons
+01.1.6,Water melons
+01.1.7,Vegetables
+01.1.7,Fresh asparagus
+01.1.7,Chilled broccoli
+01.1.7,Frozen cauliflower
+01.1.7,Dried spinach
+01.1.7,Fresh aubergines
+01.1.7,Chilled cucumbers
+01.1.7,Frozen courgettes
+01.1.7,Fresh green peppers
+01.1.7,Dried pumpkins
+01.1.7,Fresh tomatoes
+01.1.7,Fresh beetroots
+01.1.7,Chilled carrots
+01.1.7,Frozen onions
+01.1.7,Dried parsnips
+01.1.7,Fresh radishes
+01.1.7,Chilled turnips
+01.1.7,Fresh potatoes
+01.1.7,Chilled manioc
+01.1.7,Frozen arrowroot
+01.1.7,Dried cassava
+01.1.7,Fresh sweet potatoes
+01.1.7,Preserved olives
+01.1.7,Processed garlic
+01.1.7,Fresh pulses
+01.1.7,Chilled sweetcorn
+01.1.7,Frozen sea fennel
+01.1.7,Dried edible seaweed
+01.1.7,Fresh mushrooms
+01.1.7,Chilled edible fungi
+01.1.7,Frozen chipped potatoes
+01.1.7,Dried potato flakes
+01.1.7,Fresh potato purée
+01.1.7,Chilled potato chips
+01.1.7,Frozen potato crisps
+01.1.8,"Sugar, jam, honey, chocolate and confectionery"
+01.1.8,Cane sugar
+01.1.8,Beech sugar
+01.1.8,Unrefined sugar
+01.1.8,Refined sugar
+01.1.8,Powdered sugar
+01.1.8,Crystallized sugar
+01.1.8,Sugar lumps
+01.1.8,Jams
+01.1.8,Marmalades
+01.1.8,Compotes
+01.1.8,Jellies
+01.1.8,Fruit purées
+01.1.8,Fruit pastes
+01.1.8,Natural honey
+01.1.8,Artificial honey
+01.1.8,Maple syrup
+01.1.8,Molasses
+01.1.8,Sugar-preserved plant parts
+01.1.8,Chocolate bars
+01.1.8,Chocolate slabs
+01.1.8,Chewing gum
+01.1.8,Sweets
+01.1.8,Toffees
+01.1.8,Pastilles
+01.1.8,Cocoa-based foods
+01.1.8,Cocoa-based desserts
+01.1.8,Edible ice
+01.1.8,Ice cream
+01.1.8,Sorbet
+01.1.8,Artificial sugar substitutes
+01.1.9,Food products n.e.c.
+01.1.9,Salt
+01.1.9,"Spices (pepper, pimento, ginger)"
+01.1.9,"Culinary herbs (parsley, rosemary, thyme)"
+01.1.9,Sauces
+01.1.9,Condiments
+01.1.9,"Seasonings (mustard, mayonnaise, ketchup, soy sauce)"
+01.1.9,Vinegar
+01.1.9,Prepared baking powders
+01.1.9,Baker's yeast
+01.1.9,Dessert preparations
+01.1.9,Soups
+01.1.9,Broths
+01.1.9,Stocks
+01.1.9,Culinary ingredients
+01.1.9,Homogenized baby food
+01.1.9,Dietary preparations
+01.2.1,"Coffee, tea and cocoa"
+01.2.1,"coffee, whether or not decaffeinated, roasted or ground, including instant coffee"
+01.2.1,"tea, mate and other plant products for infusions"
+01.2.1,"cocoa, whether or not sweetened, and chocolate-based powder"
+01.2.1,cocoa-based beverage preparations
+01.2.1,coffee and tea substitutes
+01.2.1,extracts and essences of coffee and tea
+01.2.2,"Mineral waters, soft drinks, fruit and vegetable juices"
+01.2.2,Mineral or spring waters
+01.2.2,Drinking water sold in containers
+01.2.2,Soft drinks
+01.2.2,Sodas
+01.2.2,Lemonades
+01.2.2,Colas
+01.2.2,Fruit juices
+01.2.2,Vegetable juices
+01.2.2,Syrups for the preparation of beverages
+01.2.2,Concentrates for the preparation of beverages
+02.1.1,Spirits
+02.1.1,Eaux-de-vie
+02.1.1,Liqueurs
+02.1.1,Mead
+02.1.1,Aperitifs other than wine-based aperitifs
+02.1.2,Wine
+02.1.2,Wine
+02.1.2,Cider
+02.1.2,Perry
+02.1.2,Sake
+02.1.2,Wine-based aperitifs
+02.1.2,Fortified wines
+02.1.2,Champagne
+02.1.2,Other sparkling wines
+02.1.3,Beer
+02.1.3,ale
+02.1.3,lager
+02.1.3,porter
+02.1.3,low-alcoholic beer
+02.1.3,non-alcoholic beer
+02.1.3,shandy
+02.2.0,Tobacco
+02.2.0,cigarettes
+02.2.0,cigarette tobacco
+02.2.0,cigarette papers
+02.2.0,cigars
+02.2.0,pipe tobacco
+02.2.0,chewing tobacco
+02.2.0,snuff
+02.3.0,Narcotics
+02.3.0,Marijuana
+02.3.0,Opium
+02.3.0,Cocaine
+02.3.0,Derivatives of marijuana
+02.3.0,Derivatives of opium
+02.3.0,Derivatives of cocaine
+02.3.0,Cola nuts
+02.3.0,Betel leaves
+02.3.0,Betel nuts
+02.3.0,Chemicals
+02.3.0,Man-made drugs
+03.1.1,Clothing materials
+03.1.1,"Clothing made of natural fibres such as cotton, wool, and silk"
+03.1.1,"Clothing made of man-made fibres such as polyester, nylon, and spandex"
+03.1.1,Clothing made of mixtures of natural and man-made fibres such as cotton-polyester blends and wool-nylon blends
+03.1.2,Garments
+03.1.2,Garments for men
+03.1.2,Garments for women
+03.1.2,Garments for children (3 to 13 years)
+03.1.2,Garments for infants (0 to 2 years)
+03.1.2,Ready-to-wear garments
+03.1.2,Made-to-measure garments
+03.1.2,Leather garments
+03.1.2,Fur garments
+03.1.2,Plastic garments
+03.1.2,Rubber garments
+03.1.2,Everyday wear garments
+03.1.2,Sportswear
+03.1.2,Workwear
+03.1.2,Capes
+03.1.2,Overcoats
+03.1.2,Raincoats
+03.1.2,Anoraks
+03.1.2,Parkas
+03.1.2,Blousons
+03.1.2,Jackets
+03.1.2,Trousers
+03.1.2,Waistcoats
+03.1.2,Suits
+03.1.2,Costumes
+03.1.2,Dresses
+03.1.2,Skirts
+03.1.2,Shirts
+03.1.2,Blouses
+03.1.2,Pullovers
+03.1.2,Sweaters
+03.1.2,Cardigans
+03.1.2,Shorts
+03.1.2,Swimsuits
+03.1.2,Tracksuits
+03.1.2,Jogging suits
+03.1.2,Sweatshirts
+03.1.2,T-shirts
+03.1.2,Leotards
+03.1.2,Vests
+03.1.2,Underpants
+03.1.2,Socks
+03.1.2,Stockings
+03.1.2,Tights
+03.1.2,Petticoats
+03.1.2,Brassieres
+03.1.2,Knickers
+03.1.2,Slips
+03.1.2,Girdles
+03.1.2,Corsets
+03.1.2,Body stockings
+03.1.2,Pyjamas
+03.1.2,Nightshirts
+03.1.2,Nightdresses
+03.1.2,Housecoats
+03.1.2,Dressing gowns
+03.1.2,Bathrobes
+03.1.2,Baby clothes
+03.1.2,Babies' booties made of fabric
+03.1.3,Other articles of clothing and clothing accessories
+03.1.3,Ties
+03.1.3,Handkerchiefs
+03.1.3,Scarves
+03.1.3,Squares
+03.1.3,Gloves
+03.1.3,Mittens
+03.1.3,Muffs
+03.1.3,Belts
+03.1.3,Braces
+03.1.3,Aprons
+03.1.3,Smocks
+03.1.3,Bibs
+03.1.3,Sleeve protectors
+03.1.3,Hats
+03.1.3,Caps
+03.1.3,Berets
+03.1.3,Bonnets
+03.1.3,Sewing threads
+03.1.3,Knitting yarns
+03.1.3,Buckles
+03.1.3,Buttons
+03.1.3,Press studs
+03.1.3,Zip fasteners
+03.1.3,Ribbons
+03.1.3,Laces
+03.1.3,Trimmings
+03.1.3,Gardening gloves
+03.1.3,Working gloves
+03.1.3,Crash helmets for motorcycles
+03.1.3,Crash helmets for bicycles
+03.1.4,"Cleaning, repair and hire of clothing"
+03.1.4,Dry-cleaning of garments
+03.1.4,Laundering of garments
+03.1.4,Dyeing of garments
+03.1.4,Darning of garments
+03.1.4,Mending of garments
+03.1.4,Repair of garments
+03.1.4,Altering of garments
+03.1.4,Hire of garments
+03.1.4,"Total value of repair service for clothing, including labour and materials"
+03.2.1,Shoes and other footwear
+03.2.1,Shoes for men
+03.2.1,Shoes for women
+03.2.1,Shoes for children aged 3 to 13 years
+03.2.1,Shoes for infants aged 0 to 2 years
+03.2.1,Sports footwear for jogging
+03.2.1,Sports footwear for cross-training
+03.2.1,Sports footwear for tennis
+03.2.1,Sports footwear for basketball
+03.2.1,Sports footwear for boating
+03.2.1,Gaiters
+03.2.1,Leggings and similar articles
+03.2.1,Shoelaces
+03.2.1,Heels for footwear
+03.2.1,Soles for footwear
+03.2.1,Other parts of footwear for self-repair
+03.2.2,Repair and hire of footwear
+03.2.2,Repair of footwear
+03.2.2,Shoe-cleaning services
+03.2.2,Hire of footwear
+03.2.2,Total value of repair service including labour and materials
+04.1.1,Actual rentals paid by tenants
+04.1.1,Rent paid by tenants for unfurnished premises
+04.1.1,Rent paid by tenants for furnished premises
+04.1.1,Rent paid by subtenants for unfurnished premises
+04.1.1,Rent paid by subtenants for furnished premises
+04.1.1,Payments by households for a room in a hotel as main residence
+04.1.1,Payments by households for a room in a boarding house as main residence
+04.1.2,Other actual rentals
+04.1.2,Rentals for vacation homes
+04.1.2,Rentals for second homes
+04.1.2,Rentals for temporary work assignments
+04.1.2,Rentals for secondary residences
+04.2.1,Imputed rentals of owner-occupiers
+04.2.1,Imputed rentals of owners occupying their main residence
+04.2.1,Imputed rentals of owner-occupiers
+04.2.2,Other imputed rentals
+04.2.2,Imputed rentals for secondary residences
+04.2.2,Imputed rentals of households paying a reduced rental
+04.2.2,Imputed rentals of households housed free
+04.3.1,Materials for the maintenance and repair of the dwelling
+04.3.1,paints
+04.3.1,varnishes
+04.3.1,renderings
+04.3.1,wallpapers
+04.3.1,fabric wall coverings
+04.3.1,window panes
+04.3.1,plaster
+04.3.1,cement
+04.3.1,putty
+04.3.1,wallpaper pastes
+04.3.1,small plumbing items
+04.3.1,pipes
+04.3.1,taps
+04.3.1,joints
+04.3.1,surfacing materials
+04.3.1,floorboards
+04.3.1,ceramic tiles
+04.3.1,brushes for paint
+04.3.1,brushes for varnish
+04.3.1,brushes for wallpaper
+04.3.1,scrapers for paint
+04.3.1,scrapers for varnish
+04.3.1,scrapers for wallpaper
+04.3.2,Services for the maintenance and repair of the dwelling
+04.3.2,Maintenance and repair services for dwellings
+04.3.2,Plumber services for minor maintenance and repair
+04.3.2,Electrician services for minor maintenance and repair
+04.3.2,Carpenter services for minor maintenance and repair
+04.3.2,Glazier services for minor maintenance and repair
+04.3.2,Painter services for minor maintenance and repair
+04.3.2,Decorator services for minor maintenance and repair
+04.3.2,Floor polisher services for minor maintenance and repair
+04.3.2,"Total value of maintenance and repair services, including labour and materials"
+04.4.1,Water supply
+04.4.1,Hire of water meters
+04.4.1,Reading of water meters
+04.4.1,Water supply standing charges
+04.4.2,Refuse collection
+04.4.2,Refuse collection
+04.4.2,Refuse collection and disposal
+04.4.3,Sewage collection
+04.4.3,Sewage collection
+04.4.3,Sewage collection and disposal
+04.4.4,Other services relating to the dwelling n.e.c.
+04.4.4,Co-proprietor charges for caretaking in multi-occupied buildings
+04.4.4,Co-proprietor charges for gardening in multi-occupied buildings
+04.4.4,Co-proprietor charges for stairwell cleaning in multi-occupied buildings
+04.4.4,Co-proprietor charges for heating in multi-occupied buildings
+04.4.4,Co-proprietor charges for lighting in multi-occupied buildings
+04.4.4,Co-proprietor charges for maintenance of lifts in multi-occupied buildings
+04.4.4,Co-proprietor charges for maintenance of refuse disposal chutes in multi-occupied buildings
+04.4.4,Security services for dwellings
+04.4.4,Snow removal services for dwellings
+04.4.4,Chimney sweeping services for dwellings
+04.5.1,Electricity
+04.5.1,Hire of electricity meters
+04.5.1,Reading of electricity meters
+04.5.1,Electricity standing charges
+04.5.1,Electricity consumption expenditure
+04.5.2,Gas
+04.5.2,Town gas
+04.5.2,Natural gas
+04.5.2,Liquefied hydrocarbons
+04.5.2,Butane
+04.5.2,Propane
+04.5.2,Hire of meters
+04.5.2,Reading of meters
+04.5.2,Storage containers
+04.5.2,Standing charges
+04.5.3,Liquid fuels
+04.5.3,Domestic heating oil
+04.5.3,Domestic lighting oil
+04.5.3,Liquid fuel for domestic heating
+04.5.3,Liquid fuel for domestic lighting
+04.5.4,Solid fuels
+04.5.4,Coal
+04.5.4,Coke
+04.5.4,Briquettes
+04.5.4,Firewood
+04.5.4,Charcoal
+04.5.4,Peat
+04.5.5,Heat energy
+04.5.5,Hot water purchased from district heating plants
+04.5.5,Steam purchased from district heating plants
+04.5.5,Hire of meters for heat energy
+04.5.5,Reading of meters for heat energy
+04.5.5,Standing charges for heat energy
+04.5.5,Ice used for cooling purposes
+04.5.5,Ice used for refrigeration purposes
+05.1.1,Furniture and furnishings
+05.1.1,Beds
+05.1.1,Sofas
+05.1.1,Couches
+05.1.1,Tables
+05.1.1,Chairs
+05.1.1,Cupboards
+05.1.1,Chests of drawers
+05.1.1,Bookshelves
+05.1.1,Ceiling lights
+05.1.1,Standard lamps
+05.1.1,Globe lights
+05.1.1,Bedside lamps
+05.1.1,Pictures
+05.1.1,Sculptures
+05.1.1,Engravings
+05.1.1,Tapestries
+05.1.1,Art objects
+05.1.1,Reproductions of works of art
+05.1.1,Ornaments
+05.1.1,Screens
+05.1.1,Folding partitions
+05.1.1,Base mattresses
+05.1.1,Mattresses
+05.1.1,Tatamis
+05.1.1,Bathroom cabinets
+05.1.1,Baby furniture
+05.1.1,Cradles
+05.1.1,High chairs
+05.1.1,Playpens
+05.1.1,Blinds
+05.1.1,Camping furniture
+05.1.1,Garden furniture
+05.1.1,Mirrors
+05.1.1,Candleholders
+05.1.1,Candlesticks
+05.1.2,Carpets and other floor coverings
+05.1.2,Loose carpets
+05.1.2,Fitted carpets
+05.1.2,Linoleum
+05.1.2,Laying of floor coverings
+05.1.3,"Repair of furniture, furnishings and floor coverings"
+05.1.3,Repair of furniture
+05.1.3,Repair of furnishings
+05.1.3,Repair of floor coverings
+05.1.3,Restoration of works of art
+05.1.3,Restoration of antique furniture
+05.1.3,Restoration of antique floor coverings
+05.1.3,Total value of the service including labour and materials cost
+05.2.0,Household textiles
+05.2.0,Furnishing fabrics
+05.2.0,Curtain material
+05.2.0,Curtains
+05.2.0,Double curtains
+05.2.0,Awnings
+05.2.0,Door curtains
+05.2.0,Fabric blinds
+05.2.0,Futons
+05.2.0,Pillows
+05.2.0,Bolsters
+05.2.0,Hammocks
+05.2.0,Sheets
+05.2.0,Pillowcases
+05.2.0,Blankets
+05.2.0,Travelling rugs
+05.2.0,Plaids
+05.2.0,Eiderdowns
+05.2.0,Counterpanes
+05.2.0,Mosquito nets
+05.2.0,Tablecloths
+05.2.0,Table napkins
+05.2.0,Towels
+05.2.0,Face cloths
+05.2.0,Shopping bags
+05.2.0,Laundry bags
+05.2.0,Shoe bags
+05.2.0,Clothes covers
+05.2.0,Furniture covers
+05.2.0,Flags
+05.2.0,Sunshades
+05.2.0,Cloth bought by the piece
+05.2.0,Oilcloth
+05.2.0,Bathroom mats
+05.2.0,Rush mats
+05.2.0,Doormats
+05.3.1,Major household appliances whether electric or not
+05.3.1,Refrigerators
+05.3.1,Freezers
+05.3.1,Fridge-freezers
+05.3.1,Washing machines
+05.3.1,Dryers
+05.3.1,Drying cabinets
+05.3.1,Dishwashers
+05.3.1,Ironing machines
+05.3.1,Pressing machines
+05.3.1,Cookers
+05.3.1,Spit roasters
+05.3.1,Hobs
+05.3.1,Ranges
+05.3.1,Ovens
+05.3.1,Microwave ovens
+05.3.1,Air-conditioners
+05.3.1,Humidifiers
+05.3.1,Space heaters
+05.3.1,Water heaters
+05.3.1,Ventilators
+05.3.1,Extractor hoods
+05.3.1,Vacuum cleaners
+05.3.1,Steam-cleaning machines
+05.3.1,Carpet shampooing machines
+05.3.1,Floor scrubbing machines
+05.3.1,Floor waxing machines
+05.3.1,Floor polishing machines
+05.3.1,Safes
+05.3.1,Sewing machines
+05.3.1,Knitting machines
+05.3.1,Water softeners
+05.3.2,Small electric household appliances
+05.3.2,Coffee makers
+05.3.2,Juice extractors
+05.3.2,Can-openers
+05.3.2,Food mixers
+05.3.2,Deep fryers
+05.3.2,Meat grills
+05.3.2,Electric toasters
+05.3.2,Ice cream makers
+05.3.2,Sorbet makers
+05.3.2,Yoghurt makers
+05.3.2,Hotplates
+05.3.2,Electric irons
+05.3.2,Electric kettles
+05.3.2,Electric fans
+05.3.2,Electric blankets
+05.3.2,Coffee grinders
+05.3.2,Electric knives
+05.3.3,Repair of household appliances
+05.3.3,"Repair of refrigerators, including the cost of labour and materials"
+05.3.3,"Repair of washing machines, including the cost of labour and materials"
+05.3.3,"Repair of dishwashers, including the cost of labour and materials"
+05.3.3,Leasing of televisions
+05.3.3,"Rental of major household appliances such as refrigerators, washing machines, and dishwashers"
+05.4.0,"Glassware, tableware and household utensils"
+05.4.0,Glassware used for table
+05.4.0,Crystal ware used for kitchen
+05.4.0,Ceramic ware used for bathroom
+05.4.0,China ware used for toilet
+05.4.0,Cutlery
+05.4.0,Flatware
+05.4.0,Silverware
+05.4.0,Saucepan
+05.4.0,Stewpot
+05.4.0,Pressure cooker
+05.4.0,Frying pan
+05.4.0,Coffee mill
+05.4.0,Purée maker
+05.4.0,Mincer
+05.4.0,Hotplate
+05.4.0,Household scale
+05.4.0,Container for bread
+05.4.0,Container for coffee
+05.4.0,Container for spices
+05.4.0,Waste bin
+05.4.0,Waste-paper basket
+05.4.0,Laundry basket
+05.4.0,Portable money box
+05.4.0,Strongbox
+05.4.0,Towel rail
+05.4.0,Bottle rack
+05.4.0,Iron
+05.4.0,Ironing board
+05.4.0,Letter box
+05.4.0,Feeding bottle
+05.4.0,Thermos flask
+05.4.0,Icebox
+05.4.0,Repair of glassware
+05.4.0,Repair of crystal ware
+05.4.0,Repair of ceramic ware
+05.4.0,Repair of china ware
+05.4.0,Repair of cutlery
+05.4.0,Repair of flatware
+05.4.0,Repair of silverware
+05.4.0,Repair of non-electric kitchen utensils
+05.4.0,Repair of non-electric household articles
+05.5.1,Major tools and equipment
+05.5.1,Electric drills
+05.5.1,Saws
+05.5.1,Sanders
+05.5.1,Hedge cutters
+05.5.1,Garden tractors
+05.5.1,Lawnmowers
+05.5.1,Cultivators
+05.5.1,Chainsaws
+05.5.1,Water pumps
+05.5.1,Leasing of do-it-yourself machinery
+05.5.1,Rental of do-it-yourself equipment
+05.5.1,Repair of motorized tools and equipment
+05.5.2,Small tools and miscellaneous accessories
+05.5.2,saws
+05.5.2,hammers
+05.5.2,screwdrivers
+05.5.2,wrenches
+05.5.2,spanners
+05.5.2,pliers
+05.5.2,trimming knives
+05.5.2,rasps
+05.5.2,files
+05.5.2,wheelbarrows
+05.5.2,watering cans
+05.5.2,hoses
+05.5.2,spades
+05.5.2,shovels
+05.5.2,rakes
+05.5.2,forks
+05.5.2,scythes
+05.5.2,sickles
+05.5.2,secateurs
+05.5.2,ladders
+05.5.2,steps
+05.5.2,hinges
+05.5.2,handles
+05.5.2,locks
+05.5.2,curtain rails
+05.5.2,carpet rods
+05.5.2,hooks
+05.5.2,chains
+05.5.2,grids
+05.5.2,stakes
+05.5.2,hoop segments for fencing and bordering
+05.5.2,power sockets
+05.5.2,switches
+05.5.2,wiring flex
+05.5.2,electric bulbs
+05.5.2,fluorescent lighting tubes
+05.5.2,torches
+05.5.2,flashlights
+05.5.2,hand lamps
+05.5.2,electric batteries for general use
+05.5.2,bells
+05.5.2,alarms
+05.6.1,Non-durable household goods
+05.6.1,"Cleaning and maintenance products like soaps, washing powders, washing liquids, scouring powders, detergents, disinfectant bleaches, softeners, conditioners, window-cleaning products, waxes, polishes, dyes, unblocking agents, disinfectants, insecticides, pesticides, fungicides and distilled water"
+05.6.1,"Articles for cleaning such as brooms, scrubbing brushes, dustpans and dust brushes, dusters, tea towels, floorcloths, household sponges, scourers, steel wool and chamois leathers"
+05.6.1,"Paper products like filters, tablecloths and table napkins, kitchen paper, vacuum cleaner bags and cardboard tableware, including aluminium foil and plastic bin liners"
+05.6.1,"Non-durable household articles such as matches, candles, lamp wicks, methylated spirits, clothes-pegs, clothes hangers, pins, safety pins, sewing needles, knitting needles, thimbles, nails, screws, nuts and bolts, tacks, washers, glues and adhesive tapes for household use, string, twine and rubber gloves"
+05.6.1,"Polishes, creams and other shoe-cleaning articles"
+05.6.1,Fire extinguishers for households
+05.6.2,Domestic services and household services
+05.6.2,"Domestic services supplied by paid staff employed in private service such as butlers, cooks, maids, drivers, gardeners, governesses, secretaries, tutors and au pairs"
+05.6.2,Babysitting services supplied by enterprises or self-employed persons
+05.6.2,Housework services supplied by enterprises or self-employed persons
+05.6.2,Window cleaning services
+05.6.2,Disinfecting services
+05.6.2,Fumigation services
+05.6.2,Pest extermination services
+05.6.2,Dry-cleaning of household linen
+05.6.2,Laundering of household textiles
+05.6.2,Dyeing of carpets
+05.6.2,Hire of furniture
+05.6.2,Hire of furnishings
+05.6.2,Hire of carpets
+05.6.2,Hire of household equipment
+05.6.2,Hire of household linen
+06.1.1,Pharmaceutical products
+06.1.1,Medicinal preparations
+06.1.1,Medicinal drugs
+06.1.1,Patent medicines
+06.1.1,Serums
+06.1.1,Vaccines
+06.1.1,Vitamins
+06.1.1,Minerals
+06.1.1,Cod liver oil
+06.1.1,Halibut liver oil
+06.1.1,Oral contraceptives
+06.1.2,Other medical products
+06.1.2,Clinical thermometers
+06.1.2,Adhesive bandages
+06.1.2,Non-adhesive bandages
+06.1.2,Hypodermic syringes
+06.1.2,First-aid kits
+06.1.2,Hot-water bottles
+06.1.2,Ice bags
+06.1.2,Elasticated stockings
+06.1.2,Knee supports
+06.1.2,Pregnancy tests
+06.1.2,Condoms
+06.1.2,Mechanical contraceptive devices
+06.1.3,Therapeutic appliances and equipment
+06.1.3,Corrective eyeglasses
+06.1.3,Contact lenses
+06.1.3,Hearing aids
+06.1.3,Glass eyes
+06.1.3,Artificial limbs
+06.1.3,Prosthetic devices
+06.1.3,Orthopaedic braces
+06.1.3,Orthopaedic supports
+06.1.3,Orthopaedic footwear
+06.1.3,Surgical belts
+06.1.3,Trusses
+06.1.3,Neck braces
+06.1.3,Medical massage equipment
+06.1.3,Health lamps
+06.1.3,Powered wheelchairs
+06.1.3,Unpowered wheelchairs
+06.1.3,Invalid carriages
+06.1.3,Special beds
+06.1.3,Crutches
+06.1.3,Electronic devices for monitoring blood pressure
+06.1.3,Dentures
+06.1.3,Repair of therapeutic appliances and equipment
+06.2.1,Medical services
+06.2.1,Consultations of physicians in general practice
+06.2.1,Consultations of physicians in specialist practice
+06.2.1,Services of orthodontic specialists
+06.2.2,Dental services
+06.2.2,Services of dentists
+06.2.2,Services of oral hygienists
+06.2.2,Services of other dental auxiliaries
+06.2.2,Fitting costs of dentures
+06.2.3,Paramedical services
+06.2.3,Services of medical analysis laboratories
+06.2.3,Services of x-ray centres
+06.2.3,Services of freelance nurses
+06.2.3,Services of freelance midwives
+06.2.3,Services of freelance acupuncturists
+06.2.3,Services of freelance chiropractors
+06.2.3,Services of freelance optometrists
+06.2.3,Services of freelance physiotherapists
+06.2.3,Services of freelance speech therapists
+06.2.3,Medically prescribed corrective-gymnastic therapy
+06.2.3,Outpatient thermal bath treatments
+06.2.3,Outpatient sea-water treatments
+06.2.3,Ambulance services
+06.2.3,Hire of therapeutic equipment
+06.2.3,Services of practitioners of traditional medicine
+06.3.0,Hospital services
+06.3.0,Administration for hospital in-patients
+06.3.0,Accommodation for hospital in-patients
+06.3.0,Food and drink for hospital in-patients
+06.3.0,Supervision and care by non-specialist staff (nursing auxiliaries) for hospital in-patients
+06.3.0,First aid and resuscitation for hospital in-patients
+06.3.0,Ambulance transport for hospital in-patients
+06.3.0,Provision of medicines and other pharmaceutical products for hospital in-patients
+06.3.0,Provision of therapeutic appliances and equipment for hospital in-patients
+06.3.0,Services of physicians in general practice for hospital in-patients
+06.3.0,Services of physicians in specialist practice for hospital in-patients
+06.3.0,Services of surgeons for hospital in-patients
+06.3.0,Services of dentists for hospital in-patients
+06.3.0,Medical analyses for hospital in-patients
+06.3.0,X-rays for hospital in-patients
+06.3.0,Paramedical services of nurses for hospital in-patients
+06.3.0,Paramedical services of midwives for hospital in-patients
+06.3.0,Paramedical services of chiropractors for hospital in-patients
+06.3.0,Paramedical services of optometrists for hospital in-patients
+06.3.0,Paramedical services of physiotherapists for hospital in-patients
+06.3.0,Paramedical services of speech therapists for hospital in-patients
+07.1.1,Motor cars
+07.1.1,Motor cars with two-wheel drive
+07.1.1,Motor cars with four-wheel drive
+07.1.1,Passenger vans with two-wheel drive
+07.1.1,Passenger vans with four-wheel drive
+07.1.1,Station wagons with two-wheel drive
+07.1.1,Station wagons with four-wheel drive
+07.1.1,Estate cars with two-wheel drive
+07.1.1,Estate cars with four-wheel drive
+07.1.2,Motor cycles
+07.1.2,Motor cycles of all types
+07.1.2,scooters
+07.1.2,powered bicycles
+07.1.2,sidecars
+07.1.2,snowmobiles
+07.1.3,Bicycles
+07.1.3,Bicycles of all types
+07.1.3,Tricycles of all types
+07.1.3,Rickshaws
+07.1.4,Animal drawn vehicles
+07.1.4,Animal drawn vehicles
+07.1.4,Animals required to draw the vehicles
+07.1.4,Related equipment for animal drawn vehicles
+07.1.4,Yokes for animal drawn vehicles
+07.1.4,Collars for animal drawn vehicles
+07.1.4,Harnesses for animal drawn vehicles
+07.1.4,Bridles for animal drawn vehicles
+07.1.4,Reins for animal drawn vehicles
+07.2.1,Spare parts and accessories for personal transport equipment
+07.2.1,New tyres for personal transport equipment
+07.2.1,Used tyres for personal transport equipment
+07.2.1,Retreaded tyres for personal transport equipment
+07.2.1,Inner tubes for personal transport equipment
+07.2.1,Spark plugs for personal transport equipment
+07.2.1,Batteries for personal transport equipment
+07.2.1,Shock absorbers for personal transport equipment
+07.2.1,Filters for personal transport equipment
+07.2.1,Pumps for personal transport equipment
+07.2.1,Fire extinguishers for transport equipment
+07.2.1,Paints for cleaning and maintenance of transport equipment
+07.2.1,Chrome cleaners for cleaning and maintenance of transport equipment
+07.2.1,Sealing compounds for cleaning and maintenance of transport equipment
+07.2.1,Bodywork polishes for cleaning and maintenance of transport equipment
+07.2.1,Covers for motor cars
+07.2.1,Covers for motorcycles
+07.2.2,Fuels and lubricants for personal transport equipment
+07.2.2,Petrol
+07.2.2,Diesel
+07.2.2,Liquid petroleum gas
+07.2.2,Alcohol
+07.2.2,Two-stroke mixtures
+07.2.2,Lubricants
+07.2.2,Brake fluids
+07.2.2,Transmission fluids
+07.2.2,Coolants
+07.2.2,Additives
+07.2.2,Fuel for major tools and equipment
+07.2.2,Fuel for recreational vehicles
+07.2.3,Maintenance and repair of personal transport equipment
+07.2.3,Fitting of parts and accessories for personal transport equipment
+07.2.3,Wheel balancing for personal transport equipment
+07.2.3,Technical inspection of personal transport equipment
+07.2.3,Breakdown services for personal transport equipment
+07.2.3,Oil changes for personal transport equipment
+07.2.3,Greasing of personal transport equipment
+07.2.3,Washing of personal transport equipment
+07.2.4,Other services in respect of personal transport equipment
+07.2.4,Hire of garages
+07.2.4,Hire of parking spaces not providing parking in connection with the dwelling
+07.2.4,Toll facilities for bridges
+07.2.4,Toll facilities for tunnels
+07.2.4,Toll facilities for shuttle ferries
+07.2.4,Toll facilities for motorways
+07.2.4,Parking meters
+07.2.4,Driving lessons
+07.2.4,Driving tests
+07.2.4,Driving licences
+07.2.4,Roadworthiness tests
+07.2.4,Hire of personal transport equipment without drivers
+07.3.1,Passenger transport by railway
+07.3.1,transport of individuals by train
+07.3.1,transport of groups of persons by tram
+07.3.1,transport of luggage by underground
+07.3.1,transport of private vehicles by train
+07.3.2,Passenger transport by road
+07.3.2,Transport of individuals by bus
+07.3.2,Transport of groups of persons by coach
+07.3.2,Transport of individuals and luggage by taxi
+07.3.2,Transport of individuals and luggage by hired car with driver
+07.3.3,Passenger transport by air
+07.3.3,Transport of individuals by aeroplane
+07.3.3,Transport of groups of persons by helicopter
+07.3.3,Transport of luggage by aeroplane
+07.3.3,Transport of luggage by helicopter
+07.3.4,Passenger transport by sea and inland waterway
+07.3.4,Transport of individuals by ship
+07.3.4,Transport of groups of persons by boat
+07.3.4,Transport of luggage by ferry
+07.3.4,Transport of individuals by hovercraft
+07.3.4,Transport of groups of persons by hydrofoil
+07.3.4,Transport of private vehicles by ship
+07.3.4,Transport of private vehicles by boat
+07.3.4,Transport of private vehicles by ferry
+07.3.4,Transport of private vehicles by hovercraft
+07.3.4,Transport of private vehicles by hydrofoil
+07.3.5,Combined passenger transport
+07.3.5,Transport of individuals by two or more modes of transport
+07.3.5,Transport of groups of persons by two or more modes of transport
+07.3.5,Transport of luggage by two or more modes of transport
+07.3.5,Transport of private vehicles by two or more modes of transport
+07.3.6,Other purchased transport services
+07.3.6,Funicular transport services
+07.3.6,Cable-car transport services
+07.3.6,Chairlift transport services
+07.3.6,Removal services
+07.3.6,Storage services
+07.3.6,Porter services
+07.3.6,Left-luggage services
+07.3.6,Luggage-forwarding services
+07.3.6,Travel agents' commissions
+08.1.0,Postal services
+08.1.0,Payments for the delivery of letters
+08.1.0,Payments for the delivery of postcards
+08.1.0,Payments for the delivery of parcels
+08.1.0,Private mail delivery
+08.1.0,Private parcel delivery
+08.1.0,Purchases of new postage stamps
+08.1.0,ふPre-franked postcards
+08.1.0,Aerogrammes
+08.2.0,Telephone and telefax equipment
+08.2.0,Purchases of telephones
+08.2.0,Purchases of radio-telephones
+08.2.0,Purchases of telefax machines
+08.2.0,Purchases of telephone-answering machines
+08.2.0,Purchases of telephone loudspeakers
+08.2.0,Repair of telephones
+08.2.0,Repair of radio-telephones
+08.2.0,Repair of telefax machines
+08.2.0,Repair of telephone-answering machines
+08.2.0,Repair of telephone loudspeakers
+08.3.0,Telephone and telefax services
+08.3.0,Installation and subscription costs of personal telephone equipment
+08.3.0,Telephone calls from a private line
+08.3.0,Telephone calls from a public line
+08.3.0,Telephone calls from hotels
+08.3.0,Telephone calls from cafés
+08.3.0,Telephone calls from restaurants
+08.3.0,Telegraphy services
+08.3.0,Telex services
+08.3.0,Telefax services
+08.3.0,Information transmission services
+08.3.0,Internet connection services
+08.3.0,Hire of telephones
+08.3.0,Hire of telefax machines
+08.3.0,Hire of telephone-answering machines
+08.3.0,Hire of telephone loudspeakers
+08.3.0,Radio-telephony services
+08.3.0,Radio-telegraphy services
+08.3.0,Radiotelex services
+09.1.1,"Equipment for the reception, recording and reproduction of sound and pictures"
+09.1.1,Television sets
+09.1.1,Video cassette players and recorders
+09.1.1,Television aerials of all types
+09.1.1,Radio sets
+09.1.1,Car radios
+09.1.1,Radio clocks
+09.1.1,Two-way radios
+09.1.1,Amateur radio receivers and transmitters
+09.1.1,Gramophones
+09.1.1,Tape players and recorders
+09.1.1,Cassette players and recorders
+09.1.1,CD-players
+09.1.1,Personal stereos
+09.1.1,Stereo systems
+09.1.1,Turntables
+09.1.1,Tuners
+09.1.1,Amplifiers
+09.1.1,Speakers
+09.1.1,Microphones
+09.1.1,Earphones
+09.1.2,Photographic and cinematographic equipment and optical instruments
+09.1.2,Still cameras
+09.1.2,Movie cameras
+09.1.2,Sound-recording cameras
+09.1.2,Video cameras
+09.1.2,Camcorders
+09.1.2,Film projectors
+09.1.2,Slide projectors
+09.1.2,Enlargers
+09.1.2,Film processing equipment
+09.1.2,Screens
+09.1.2,Viewers
+09.1.2,Lenses
+09.1.2,Flash attachments
+09.1.2,Filters
+09.1.2,Exposure meters
+09.1.2,Binoculars
+09.1.2,Microscopes
+09.1.2,Telescopes
+09.1.2,Compasses
+09.1.3,Information processing equipment
+09.1.3,Personal computers
+09.1.3,Visual display units
+09.1.3,Printers
+09.1.3,"Miscellaneous accessories accompanying personal computers, visual display units, and printers"
+09.1.3,Computer software packages
+09.1.3,Operating systems
+09.1.3,Applications
+09.1.3,Programming languages
+09.1.3,Calculators
+09.1.3,Pocket calculators
+09.1.3,Typewriters
+09.1.3,Word processors
+09.1.3,Telefax facilities provided by personal computers
+09.1.3,Telephone-answering facilities provided by personal computers
+09.1.4,Recording media
+09.1.4,Records
+09.1.4,Compact discs
+09.1.4,Pre-recorded tapes
+09.1.4,Cassettes
+09.1.4,Video cassettes
+09.1.4,Diskettes
+09.1.4,CD-ROMs
+09.1.4,Unrecorded tapes
+09.1.4,Unrecorded cassettes
+09.1.4,Unrecorded video cassettes
+09.1.4,Unrecorded diskettes
+09.1.4,Unrecorded CD-ROMs
+09.1.4,Unexposed films
+09.1.4,Cartridges for photographic use
+09.1.4,Disks for cinematographic use
+09.1.4,Pre-recorded tapes of novels
+09.1.4,Pre-recorded tapes of plays
+09.1.4,Pre-recorded tapes of poetry
+09.1.4,Pre-recorded compact discs of novels
+09.1.4,Pre-recorded compact discs of plays
+09.1.4,Pre-recorded compact discs of poetry
+09.1.4,Pre-recorded diskettes containing books
+09.1.4,Pre-recorded diskettes containing dictionaries
+09.1.4,Pre-recorded diskettes containing encyclopaedias
+09.1.4,Pre-recorded diskettes containing foreign language trainers
+09.1.4,Pre-recorded diskettes containing multimedia presentations
+09.1.4,Pre-recorded CD-ROMs containing books
+09.1.4,Pre-recorded CD-ROMs containing dictionaries
+09.1.4,Pre-recorded CD-ROMs containing encyclopaedias
+09.1.4,Pre-recorded CD-ROMs containing foreign language trainers
+09.1.4,Pre-recorded CD-ROMs containing multimedia presentations
+09.1.4,Photographic paper
+09.1.4,Flashbulbs
+09.1.4,Unexposed film with processing cost included
+09.1.5,"Repair of audio-visual, photographic and information processing equipment"
+09.1.5,Repair of audio-visual equipment
+09.1.5,Repair of photographic equipment
+09.1.5,Repair of information processing equipment
+09.1.5,Labour cost for repair of audio-visual equipment
+09.1.5,Material cost for repair of photographic equipment
+09.1.5,Total value of repair service for information processing equipment
+09.2.1,Major durables for outdoor recreation
+09.2.1,Camper vans
+09.2.1,Caravans
+09.2.1,Trailers
+09.2.1,Aeroplanes
+09.2.1,Microlight aircraft
+09.2.1,Gliders
+09.2.1,Hang-gliders
+09.2.1,Hot-air balloons
+09.2.1,Boats
+09.2.1,Outboard motors
+09.2.1,Sails
+09.2.1,Rigging
+09.2.1,Superstructures
+09.2.1,Horses
+09.2.1,Ponies
+09.2.1,Horse or pony-drawn vehicles
+09.2.1,Harnesses
+09.2.1,Bridles
+09.2.1,Reins
+09.2.1,Saddles
+09.2.1,Canoes
+09.2.1,Kayaks
+09.2.1,Windsurfing boards
+09.2.1,Sea-diving equipment
+09.2.1,Golf carts
+09.2.2,Musical instruments and major durables for indoor recreation
+09.2.2,pianos
+09.2.2,organs
+09.2.2,violins
+09.2.2,guitars
+09.2.2,drums
+09.2.2,trumpets
+09.2.2,clarins
+09.2.2,flutes
+09.2.2,recorders
+09.2.2,harmonicas
+09.2.2,billiard tables
+09.2.2,ping-pong tables
+09.2.2,pinball machines
+09.2.2,gaming machines
+09.2.3,Maintenance and repair of other major durables for recreation and culture
+09.2.3,Maintenance and repair of boats
+09.2.3,Maintenance and repair of camper vans
+09.2.3,Maintenance and repair of caravans
+09.2.3,Laying up for winter of boats
+09.2.3,Laying up for winter of camper vans
+09.2.3,Laying up for winter of caravans
+09.2.3,Hangar services for private planes
+09.2.3,Marina services for boats
+09.2.3,Veterinary services for horses and ponies
+09.2.3,Stabling services for horses and ponies
+09.2.3,Feeding services for horses and ponies
+09.2.3,Farriery services for horses and ponies
+09.3.1,"Games, toys and hobbies"
+09.3.1,Card games
+09.3.1,Parlour games
+09.3.1,Chess sets
+09.3.1,Dolls
+09.3.1,Soft toys
+09.3.1,Toy cars
+09.3.1,Toy trains
+09.3.1,Toy bicycles
+09.3.1,Toy tricycles
+09.3.1,Toy construction sets
+09.3.1,Puzzles
+09.3.1,Plasticine
+09.3.1,Electronic games
+09.3.1,Masks
+09.3.1,Disguises
+09.3.1,Jokes
+09.3.1,Novelties
+09.3.1,Fireworks
+09.3.1,Rockets
+09.3.1,Festoons
+09.3.1,Christmas tree decorations
+09.3.1,Stamp albums
+09.3.1,Postage stamps
+09.3.1,Coin collections
+09.3.1,Medal collections
+09.3.1,Mineral collections
+09.3.1,Zoological specimens
+09.3.1,Botanical specimens
+09.3.1,Video-game software
+09.3.1,Video-game computers
+09.3.1,Video-game cassettes
+09.3.1,Video-game CD-ROMs
+09.3.2,"Equipment for sport, camping and open-air recreation"
+09.3.2,Gymnastic equipment
+09.3.2,Physical education equipment
+09.3.2,"Sport equipment such as balls, shuttlecocks, nets, rackets, bats, skis, golf clubs, foils, sabres, poles, weights, discuses, javelins, dumb-bells, chest expanders"
+09.3.2,Parachutes and sky-diving equipment
+09.3.2,"Firearms and ammunition for hunting, sport and personal protection"
+09.3.2,Fishing rods and fishing equipment
+09.3.2,"Beach and open-air game equipment such as bowls, croquet, frisbee, volleyball"
+09.3.2,"Inflatable boats, rafts and swimming pools"
+09.3.2,"Camping equipment such as tents, sleeping bags, backpacks, air mattresses, inflating pumps, camping stoves, barbecues"
+09.3.2,"Game-specific footwear like ski boots, football boots, golfing shoes"
+09.3.2,Protective headgear for sports
+09.3.2,"Protective gear for sports such as life jackets, boxing gloves, body padding, shin-guards, goggles, belts, supports"
+09.3.3,"Gardens, plants and flowers"
+09.3.3,Natural flowers
+09.3.3,Artificial flowers
+09.3.3,Foliage
+09.3.3,Plants
+09.3.3,Shrubs
+09.3.3,Bulbs
+09.3.3,Tubers
+09.3.3,Seeds
+09.3.3,Fertilizers
+09.3.3,Composts
+09.3.3,Garden peat
+09.3.3,Turf for lawns
+09.3.3,Specially treated soils for ornamental gardens
+09.3.3,Horticultural preparations
+09.3.3,Pots
+09.3.3,Pot holders
+09.3.3,Natural Christmas trees
+09.3.3,Artificial Christmas trees
+09.3.3,Delivery charges for flowers and plants
+09.3.4,Pets and related products
+09.3.4,Pets
+09.3.4,Pet foods
+09.3.4,Veterinary products for pets
+09.3.4,Grooming products for pets
+09.3.4,Collars
+09.3.4,Leashes
+09.3.4,Kennels
+09.3.4,Birdcages
+09.3.4,Fish tanks
+09.3.4,Cat litter
+09.3.5,Veterinary and other services for pets
+09.3.5,Veterinary services for pets
+09.3.5,Grooming services for pets
+09.3.5,Boarding services for pets
+09.3.5,Tattooing services for pets
+09.3.5,Training services for pets
+09.4.1,Recreational and sporting services
+09.4.1,services provided by sports stadiums
+09.4.1,services provided by horse-racing courses
+09.4.1,services provided by motor-racing circuits
+09.4.1,services provided by velodromes
+09.4.1,services provided by skating rinks
+09.4.1,services provided by swimming pools
+09.4.1,services provided by golf courses
+09.4.1,services provided by gymnasia
+09.4.1,services provided by fitness centres
+09.4.1,services provided by tennis courts
+09.4.1,services provided by squash courts
+09.4.1,services provided by bowling alleys
+09.4.1,services provided by fairgrounds
+09.4.1,servicesangle parks
+09.4.1,services provided by roundabouts
+09.4.1,services provided by see-saws
+09.4.1,services provided by other playground facilities for children
+09.4.1,services provided by pin-ball machines
+09.4.1,services provided by other games for adults other than games of chance
+09.4.1,services provided by ski slopes
+09.4.1,services provided by ski lifts
+09.4.1,hire of equipment and accessories for sport and recreation
+09.4.1,hire of aeroplanes
+09.4.1,hire of boats
+09.4.1,hire of horses
+09.4.1,hire of skiing equipment
+09.4.1,hire of camping equipment
+09.4.1,out-of-school individual or group lessons in bridge
+09.4.1,out-of-school individual or group lessons in chess
+09.4.1,out-of-school individual or group lessons in aerobics
+09.4.1,out-of-school individual or group lessons in dancing
+09.4.1,out-of-school individual or group lessons in music
+09.4.1,out-of-school individual or group lessons in skating
+09.4.1,out-of-school individual or group lessons in skiing
+09.4.1,out-of-school individual or group lessons in swimming
+09.4.1,out-of-school individual or group lessons in other pastimes
+09.4.1,services of mountain guides
+09.4.1,services of tour guides
+09.4.1,navigational aid services for boating
+09.4.1,hire of game-specific footwear
+09.4.1,hire of ski boots
+09.4.1,hire of football boots
+09.4.1,hire of golfing shoes
+09.4.1,hire of footwear fitted with ice-skates
+09.4.1,hire of footwear fitted with rollers
+09.4.1,hire of footwear fitted with spikes
+09.4.1,hire of footwear fitted with studs
+09.4.2,Cultural services
+09.4.2,cinemas
+09.4.2,theatres
+09.4.2,opera houses
+09.4.2,concert halls
+09.4.2,music halls
+09.4.2,circuses
+09.4.2,sound and light shows
+09.4.2,museums
+09.4.2,libraries
+09.4.2,art galleries
+09.4.2,exhibitions
+09.4.2,historic monuments
+09.4.2,national parks
+09.4.2,zoological and botanical gardens
+09.4.2,aquaria
+09.4.2,hire of equipment and accessories for culture
+09.4.2,television and radio broadcasting
+09.4.2,services of photographers
+09.4.2,services of musicians
+09.4.2,clowns
+09.4.2,performers for private entertainments
+09.4.3,Games of chance
+09.4.3,Service charges for lotteries
+09.4.3,Service charges for bookmakers
+09.4.3,Service charges for totalizators
+09.4.3,Service charges for casinos
+09.4.3,Service charges for gaming machines
+09.4.3,Service charges for bingo halls
+09.4.3,Service charges for scratch cards
+09.4.3,Service charges for sweepstakes
+09.5.1,Books
+09.5.1,atlases
+09.5.1,dictionaries
+09.5.1,encyclopaedias
+09.5.1,textbooks
+09.5.1,guidebooks
+09.5.1,musical scores
+09.5.1,scrapbooks for children
+09.5.1,albums for children
+09.5.1,bookbinding
+09.5.2,Newspapers and periodicals
+09.5.2,Newspapers
+09.5.2,Magazines
+09.5.2,Periodicals
+09.5.3,Miscellaneous printed matter
+09.5.3,Catalogues
+09.5.3,Advertising material
+09.5.3,Posters
+09.5.3,Plain postcards
+09.5.3,Picture postcards
+09.5.3,Calendars
+09.5.3,Greeting cards
+09.5.3,Visiting cards
+09.5.3,Announcement cards
+09.5.3,Message cards
+09.5.3,Maps
+09.5.3,Globes
+09.5.4,Stationery and drawing materials
+09.5.4,Writing pads
+09.5.4,Envelopes
+09.5.4,Account books
+09.5.4,Notebooks
+09.5.4,Diaries
+09.5.4,Pens
+09.5.4,Pencils
+09.5.4,Fountain pens
+09.5.4,Ballpoint pens
+09.5.4,Felt-tip pens
+09.5.4,Inks
+09.5.4,Erasers
+09.5.4,Pencil sharpeners
+09.5.4,Stencils
+09.5.4,Carbon paper
+09.5.4,Typewriter ribbons
+09.5.4,Inking pads
+09.5.4,Correcting fluids
+09.5.4,Paper punches
+09.5.4,Paper cutters
+09.5.4,Paper scissors
+09.5.4,Office glues and adhesives
+09.5.4,Staplers and staples
+09.5.4,Paper clips
+09.5.4,Drawing pins
+09.5.4,Canvas
+09.5.4,Paper
+09.5.4,Card
+09.5.4,Paints
+09.5.4,Crayons
+09.5.4,Pastels
+09.5.4,Brushes
+09.5.4,Toner and ink cartridges
+09.5.4,Exercise books
+09.5.4,Slide rules
+09.5.4,Geometry instruments
+09.5.4,Slates
+09.5.4,Chalks
+09.5.4,Pencil boxes
+09.6.0,Package holidays
+09.6.0,All inclusive holidays
+09.6.0,"Tours with travel, food, and accommodation"
+09.6.0,Half-day excursion tours
+09.6.0,One-day excursion tours
+09.6.0,Pilgrimages with guided tours
+10.1.0,Pre-primary and primary education
+10.1.0,Pre-primary education
+10.1.0,Primary education
+10.1.0,Literacy programmes for students too old for primary school
+10.2.0,Secondary education
+10.2.0,Lower-secondary education as defined in levels 2 of ISCED-97
+10.2.0,Upper-secondary education as defined in levels 3 of ISCED-97
+10.2.0,Out-of-school secondary education for adults
+10.2.0,Out-of-school secondary education for young people
+10.3.0,Post-secondary non-tertiary education
+10.3.0,post-secondary non-tertiary education
+10.3.0,out-of-school post-secondary non-tertiary education for adults
+10.3.0,out-of-school post-secondary non-tertiary education for young people
+10.4.0,Tertiary education
+10.4.0,First stage of tertiary education at Level 5 of ISCED-97
+10.4.0,Second stage of tertiary education at Level 6 of ISCED-97
+10.5.0,Education not definable by level
+10.5.0,Vocational training for adults
+10.5.0,Cultural development programmes for adults
+10.5.0,Adult education programmes not requiring special prior instruction
+10.5.0,Non-vocational adult training
+10.5.0,Lifelong learning programmes
+11.1.1,"Restaurants, caf�s and the like"
+11.1.1,Catering services provided by restaurants
+11.1.1,"Meals, snacks, drinks and refreshments provided by cafés, buffets, bars, tearooms"
+11.1.1,"Food and beverages provided in theatres, cinemas, sports stadiums, swimming pools, sports complexes, museums, art galleries, nightclubs, dancing establishments"
+11.1.1,"Catering services on public transport such as coaches, trains, boats, aeroplanes"
+11.1.1,"Sale of food products and beverages by kiosks, street vendors, and automatic vending machines"
+11.1.1,Sale of cooked dishes by restaurants for consumption off their premises
+11.1.1,Sale of cooked dishes by catering contractors for delivery or collection
+11.1.1,Tips provided to catering service providers
+11.1.2,Canteens
+11.1.2,canteens in works
+11.1.2,office canteens
+11.1.2,canteens in schools
+11.1.2,canteens in universities
+11.1.2,other educational establishments canteens
+11.1.2,university refectories
+11.1.2,military messes
+11.1.2,wardrooms
+11.2.0,Accommodation services
+11.2.0,hotels
+11.2.0,boarding houses
+11.2.0,motels
+11.2.0,inns
+11.2.0,bed and breakfast establishments
+11.2.0,holiday villages
+11.2.0,holiday centres
+11.2.0,camping sites
+11.2.0,caravan sites
+11.2.0,youth hostels
+11.2.0,mountain chalets
+11.2.0,boarding schools
+11.2.0,universities
+11.2.0,educational establishments
+11.2.0,public transport accommodation
+11.2.0,hostels for young workers
+11.2.0,hostels for immigrants
+11.2.0,tips for accommodation services
+11.2.0,porters for accommodation services
+12.1.1,Hairdressing salons and personal grooming establishments
+12.1.1,Services of hairdressing salons
+12.1.1,Services of barbers
+12.1.1,Services of beauty shops
+12.1.1,Manicures
+12.1.1,Pedicures
+12.1.1,Turkish baths
+12.1.1,Saunas
+12.1.1,Solariums
+12.1.1,Non-medical massages
+12.1.1,Bodycare
+12.1.1,Depilation
+12.1.2,Electric appliances for personal care
+12.1.2,Electric razors
+12.1.2,Hair trimmers
+12.1.2,Hand-held hairdryers
+12.1.2,Hood hairdryers
+12.1.2,Curling tongs
+12.1.2,Styling combs
+12.1.2,Sunlamps
+12.1.2,Vibrators
+12.1.2,Electric toothbrushes
+12.1.2,Other electric appliances for dental hygiene
+12.1.2,Repair of electric razors
+12.1.2,Repair of hair trimmers
+12.1.2,Repair of hand-held hairdryers
+12.1.2,Repair of hood hairdryers
+12.1.2,Repair of curling tongs
+12.1.2,Repair of styling combs
+12.1.2,Repair of sunlamps
+12.1.2,Repair of vibrators
+12.1.2,Repair of electric toothbrushes
+12.1.2,Repair of other electric appliances for dental hygiene
+12.1.3,"Other appliances, articles and products for personal care"
+12.1.3,Razors for personal care
+12.1.3,Hair trimmers and blades for personal care
+12.1.3,Scissors for personal care
+12.1.3,Nail files for personal care
+12.1.3,Combs for personal care
+12.1.3,Shaving brushes for personal care
+12.1.3,Hairbrushes for personal care
+12.1.3,Toothbrushes for personal care
+12.1.3,Nail brushes for personal care
+12.1.3,Hairpins for personal care
+12.1.3,Curlers for personal care
+12.1.3,Personal weighing machines for personal care
+12.1.3,Baby scales for personal care
+12.1.3,Toilet soap for personal hygiene
+12.1.3,Medicinal soap for personal hygiene
+12.1.3,Cleansing oil and milk for personal hygiene
+12.1.3,Shaving soap for personal hygiene
+12.1.3,Shaving cream and foam for personal hygiene
+12.1.3,Toothpaste for personal hygiene
+12.1.3,Lipstick for beauty care
+12.1.3,Nail varnish for beauty care
+12.1.3,Make-up and make-up removal products for beauty care
+12.1.3,Hair lacquers and lotions for beauty care
+12.1.3,Pre-shave and after-shave products for beauty care
+12.1.3,Sunbathing products for beauty care
+12.1.3,Hair removers for beauty care
+12.1.3,Perfumes and toilet waters for beauty care
+12.1.3,Personal deodorants for beauty care
+12.1.3,Bath products for beauty care
+12.1.3,Toilet paper for personal care
+12.1.3,Paper handkerchiefs for personal care
+12.1.3,Paper towels for personal care
+12.1.3,Sanitary towels for personal care
+12.1.3,Cotton wool for personal care
+12.1.3,Cotton tops for personal care
+12.1.3,Babies' napkins for personal care
+12.1.3,Toilet sponges for personal care
+12.2.0,Prostitution
+12.2.0,Services provided by prostitutes
+12.2.0,Services provided by erotic masseuses
+12.2.0,Services provided by escorts
+12.2.0,Services provided by adult entertainers
+12.3.1,"Jewellery, clocks and watches"
+12.3.1,Precious stones and metals
+12.3.1,Jewellery fashioned out of precious stones and metals
+12.3.1,Costume jewellery
+12.3.1,Cuff links
+12.3.1,Tiepins
+12.3.1,Clocks
+12.3.1,Watches
+12.3.1,Stopwatches
+12.3.1,Alarm clocks
+12.3.1,Travel clocks
+12.3.1,"Repair of jewellery, clocks and watches"
+12.3.2,Other personal effects
+12.3.2,suitcases
+12.3.2,trunks
+12.3.2,travel bags
+12.3.2,attaché cases
+12.3.2,satchels
+12.3.2,hand-bags
+12.3.2,wallets
+12.3.2,purses
+12.3.2,baby carriages
+12.3.2,pushchairs
+12.3.2,carrycots
+12.3.2,recliners
+12.3.2,car beds and seats
+12.3.2,back-carriers
+12.3.2,front carriers
+12.3.2,reins and harnesses
+12.3.2,pipes
+12.3.2,lighters
+12.3.2,cigarette cases
+12.3.2,cigar cutters
+12.3.2,ashtrays
+12.3.2,sunglasses
+12.3.2,walking sticks and canes
+12.3.2,umbrellas and parasols
+12.3.2,fans
+12.3.2,keyrings
+12.3.2,coffins
+12.3.2,gravestones
+12.3.2,urns
+12.3.2,lighter fuel
+12.3.2,wall thermometers
+12.3.2,barometers
+12.4.0,Social protection
+12.4.0,Retirement homes for elderly persons
+12.4.0,Residences for disabled persons
+12.4.0,Rehabilitation centres providing long-term support for patients
+12.4.0,Schools for disabled persons where the main aim is to help students overcome their disability
+12.4.0,Home-cleaning services for elderly and disabled persons
+12.4.0,Meal programmes for elderly and disabled persons
+12.4.0,Day-care centres for elderly and disabled persons
+12.4.0,Day-care services for elderly and disabled persons
+12.4.0,Holiday-care services for elderly and disabled persons
+12.4.0,Wet-nurses
+12.4.0,Crèches
+12.4.0,Play schools
+12.4.0,Child-minding facilities
+12.4.0,Counselling services for families
+12.4.0,Guidance services for families
+12.4.0,Arbitration services for families
+12.4.0,Fostering services for families
+12.4.0,Adoption services for families
+12.5.1,Life insurance
+12.5.1,Life insurance service charges
+12.5.1,Life assurance service charges
+12.5.1,Death benefit assurance service charges
+12.5.1,Education assurance service charges
+12.5.2,Insurance connected with the dwelling
+12.5.2,Insurance against fire for owner-occupiers
+12.5.2,Insurance against theft for tenants
+12.5.2,Service charges for water damage insurance paid by owner-occupiers
+12.5.2,Service charges for fire insurance paid by tenants
+12.5.3,Insurance connected with health
+12.5.3,Private sickness insurance service charges
+12.5.3,Private accident insurance service charges
+12.5.3,Health insurance service charges for private coverage
+12.5.4,Insurance connected with transport
+12.5.4,Insurance for personal transport equipment
+12.5.4,Travel insurance
+12.5.4,Luggage insurance
+12.5.5,Other insurance
+12.5.5,Service charges for civil liability insurance for injury to third parties
+12.5.5,Service charges for civil liability insurance for damage to third parties' property
+12.5.5,Service charges for other insurance related to third party liability
+12.6.1,FISIM
+12.6.1,"Financial intermediation services indirectly measured, such as banking services, investment services, and insurance services"
+12.6.2,Other financial services n.e.c.
+12.6.2,Actual charges for the financial services of banks
+12.6.2,Fees and service charges of brokers
+12.6.2,Fees and service charges of investment counsellors
+12.6.2,Fees and service charges of tax consultants
+12.6.2,Administrative charges of private pension funds
+12.7.0,Other services n.e.c.
+12.7.0,Fees for legal services
+12.7.0,Charges for undertaking and funeral services
+12.7.0,Payment for estate agents and housing agents services
+12.7.0,Payment for auctioneers and salesroom operators services
+12.7.0,Payment for photocopies and reproductions of documents
+12.7.0,"Fees for birth, marriage and death certificates"
+12.7.0,Payment for newspaper notices and advertisements
+12.7.0,Fees for graphologists services
+12.7.0,Fees for astrologers services
+12.7.0,Payment for private detectives services
+12.7.0,Payment for bodyguards services
+12.7.0,Fees for matrimonial agencies services
+12.7.0,Fees for marriage guidance counsellors services
+12.7.0,Payment for public writers services
+12.7.0,"Payment for miscellaneous concessions such as seats, toilets, and cloakrooms"
+13.1.0,Housing
+13.1.0,Housing as specified in COPNI 01.0.0
+13.1.0,Housing corresponding to COPNI 04.1.1
+13.1.0,Housing corresponding to COPNI 14.1.0
+13.2.1,Pharmaceutical products
+13.2.1,Pharmaceutical products as specified in COPNI 02.1.1
+13.2.1,Products corresponding to COPNI 06.1.1
+13.2.1,Products corresponding to COPNI 14.2.1
+13.2.2,Other medical products
+13.2.2,Medical products as specified in COPNI 02.1.2
+13.2.2,Products corresponding to COPNI (06.1.2)
+13.2.2,Products corresponding to COPNI (14.2.2)
+13.2.3,Therapeutic appliances and equipment
+13.2.3,Therapeutic appliances
+13.2.3,Therapeutic equipment
+13.2.3,Appliances for therapeutic use as specified in COPNI 02.1.3
+13.2.3,Equipment for therapeutic use as specified in COPNI 02.1.3
+13.2.3,Therapeutic appliances corresponding to COPNI 06.1.3
+13.2.3,Therapeutic equipment corresponding to COPNI 06.1.3
+13.2.3,Therapeutic appliances corresponding to COPNI 14.2.3
+13.2.3,Therapeutic equipment corresponding to COPNI 14.2.3
+13.2.4,Outpatient medical services
+13.2.4,Outpatient medical services as specified in COPNI 02.2.1
+13.2.4,Outpatient medical services corresponding to COPNI 06.2.1
+13.2.4,Outpatient medical services corresponding to COPNI 14.2.4
+13.2.5,Outpatient dental services
+13.2.5,Outpatient dental services as specified in COPNI 02.2.2
+13.2.5,Outpatient dental services corresponding to COICOP 06.2.2
+13.2.5,Outpatient dental services corresponding to COICOP 14.2.5
+13.2.6,Outpatient paramedical services
+13.2.6,Outpatient paramedical services as specified in COPNI 02.2.3
+13.2.6,Services corresponding to COPNI 06.2.3
+13.2.6,Services corresponding to COPNI 14.2.6
+13.2.7,Hospital services
+13.2.7,Hospital services as specified in COPNI 02.3.0
+13.2.7,Services corresponding to COPNI 06.3.0
+13.2.7,Services corresponding to COPNI 14.2.7
+13.2.8,Other health services
+13.2.8,Services as specified in COPNI 02.4.0
+13.2.8,Services as specified in COPNI 02.5.0
+13.2.8,Services as specified in COPNI 02.6.0
+13.3.1,Recreational and sporting services
+13.3.1,Recreational services as specified in COPNI 03.1.0
+13.3.1,Sporting services as specified in COPNI 03.1.0
+13.3.1,Services corresponding to COPNI 09.4.1
+13.3.1,Services corresponding to COPNI 14.3.1
+13.3.2,Cultural services
+13.3.2,Cultural services as specified in COPNI 03.2.0
+13.3.2,Services corresponding to COPNI 09.4.2
+13.3.2,Services corresponding to COPNI 14.3.2
+13.4.1,Pre-primary and primary education
+13.4.1,Pre-primary education as specified in COPNI 04.1.0
+13.4.1,Primary education as specified in COPNI 04.1.0
+13.4.1,Education corresponding to COPNI (10.1.0)
+13.4.1,Education corresponding to COPNI (14.4.1)
+13.4.2,Secondary education
+13.4.2,Secondary education as specified in COPNI 04.2.0
+13.4.2,Education corresponding to COPNI classification (10.2.0)
+13.4.2,Education corresponding to COPNI classification (14.4.2)
+13.4.3,Post-secondary non-tertiary education
+13.4.3,Post-secondary non-tertiary education as specified in COPNI 04.3.0
+13.4.3,Education corresponding to COPNI codes (10.3.0) and (14.4.3)
+13.4.4,Tertiary education
+13.4.4,Education at university level as specified in COPNI 04.4.0
+13.4.4,Tertiary education corresponding to COPNI codes (10.4.0) and (14.4.4)
+13.4.5,Education not definable by level
+13.4.5,Education not definable by level as specified in COPNI 04.5.0
+13.4.5,Corresponds to COPNI codes 10.5.0 and 14.4.5
+13.4.6,Other educational services
+13.4.6,"Services provided by educational institutions, such as language courses, computer training, and professional certification programs as specified in COPNI 04.6.0"
+13.4.6,"Educational support services, including tutoring, test preparation, and educational consulting as specified in COPNI 04.7.0"
+13.5.0,Social protection
+13.5.0,Social protection as specified in COPNI 05.1.0
+13.5.0,Social protection as specified in COPNI 05.2.0
+13.5.0,Social protection corresponding to COPNI (12.4.0)
+13.5.0,Social protection corresponding to COPNI (14.5.0)
+13.6.1,Religion
+13.6.1,Religious books
+13.6.1,Religious worship services
+13.6.1,Religious education
+13.6.1,Religious charitable donations
+13.6.1,Religious artifacts
+13.6.1,Religious ceremonies
+13.6.1,Religious retreats
+13.6.1,Religious pilgrimages
+13.6.2,"Political parties, labour and professional organizations"
+13.6.2,Political parties
+13.6.2,Labour organizations
+13.6.2,Professional organizations
+13.6.3,Environmental protection
+13.6.3,Protection of air and water quality as specified in COPNI 08.1.0
+13.6.3,Waste management and reduction as specified in COPNI 08.2.0
+13.6.3,Conservation of natural resources and ecosystems
+13.6.3,Climate change mitigation and adaptation measures
+13.6.4,Services n.e.c.
+13.6.4,Services n.e.c. as specified in COPNI 09.1.0
+13.6.4,Services n.e.c. as specified in COPNI 09.2.0
+14.1.0,Housing
+14.1.0,Housing as specified in COFOG 10.6.0
+14.1.0,Housing corresponding to COFOG 04.1.1
+14.1.0,Housing corresponding to COFOG 13.1.0
+14.2.1,Pharmaceutical products
+14.2.1,Pharmaceutical products as specified in COFOG 07.1.1
+14.2.1,Corresponds to COFOG 06.1.1
+14.2.1,Corresponds to COFOG 13.2.1
+14.2.2,Other medical products
+14.2.2,Medical products as specified in COFOG 07.1.2
+14.2.2,Products corresponding to COFOG 06.1.2
+14.2.2,Products corresponding to COFOG 13.2.2
+14.2.3,Therapeutic appliances and equipment
+14.2.3,Therapeutic appliances
+14.2.3,Therapeutic equipment
+14.2.3,COFOG 07.1.3 appliances
+14.2.3,COFOG 07.1.3 equipment
+14.2.3,06.1.3 therapeutic appliances
+14.2.3,06.1.3 therapeutic equipment
+14.2.3,13.2.3 therapeutic appliances
+14.2.3,13.2.3 therapeutic equipment
+14.2.4,Outpatient medical services
+14.2.4,Outpatient medical services as specified in COFOG 07.2.1
+14.2.4,Outpatient medical services as specified in COFOG 07.2.2
+14.2.4,Outpatient medical services corresponding to 06.2.1
+14.2.4,Outpatient medical services corresponding to 13.2.4
+14.2.5,Outpatient dental services
+14.2.5,Outpatient dental services as specified in COFOG 07.2.3
+14.2.5,Outpatient dental services corresponding to COFOG 06.2.2
+14.2.5,Outpatient dental services corresponding to COFOG 13.2.5
+14.2.6,Outpatient paramedical services
+14.2.6,Outpatient paramedical services as specified in COFOG 07.2.4
+14.2.6,Services corresponding to COFOG 06.2.3
+14.2.6,Services corresponding to COFOG 13.2.6
+14.2.7,Hospital services
+14.2.7,Hospital services as specified in COFOG 07.3.1
+14.2.7,Hospital services as specified in COFOG 07.3.2
+14.2.7,Hospital services as specified in COFOG 07.3.3
+14.2.7,Hospital services as specified in COFOG 07.3.4
+14.2.7,Hospital services corresponding to 06.3.0
+14.2.7,Hospital services corresponding to 13.2.6
+14.2.8,Public health services
+14.2.8,Medical services provided by government agencies
+14.2.8,Immunization programs
+14.2.8,Disease control and prevention services
+14.2.8,Health education and awareness campaigns
+14.2.8,Government-funded health clinics and hospitals
+14.3.1,Recreational and sporting services
+14.3.1,Recreational services
+14.3.1,Sporting services
+14.3.1,Services related to recreational activities
+14.3.1,Services related to sporting activities
+14.3.2,Cultural services
+14.3.2,Cultural services as specified in COFOG 08.2.0
+14.3.2,Services corresponding to COFOG 09.4.2
+14.3.2,Services corresponding to COFOG 13.3.2
+14.4.1,Pre-primary and primary education
+14.4.1,Pre-primary education as specified in COFOG 09.1.1
+14.4.1,Primary education as specified in COFOG 09.1.2
+14.4.1,Education corresponding to (10.1.0)
+14.4.1,Education corresponding to (13.4.1)
+14.4.2,Secondary education
+14.4.2,Secondary education as specified in COFOG 09.2.1
+14.4.2,Secondary education as specified in COFOG 09.2.2
+14.4.2,Education corresponding to COFOG classification 10.2.0pe
+14.4.2,Education corresponding to COFOG classification 13.4.2
+14.4.3,Post-secondary non-tertiary education
+14.4.3,Post-secondary non-tertiary education as specified in COFOG 09.3.0
+14.4.3,Education corresponding to COFOG 10.3.0
+14.4.3,Education corresponding to COFOG 13.4.3
+14.4.4,Tertiary education
+14.4.4,Education at universities and colleges as specified in COFOG 09.4.1
+14.4.4,Post-secondary non-tertiary education as specified in COFOG 09.4.2
+14.4.4,Tertiary education corresponding to COFOG classification 10.4.0
+14.4.4,Tertiary education corresponding to COFOG classification 13.4.4
+14.4.5,Education not definable by level
+14.4.5,Education not definable by level as specified in COFOG 09.5.0
+14.4.5,Education corresponding to COFOG 10.5.0
+14.4.5,Education corresponding to COFOG 13.4.5
+14.4.6,Subsidiary services to education
+14.4.6,"Services of museums, libraries, and other cultural institutions that support education"
+14.4.6,Student counselling and career guidance services
+14.4.6,Educational research and development services
+14.4.6,Services of institutions providing training for teachers and other educational staff
+14.5.0,Social protection
+14.5.0,Social protection as specified in COFOG 10.1.1
+14.5.0,Social protection as specified in COFOG 10.1.2
+14.5.0,Social protection as specified in COFOG 10.1.3
+14.5.0,Social protection as specified in COFOG 10.1.4
+14.5.0,Social protection as specified in COFOG 10.1.5
+14.5.0,Social protection as specified in COFOG 10.1.6
+14.5.0,Social protection as specified in COFOG 10.1.7
+14.5.0,Social protection as specified in COFOG 10.1.8
+14.5.0,Social protection as specified in COFOG 10.1.9
+14.5.0,Social protection as specified in COFOG 10.2.0
+14.5.0,Social protection as specified in COFOG 10.3.0
+14.5.0,Social protection as specified in COFOG 10.4.0
+14.5.0,Social protection as specified in COFOG 10.5.0
+14.5.0,Social protection as specified in COFOG 10strcasecmp.7.0
+14.5.0,Social protection as specified in COFOG corresponding to 12.4.0
+14.5.0,Social protection as specified in COFOG corresponding to 13.5.0
+01.1.1,Pain et céréales
+01.1.1,Riz sous toutes ses formes
+01.1.1,Maïs
+01.1.1,Blé
+01.1.1,Orge
+01.1.1,Avoine
+01.1.1,Seigle et autres céréales sous forme de grain ou de farine
+01.1.1,Pain
+01.1.1,Biscottes
+01.1.1,Croissants et viennoiseries
+01.1.1,Pâtisseries et tartes
+01.1.1,Gâteaux secs
+01.1.1,Gaufres et crêpes
+01.1.1,Pain d'épices
+01.1.1,Tourtes
+01.1.1,Quiches et pizzas
+01.1.1,Mélanges et pâtes pour la préparation de produits de boulangerie
+01.1.1,Pâtes alimentaires sous toutes leurs formes
+01.1.1,Couscous
+01.1.1,"Préparations à base de céréales (flocons de maïs, flocons d'avoine, etc.)"
+01.1.1,Malt
+01.1.1,Farine de malt
+01.1.1,Extrait de malt
+01.1.1,Fécule de pomme de terre
+01.1.1,Tapioca
+01.1.1,Sagou et autres fécules et amidons
+01.1.1,Produits à base de farine préparés avec de la viande
+01.1.1,Produits à base de farine préparés avec du poisson
+01.1.1,Produits à base de farine préparés avec des fruits de mer
+01.1.1,Produits à base de farine préparés avec du fromage
+01.1.1,Produits à base de farine préparés avec des légumes
+01.1.1,Produits à base de farine préparés avec des fruits
+01.1.2,Viande
+01.1.2,Viande fraîche de boeuf
+01.1.2,Viande réfrigérée de porc
+01.1.2,Viande surgelée d'agneau
+01.1.2,Cheval frais
+01.1.2,Mulet réfrigéré
+01.1.2,Âne surgelé
+01.1.2,Chameau frais
+01.1.2,Poulet frais
+01.1.2,Canard réfrigéré
+01.1.2,Oie surgelée
+01.1.2,Dinde fraîche
+01.1.2,Pintade réfrigérée
+01.1.2,Lièvre frais
+01.1.2,Lapin réfrigéré
+01.1.2,Gibier surgelé
+01.1.2,Antilope fraîche
+01.1.2,Daim réfrigéré
+01.1.2,Sanglier surgelé
+01.1.2,Faisan frais
+01.1.2,Grouse réfrigéré
+01.1.2,Pigeon surgelé
+01.1.2,Caille fraîche
+01.1.2,Abats comestibles frais de boeuf
+01.1.2,Abats comestibles réfrigérés de porc
+01.1.2,Abats comestibles surgelés d'agneau
+01.1.2,Chair à saucisse séchée
+01.1.2,Saucisson salé
+01.1.2,Lard fumé
+01.1.2,Jambon séché
+01.1.2,Pâté salé
+01.1.2,Viande en boîte
+01.1.2,Extrait de viande
+01.1.2,Jus de viande
+01.1.2,Viande en croûte
+01.1.2,Viande de mammifères marins fraîche
+01.1.2,Viande d'espèces exotiques réfrigérée
+01.1.2,Viande d'animaux achetés vivants fraîche
+01.1.3,Poisson et fruits de mer
+01.1.3,Poisson frais
+01.1.3,Poisson réfrigéré
+01.1.3,Poisson surgelé
+01.1.3,Crustacés réfrigérés
+01.1.3,Crustacés surgelés
+01.1.3,Crabes terrestres réfrigérés
+01.1.3,Crabes terrestres surgelés
+01.1.3,Mollusques réfrigérés
+01.1.3,Mollusques surgelés
+01.1.3,Escargots réfrigérés
+01.1.3,Escargots surgelés
+01.1.3,Coquillages réfrigérés
+01.1.3,Coquillages surgelés
+01.1.3,Cuisses de grenouilles réfrigérées
+01.1.3,Cuisses de grenouilles surgelées
+01.1.3,Poisson séché
+01.1.3,Poisson fumé
+01.1.3,Poisson salé
+01.1.3,Crustacés séchés
+01.1.3,Crustacés fumés
+01.1.3,Crustacés salés
+01.1.3,Mollusques séchés
+01.1.3,Mollusques fumés
+01.1.3,Mollusques salés
+01.1.3,Poisson en boîte
+01.1.3,Crustacés en boîte
+01.1.3,Mollusques en boîte
+01.1.3,Caviar
+01.1.3,Oeufs de poisson
+01.1.3,Poisson en croûte
+01.1.4,"Lait, fromage et oeufs"
+01.1.4,Lait cru
+01.1.4,Lait pasteurisé
+01.1.4,Lait stérilisé
+01.1.4,Lait condensé
+01.1.4,Lait concentré
+01.1.4,Lait en poudre
+01.1.4,Yaourt
+01.1.4,Crème de lait
+01.1.4,Desserts lactés
+01.1.4,Boissons lactées
+01.1.4,Produits analogues à base de lait
+01.1.4,Fromage divers
+01.1.4,Caillebotte
+01.1.4,Oeufs
+01.1.4,Préparations exclusivement à base d'oeuf
+01.1.4,Lait additionné de sucre
+01.1.4,Lait additionné de cacao
+01.1.4,Lait additionné de fruits
+01.1.4,Lait additionné d'aromatisants
+01.1.4,Yaourt additionné de sucre
+01.1.4,Yaourt additionné de cacao
+01.1.4,Yaourt additionné de fruits
+01.1.4,Yaourt additionné d'aromatisants
+01.1.4,Crème de lait additionnée de sucre
+01.1.4,Crème de lait additionnée de cacao
+01.1.4,Crème de lait additionnée de fruits
+01.1.4,Crème de lait additionnée d'aromatisants
+01.1.4,Succédanés du lait
+01.1.4,Lait de soja
+01.1.5,Huiles et graisses
+01.1.5,Beurre
+01.1.5,Huile de beurre
+01.1.5,Beurre fondu
+01.1.5,Margarine
+01.1.5,Margarine allégée
+01.1.5,Beurre d'arachide
+01.1.5,Huile d'olive
+01.1.5,Huile de soja
+01.1.5,Huile de maïs
+01.1.5,Huile de tournesol
+01.1.5,Huile de coton
+01.1.5,Huile d'arachide
+01.1.5,Huile de noix
+01.1.5,Saindoux
+01.1.6,Fruits
+01.1.6,Fruits frais
+01.1.6,Fruits réfrigérés
+01.1.6,Fruits surgelés
+01.1.6,Fruits séchés
+01.1.6,Écorces de fruit
+01.1.6,Noyaux et amandes
+01.1.6,Fruits à coque
+01.1.6,Graines comestibles
+01.1.6,Fruits en conserves
+01.1.6,Produits à base de fruits
+01.1.6,Melons
+01.1.6,Pastèques
+01.1.7,Légumes
+01.1.7,"Légumes frais, réfrigérés, surgelés ou séchés, cultivés pour leurs feuilles"
+01.1.7,"Légumes frais, réfrigérés, surgelés ou séchés, cultivés pour leur tige"
+01.1.7,"Légumes frais, réfrigérés, surgelés ou séchés, cultivés pour leur fruit"
+01.1.7,"Légumes frais, réfrigérés, surgelés ou séchés, cultivés pour leur racine"
+01.1.7,Pommes de terre et autres tubercules frais ou réfrigérés
+01.1.7,Légumes en conserves et produits à base de légumes
+01.1.7,Produits issus de tubercule
+01.1.7,Olives
+01.1.7,Ail
+01.1.7,Légumineuses
+01.1.7,Maïs doux
+01.1.7,Fenouil marin et autres algues comestibles
+01.1.7,Champignons comestibles
+01.1.8,"Sucre, confiture, miel, chocolat et confiserie"
+01.1.8,Sucre de canne
+01.1.8,Sucre de betterave
+01.1.8,Sucre brut
+01.1.8,Sucre raffiné
+01.1.8,Sucre en poudre
+01.1.8,Sucre cristallisé
+01.1.8,Sucre en morceaux
+01.1.8,Confitures
+01.1.8,Compotes
+01.1.8,Pâtes de fruit
+01.1.8,Miel naturel
+01.1.8,Miel artificiel
+01.1.8,Sirop d'érable
+01.1.8,Mélasse
+01.1.8,Fruits confits
+01.1.8,Chocolat en tablette
+01.1.8,Chocolat en plaque
+01.1.8,Gomme à mâcher
+01.1.8,Bonbons
+01.1.8,Pastilles
+01.1.8,Confiseries
+01.1.8,Produits à base de cacao
+01.1.8,Préparations pour dessert à base de cacao
+01.1.8,Glace
+01.1.8,Crème glacée
+01.1.8,Sorbet
+01.1.8,Succédanés de sucre (sucrettes)
+01.1.9,Produits alimentaires n.c.a.
+01.1.9,Sel
+01.1.9,"Épices (poivre, piment, gingembre, etc.)"
+01.1.9,"Plantes aromatiques (persil, romarin, thym, etc.)"
+01.1.9,Sauces
+01.1.9,Condiments
+01.1.9,"Assaisonnements (moutarde, mayonnaise, ketchup, sauce de soja, etc.)"
+01.1.9,Vinaigre
+01.1.9,Poudres à lever préparées
+01.1.9,Levure de boulanger
+01.1.9,Préparations pour dessert
+01.1.9,Soupes
+01.1.9,Potages
+01.1.9,Bouillons
+01.1.9,Ingrédients divers pour la cuisine
+01.1.9,Aliments homogénéisés pour nourrisson
+01.1.9,Préparations diététiques
+01.2.1,"Café, thé et cacao"
+01.2.1,Café torréfié
+01.2.1,Café non torréfié
+01.2.1,Café décaféiné
+01.2.1,Café non décaféiné
+01.2.1,Café moulu
+01.2.1,Café non moulu
+01.2.1,Café instantané
+01.2.1,Thé
+01.2.1,Maté
+01.2.1,Produits à infuser
+01.2.1,Plantes à infuser
+01.2.1,Cacao sucré
+01.2.1,Cacao non sucré
+01.2.1,Poudre à base de chocolat
+01.2.1,Préparations pour boissons à base de cacao
+01.2.1,Succédanés de café
+01.2.1,Succédanés de thé
+01.2.1,Extraits de café
+01.2.1,Extraits de thé
+01.2.1,Essences de café
+01.2.1,Essences de thé
+01.2.2,"Eaux minérales, boissons rafraîchissantes, jus de fruits et de légumes"
+01.2.2,Eau minérale
+01.2.2,Eau de source
+01.2.2,Eau potable conditionnée
+01.2.2,Sodas
+01.2.2,Colas
+01.2.2,Limonades
+01.2.2,Jus de fruits
+01.2.2,Jus de légumes
+01.2.2,Sirops pour boissons
+01.2.2,Concentrés pour boissons
+02.1.1,Alcools de bouche
+02.1.1,Eaux-de-vie
+02.1.1,Liqueurs
+02.1.1,Spiritueux
+02.1.1,Hydromel
+02.1.1,Apéritifs autres que les apéritifs à base de vin
+02.1.2,Vin et boissons fermentées
+02.1.2,Vin
+02.1.2,Boissons fermentées
+02.1.2,Cidre
+02.1.2,Poiré
+02.1.2,Saké
+02.1.2,Apéritifs à base de vin
+02.1.2,Vins enrichis en alcool
+02.1.2,Champagne
+02.1.2,Vins mousseux
+02.1.3,Bière
+02.1.3,Bière blonde
+02.1.3,Bière brune
+02.1.3,Bière à faible teneur en alcool
+02.1.3,Bière sans alcool
+02.1.3,Panaché
+02.2.0,Tabac
+02.2.0,Cigarettes
+02.2.0,tabac
+02.2.0,papier à cigarette
+02.2.0,Cigares
+02.2.0,tabac pour pipe
+02.2.0,tabac à mâcher
+02.2.0,tabac à priser
+02.3.0,Stupéfiants
+02.3.0,Cannabis
+02.3.0,opium
+02.3.0,cocaïne et leurs dérivés
+02.3.0,noix de cola
+02.3.0,feuilles de bétel
+02.3.0,noix d'arec
+02.3.0,Autres stupéfiants et drogues chimiques
+02.3.0,drogues synthétiques
+03.1.1,Tissus pour habillement1
+03.1.1,Tissus en fibres naturelles pour habillement
+03.1.1,Tissus en fibres synthétiques pour habillement
+03.1.1,Tissus en fibres mélangées pour habillement
+03.1.1,Étoffes en fibres naturelles pour habillement
+03.1.1,Étoffes en fibres synthétiques pour habillement
+03.1.1,Étoffes en fibres mélangées pour habillement
+03.1.2,Vêtements
+03.1.2,Vêtements pour hommes
+03.1.2,Vêtements pour femmes
+03.1.2,Vêtements pour enfants de 3 à 13 ans
+03.1.2,Vêtements pour nourrissons de 0 à 2 ans
+03.1.2,Vêtements de confection
+03.1.2,Vêtements sur mesure
+03.1.2,Vêtements en cuir
+03.1.2,Vêtements en fourrure
+03.1.2,Vêtements en plastique
+03.1.2,Vêtements en caoutchouc
+03.1.2,Vêtements pour tous les jours
+03.1.2,Vêtements pour le sport
+03.1.2,Vêtements pour le travail
+03.1.2,Capes
+03.1.2,Manteaux
+03.1.2,Impérables
+03.1.2,Anoraks
+03.1.2,Parkas
+03.1.2,Blousons
+03.1.2,Vestes
+03.1.2,Pantalons
+03.1.2,Gilets
+03.1.2,Complets
+03.1.2,Tailleurs
+03.1.2,Robes
+03.1.2,Jupes
+03.1.2,Chemises
+03.1.2,Corsages
+03.1.2,Pull-overs
+03.1.2,Chandails
+03.1.2,Shorts
+03.1.2,Maillots de bain
+03.1.2,Survêtements
+03.1.2,Sweat-shirts
+03.1.2,Tee-shirts
+03.1.2,Justaucorps
+03.1.2,Tricots de corps
+03.1.2,Slips
+03.1.2,Chaussettes
+03.1.2,Bas
+03.1.2,Collants
+03.1.2,Jupons
+03.1.2,Soutien-gorges
+03.1.2,Culottes
+03.1.2,Combinaisons
+03.1.2,Gaines
+03.1.2,Corsets
+03.1.2,Bodys
+03.1.2,Pyjamas
+03.1.2,Chemises de nuit
+03.1.2,Robes d'intérieur
+03.1.2,Robes de chambre
+03.1.2,Peignoirs
+03.1.2,Vêtements de bébé en textiles
+03.1.2,Chaussons de bébé en textiles
+03.1.3,Autres articles et accessoires d'habillement
+03.1.3,Cravates
+03.1.3,Mouchoirs
+03.1.3,Écharpes
+03.1.3,Foulards
+03.1.3,Gants
+03.1.3,Moufles
+03.1.3,Manchons
+03.1.3,Ceintures
+03.1.3,Bretelles
+03.1.3,Tabliers
+03.1.3,Blouses
+03.1.3,Bavoirs
+03.1.3,Protège-manches
+03.1.3,Chapeaux
+03.1.3,Casquettes
+03.1.3,Bérets
+03.1.3,Bonnets
+03.1.3,Fils à coudre
+03.1.3,Fils à tricoter
+03.1.3,Boucles
+03.1.3,Boutons-pressions
+03.1.3,Fermetures éclair
+03.1.3,Rubans
+03.1.3,Dentelles
+03.1.3,Passementerie
+03.1.4,"Nettoyage, réparation et location d'articles d'habillement1"
+03.1.4,Nettoyage à sec de vêtements
+03.1.4,Blanchissage de vêtements
+03.1.4,Teinture de vêtements
+03.1.4,Reprisage de vêtements
+03.1.4,Raccommodage de vêtements
+03.1.4,Retouche de vêtements
+03.1.4,Location de vêtements
+03.1.4,Réparation de vêtements avec coût de la main-d'oeuvre et des fournitures
+03.2.1,Chaussures diverses
+03.2.1,Chaussures pour hommes
+03.2.1,Chaussures pour femmes
+03.2.1,Chaussures pour enfants de 3 à 13 ans
+03.2.1,Chaussures pour nourrissons de 0 à 2 ans
+03.2.1,Chaussures de sport pour le jogging
+03.2.1,Chaussures de sport pour le cross
+03.2.1,Chaussures de sport pour le tennis
+03.2.1,Chaussures de sport pour le basket-ball
+03.2.1,Chaussures de sport pour la navigation de plaisance
+03.2.1,Guêtres
+03.2.1,Jambières
+03.2.1,Lacets
+03.2.1,Fournitures pour chaussures telles que talons et semelles pour réparation
+03.2.2,Cordonnerie et location de chaussures1
+03.2.2,Réparation de chaussures comprenant le coût de la main-d'oeuvre et des fournitures
+03.2.2,Nettoyage de chaussures
+03.2.2,Cirage de chaussures
+03.2.2,Location de chaussures
+04.1.1,Loyers effectivement payés par les locataires
+04.1.1,Loyers effectivement payés par les locataires ou sous-locataires occupant un local non meublé en tant que résidence principale
+04.1.1,Loyers effectivement payés par les locataires ou sous-locataires occupant un local meublé en tant que résidence principale
+04.1.1,Paiements effectués par des ménages occupant une chambre dans un hôtel en tant que résidence principale
+04.1.1,Paiements effectués par des ménages occupant une chambre dans une pension en tant que résidence principale
+04.1.2,Autres loyers effectifs
+04.1.2,Loyers effectifs des résidences secondaires
+04.2.1,Loyers fictifs des propriétaires-occupants
+04.2.1,Loyers fictifs des propriétaires-occupants
+04.2.1,Loyers fictifs des propriétaires occupant leur résidence principale
+04.2.2,Autres loyers fictifs
+04.2.2,Loyers fictifs des résidences secondaires
+04.2.2,Loyers fictifs des ménages qui paient un loyer réduit
+04.2.2,Loyers fictifs des ménages qui sont logés gratuitement
+04.3.1,Fournitures pour travaux d'entretien et de réparation des logements
+04.3.1,Peintures pour les murs
+04.3.1,Vernis pour les meubles
+04.3.1,Enduits pour les plafonds
+04.3.1,Papiers peints pour les murs
+04.3.1,Tentures murales pour la décoration
+04.3.1,Vitres pour les fenêtres
+04.3.1,Plâtre pour les réparations
+04.3.1,Ciment pour les constructions
+04.3.1,Mastic pour les joints
+04.3.1,Colle à papier peint pour les papiers peints
+04.3.1,Tuyaux pour la plomberie
+04.3.1,Robinet pour les éviers
+04.3.1,Joints pour les tuyaux
+04.3.1,Lattes de plancher pour les sols
+04.3.1,Carreaux de céramique pour les sols
+04.3.1,Pinceaux pour la peinture
+04.3.1,Brosses pour la peinture
+04.3.1,Grattoirs pour la peinture et le vernis
+04.3.2,Services concernant l'entretien et les réparations du logement
+04.3.2,Services d'entretien et de réparation du logement par des plombiers
+04.3.2,Services d'entretien et de réparation du logement par des électriciens
+04.3.2,Services d'entretien et de réparation du logement par des menuisiers
+04.3.2,Services d'entretien et de réparation du logement par des vitriers
+04.3.2,Services d'entretien et de réparation du logement par des peintres
+04.3.2,Services d'entretien et de réparation du logement par des décorateurs
+04.3.2,Services d'entretien et de réparation du logement par des cireurs de parquet
+04.3.2,Coût de la main-d'oeuvre pour les services d'entretien et de réparation du logement
+04.3.2,Coût des fournitures pour les services d'entretien et de réparation du logement
+04.4.1,Alimentation en eau
+04.4.1,Alimentation en eau
+04.4.1,Dépenses connexes pour l'alimentation en eau
+04.4.1,Location de compteur d'eau
+04.4.1,Relevé de compteur d'eau
+04.4.1,Redevances fixes pour l'alimentation en eau
+04.4.2,Collecte des ordures ménagères
+04.4.2,Collecte des ordures ménagères
+04.4.2,Enlèvement des ordures ménagères
+04.4.2,Traitement des ordures ménagères
+04.4.3,Reprise des eaux usées
+04.4.3,Reprise des eaux usées
+04.4.3,Reprise et traitement des eaux usées
+08.2.0,Matériel de téléphonie et de télécopie
+08.2.0,Achat de postes téléphoniques
+08.2.0,Achat de radiotéléphones
+08.2.0,Achat de télécopieurs
+08.2.0,Achat de répondeurs
+08.2.0,Achat de hauts-parleurs téléphoniques
+08.2.0,Frais de réparation de postes téléphoniques
+08.2.0,Frais de réparation de radiotéléphones
+08.2.0,Frais de réparation de télécopieurs
+08.2.0,Frais de réparation de répondeurs
+08.2.0,Frais de réparation de hauts-parleurs téléphoniques
+08.3.0,Services de téléphonie et de télécopie
+08.3.0,Services de téléphonie et de télécopie
+08.3.0,Frais d'installation et d'abonnement relatifs au matériel téléphonique personnel
+08.3.0,Communications téléphoniques à partir d'un poste privé ou public
+08.3.0,"Communications téléphoniques à partir d'hôtels, de cafés, de restaurants"
+08.3.0,"Services de télégraphie, télex et télécopie"
+08.3.0,Services de renseignement par téléphone ou minitel
+08.3.0,Connexions à Internet
+08.3.0,"Location de postes téléphoniques, télécopieurs, répondeurs et hauts-parleurs téléphoniques"
+08.3.0,Services de radiotéléphonie et de radiotélégraphie
+08.3.0,Services radiotélex
+09.1.1,"Matériel de réception, d'enregistrement et de reproduction du son et de l'image"
+09.1.1,Postes de télévision
+09.1.1,Magnétoscopes
+09.1.1,Antennes de télévision de tous types
+09.1.1,Postes de radio
+09.1.1,Autoradios
+09.1.1,Radios-réveils
+09.1.1,Émetteurs-récepteurs radiophoniques
+09.1.1,Émetteurs-récepteurs pour radioamateurs
+09.1.1,Électrophones
+09.1.1,Lecteurs de bandes et de cassettes
+09.1.1,Magnétophones à bandes et à cassettes
+09.1.1,Lecteurs de disques compacts
+09.1.1,Baladeurs
+09.1.1,Chaînes stéréo
+09.1.1,Platines de tourne-disques
+09.1.1,Syntoniseurs
+09.1.1,Amplificateurs
+09.1.1,Hauts-parleurs
+09.1.1,Microphones
+09.1.1,Écouteurs
+09.1.2,Matériel photographique et cinématographique et appareils optiques
+09.1.2,Appareils photographiques
+09.1.2,caméras cinématographiques
+09.1.2,caméras à prise de son intégrée
+09.1.2,caméras vidéo
+09.1.2,caméscopes
+09.1.2,projecteurs de films
+09.1.2,projecteurs de diapositives
+09.1.2,agrandisseurs
+09.1.2,matériel de développement
+09.1.2,écrans
+09.1.2,visionneuses
+09.1.2,lentilles
+09.1.2,flashes
+09.1.2,filtres
+09.1.2,posemètres
+09.1.2,jumelles
+09.1.2,microscopes
+09.1.2,télescopes
+09.1.2,boussoles
+09.1.3,Matériel de traitement de l'information
+09.1.3,Ordinateurs individuels
+09.1.3,Écrans de visualisation
+09.1.3,Imprimantes
+09.1.3,Accessoires connexes divers
+09.1.3,Logiciels
+09.1.3,Progiciels
+09.1.3,Systèmes d'exploitation
+09.1.3,Applications
+09.1.3,Langages
+09.1.3,Calculatrices
+09.1.3,Calculettes
+09.1.3,Machines à écrire
+09.1.3,Machines de traitement de texte
+09.1.3,Systèmes de télécopie
+09.1.3,Systèmes de messagerie vocale installés sur ordinateur individuel
+09.1.4,Supports d'enregistrement
+09.1.4,Disques et disques compacts
+09.1.4,Bande et cassettes audio préenregistrées
+09.1.4,Cassettes vidéo préenregistrées
+09.1.4,Disquettes préenregistrées pour ordinateurs individuels
+09.1.4,CD-ROM préenregistrés pour magnétoscopes et ordinateurs individuels
+09.1.4,Bande et cassettes audio vierges
+09.1.4,Cassettes vidéo vierges
+09.1.4,Disquettes vierges pour ordinateurs individuels
+09.1.4,CD-ROM vierges pour ordinateurs individuels
+09.1.4,Pellicules photographiques et cinématographiques vierges
+09.1.4,Chargeurs et disques photographiques et cinématographiques vierges
+09.1.4,"Bande et CD-ROM préenregistrés contenant des romans, des pièces de théâtre, de la poésie"
+09.1.4,Disquettes et CD-rom préenregistrés servant de support à des livres et des encyclopédies numérisés
+09.1.4,Méthodes d'apprentissage des langues sur disquettes et CD-rom préenregistrés
+09.1.4,Présentations multimédias sur disquettes et CD-rom préenregistrés
+09.1.4,Papier photographique
+09.1.4,Lampes flashes
+09.1.4,Pellicules vierges avec frais de développement inclus
+09.1.5,"Réparation de matériel audiovisuel, photographique et de traitement de l'information"
+09.1.5,Réparation de matériel audiovisuel
+09.1.5,Réparation de matériel photographique
+09.1.5,Réparation de matériel de traitement de l'information
+09.1.5,Coût de la main-d'oeuvre pour la réparation
+09.1.5,Coût des pièces pour la réparation
+09.2.1,Biens durables pour loisirs de plein air
+09.2.1,Autocaravanes
+09.2.1,Caravanes
+09.2.1,Remorques
+09.2.1,Avions
+09.2.1,U.L.M.
+09.2.1,Planeurs
+09.2.1,Deltaplanes
+09.2.1,Montgolfières
+09.2.1,Bateaux
+09.2.1,Moteurs hors-bord
+09.2.1,Voiles
+09.2.1,Gréement
+09.2.1,Superstructures
+09.2.1,Chevaux
+09.2.1,Poneys
+09.2.1,Véhicules hippomobiles
+09.2.1,Harnais
+09.2.1,Brides
+09.2.1,Rênes
+09.2.1,Selles
+09.2.1,Canoës
+09.2.1,Kayaks
+09.2.1,Planches à voile
+09.2.1,Matériel de plongée
+09.2.1,Voiturettes de golf
+09.2.1,Accastillage des bateaux
+09.2.1,Équipement des autocaravanes
+09.2.2,Instruments de musique et biens durables destinés aux loisirs d'intérieur
+09.2.2,Instruments de musique de toutes tailles
+09.2.2,Instruments de musique électriques
+09.2.2,Pianos
+09.2.2,Orgues
+09.2.2,Violons
+09.2.2,Guitares
+09.2.2,Batteries
+09.2.2,Trompettes
+09.2.2,Clarinette
+09.2.2,Flûtes
+09.2.2,Flûtes à bec
+09.2.2,Harmonicas
+09.2.2,Tables de billard
+09.2.2,Tables de ping-pong
+09.2.2,Billards électriques
+09.2.2,Machines à jeux
+09.2.3,Entretien et réparation des autres biens durables à fonction récréative et culturelle
+09.2.3,Entretien et réparation de bateaux
+09.2.3,Entretien et réparation d'autocaravanes
+09.2.3,Entretien et réparation de caravanes
+09.2.3,Remisage de bateaux en hiver
+09.2.3,Services de hangar pour les avions privés
+09.2.3,Stationnement de bateaux en port de plaisance
+09.2.3,Services vétérinaires pour chevaux et poneys achetés pour l'équitation
+09.2.3,Services de pension pour chevaux et poneys achetés pour l'équitation
+09.2.3,Services de maréchal-ferrant pour chevaux et poneys achetés pour l'équitation
+09.3.1,"Jeux, jouets et passe-temps"
+09.3.1,Jeux de cartes
+09.3.1,Jeux de société
+09.3.1,Jeux d'échecs
+09.3.1,Poupées
+09.3.1,Jouets en matière souple
+09.3.1,Voitures jouets
+09.3.1,Trains jouets
+09.3.1,Cycles jouets
+09.3.1,Jeux de construction
+09.3.1,Puzzles
+09.3.1,Pâte à modeler
+09.3.1,Jeux électroniques
+09.3.1,Masques
+09.3.1,Déguisements
+09.3.1,Farces et attrapes
+09.3.1,Bibelots
+09.3.1,Feux d'artifice et fusées
+09.3.1,Guirlandes et décorations pour arbres de Noël
+09.3.1,Timbres oblitérés
+09.3.1,Albums de timbres
+09.3.1,Pièces
+09.3.1,Médailles
+09.3.1,Minéraux
+09.3.1,Spécimens zoologiques et botaniques
+09.3.1,Logiciels de jeu vidéo
+09.3.1,Consoles de jeu vidéo
+09.3.1,Cassettes de jeux vidéo
+09.3.1,CD-ROM de jeux vidéo
+09.3.2,"Articles de sport, matériel de camping et matériel pour activités de plein air"
+09.3.2,"Articles de sport tels que les balles, volants, filets, raquettes, battes, skis, clubs de golf, fleurets, sabres, perches, poids, disques, javelots, haltères, extenseurs pour pectoraux et autres articles pour la musculation"
+09.3.2,"Matériel de camping tel que les tentes et accessoires connexes, sacs de couchage, sacs à dos, matelas pneumatiques et gonfleurs, réchauds de camping et barbecues"
+09.3.2,Parachutes et équipements connexes
+09.3.2,"Armes à feu et munitions pour la chasse, le sport et l'autodéfense"
+09.3.2,Cannes à pêche et autres articles de pêche
+09.3.2,"Articles de plage et matériel pour jeux de plein air tels que boules, croquet, frisbee, volley-ball, canots et radeaux pneumatiques et piscines gonflables"
+09.3.2,Chaussures conçues spécialement en vue de la pratique d'une activité sportive
+09.3.2,Casques de protection pour la pratique de sports
+09.3.2,"Autres articles de protection pour la pratique de sports tels que les gilets de sauvetage, gants de boxe, vêtements matelassés, protège-tibias, lunettes, ceintures, bandages, etc."
+09.3.2,Réparation de ces articles
+09.3.3,"Produits pour jardins, plantes et fleurs"
+09.3.3,Fleurs naturelles
+09.3.3,Feuillages artificiels
+09.3.3,Plantes
+09.3.3,Arbustes
+09.3.3,Arbrisseaux
+09.3.3,Bulbes
+09.3.3,Tubercules
+09.3.3,Graines
+09.3.3,Gazon en plaques
+09.3.3,Engrais
+09.3.3,Composts
+09.3.3,Tourbes
+09.3.3,Terreaux et terres horticoles
+09.3.3,Préparations horticoles
+09.3.3,Pots et bacs
+09.3.3,Arbres de Noël naturels
+09.3.3,Arbres de Noël artificiels
+09.3.3,Frais de livraison des fleurs et plantes
+09.3.4,Animaux de compagnie et articles connexes
+09.3.4,Animaux de compagnie
+09.3.4,Aliments pour animaux de compagnie
+09.3.4,Produits vétérinaires pour animaux de compagnie
+09.3.4,Produits de toilettage pour animaux de compagnie
+09.3.4,Colliers pour animaux de compagnie
+09.3.4,Laisses pour animaux de compagnie
+09.3.4,Niches pour animaux de compagnie
+09.3.4,Cages à oiseaux
+09.3.4,Aquariums
+09.3.4,Litière pour chats
+09.3.5,Services vétérinaires et autres services pour animaux de compagnie
+09.3.5,Services vétérinaires pour animaux de compagnie
+09.3.5,Toilettage pour animaux de compagnie
+09.3.5,Garde d'animaux de compagnie
+09.3.5,Tatouage pour animaux de compagnie
+09.3.5,Dressage d'animaux de compagnie
+09.4.1,Services récréatifs et sportifs
+09.4.1,Services récréatifs et sportifs
+09.4.1,Stades
+09.4.1,Hippodromes
+09.4.1,Circuits de course auto-moto
+09.4.1,Vélodromes
+09.4.1,Patinoires
+09.4.1,Piscines
+09.4.1,Terrains de golf
+09.4.1,Gymnases
+09.4.1,Centres de culture physique
+09.4.1,Courts de tennis
+09.4.1,Terrains de squash
+09.4.1,Salles de bowling
+09.4.1,Fêtes foraines
+09.4.1,Parcs d'attraction
+09.4.1,Manèges
+09.4.1,Balançoires
+09.4.1,Équipements de terrains de jeux pour enfants
+09.4.1,Billards électriques
+09.4.1,Jeux destinés aux adultes
+09.4.1,Pistes de ski
+09.4.1,Remontées mécaniques
+09.4.1,Installations analogues
+09.4.1,Location de matériel et accessoires de sport et de loisirs
+09.4.1,Avions
+09.4.1,Bateaux
+09.4.1,Chevaux
+09.4.1,Skis
+09.4.1,Matériel de camping
+09.4.1,Cours particuliers ou collectifs de bridge
+09.4.1,Cours particuliers ou collectifs d'échecs
+09.4.1,Cours particuliers ou collectifs d'aérobic
+09.4.1,Cours particuliers ou collectifs de danse
+09.4.1,Cours particuliers ou collectifs de musique
+09.4.1,Cours particuliers ou collectifs de patinage
+09.4.1,Cours particuliers ou collectifs de ski
+09.4.1,Cours particuliers ou collectifs de natation
+09.4.1,Services de guides de montagne
+09.4.1,Services de guides touristiques
+09.4.1,Assistance pour la navigation de plaisance
+09.4.1,Location de chaussures de ski
+09.4.1,Location de chaussures de football
+09.4.1,Location de chaussures de golf
+09.4.1,"Location de chaussures munies de patins à glace ou à roulettes, de pointes, de crampons, etc."
+09.4.2,Services culturels
+09.4.2,Services fournis par les salles de cinéma
+09.4.2,Services fournis par les théâtres
+09.4.2,Services fournis par les opéras
+09.4.2,Services fournis par les salles de concert
+09.4.2,Services fournis par les music-halls
+09.4.2,Services fournis par les cirques
+09.4.2,Services fournis par les spectacles de sons et lumière
+09.4.2,Services fournis par les musées
+09.4.2,Services fournis par les bibliothèques
+09.4.2,Services fournis par les galeries d'art
+09.4.2,Services fournis par les salles d'exposition
+09.4.2,Services fournis par les monuments historiques
+09.4.2,Services fournis par les parcs nationaux
+09.4.2,Services fournis par les jardins zoologiques et botaniques
+09.4.2,Services fournis par les aquariums
+09.4.2,Location de matériel et accessoires à fonction culturelle
+09.4.2,Services de télévision et radio
+09.4.2,Services de redevances et abonnements pour la télévision et la radio
+09.4.2,Services de photographes
+09.4.2,Développement de pellicules
+09.4.2,Tirage et agrandissement de photographies
+09.4.2,Réalisation de portraits
+09.4.2,Réalisation de photographies de mariage
+09.4.2,Services des musiciens
+09.4.2,Services des clowns
+09.4.2,Services des artistes se produisant dans des réceptions privées
+09.4.3,Jeux de hasard
+09.4.3,Rémunération des services des preneurs de paris
+09.4.3,Totalisateurs
+09.4.3,Casinos
+09.4.3,Autres établissements de jeu
+09.4.3,Machines à jeux
+09.4.3,Salles de bingo
+09.4.3,Loterie par grattage
+09.4.3,Loterie par tirage
+09.4.3,Tombolas
+09.4.3,Sweepstakes
+09.5.1,Livres
+09.5.1,"Livres, y compris les atlas, dictionnaires, encyclopédies, manuels, guides et partitions"
+09.5.1,Albums de découpages
+09.5.1,Albums pour enfants
+09.5.1,Reliure d'ouvrages
+09.5.2,Journaux et publications périodiques
+09.5.2,Journaux
+09.5.2,Revues
+09.5.2,Publications périodiques
+09.5.2,Journaux quotidiens
+09.5.2,Revues hebdomadaires
+09.5.2,Magazines mensuels
+09.5.2,Publications scientifiques périodiques
+09.5.3,Imprimés divers
+09.5.3,Catalogues
+09.5.3,Imprimés publicitaires
+09.5.3,Affiches
+09.5.3,Cartes postales illustrées
+09.5.3,Cartes postales non illustrées
+09.5.3,Calendriers
+09.5.3,Cartes de voeux
+09.5.3,Cartes de visite
+09.5.3,Faire-part
+09.5.3,Cartes préimprimées
+09.5.3,Cartes
+09.5.3,Globes
+09.5.4,Papeterie et matériel de dessin
+09.5.4,Blocs-notes
+09.5.4,enveloppes
+09.5.4,livres comptables
+09.5.4,carnets de notes
+09.5.4,agendas
+09.5.4,Stylos
+09.5.4,crayons
+09.5.4,stylos à plume
+09.5.4,stylos et crayons à bille
+09.5.4,stylos à feutre
+09.5.4,encres
+09.5.4,gommes
+09.5.4,taille-crayons
+09.5.4,Stencils
+09.5.4,papier carbone
+09.5.4,rubans pour machine à écrire
+09.5.4,tampons encreurs
+09.5.4,liquides correcteurs
+09.5.4,Perforateurs à papier
+09.5.4,massicots
+09.5.4,ciseaux à papier
+09.5.4,colles à papier et adhésifs
+09.5.4,agrafeuses et agrafes
+09.5.4,trombones
+09.5.4,punaises
+09.5.4,Matériel de dessin et de peinture
+09.5.4,toiles
+09.5.4,papier
+09.5.4,carton
+09.5.4,peintures
+09.5.4,crayons à dessin
+09.5.4,pastels
+09.5.4,pinceaux
+09.5.4,cartouches d'encre pour photocopieuses et imprimantes
+09.5.4,matériels pédagogiques
+09.5.4,cahiers
+09.5.4,règles à calcul
+09.5.4,instruments de géométrie
+09.5.4,ardoises
+09.5.4,craies
+09.5.4,plumiers
+09.6.0,Forfaits touristiques
+09.6.0,"Forfaits touristiques composites incluant le transport, la nourriture et l'hébergement"
+09.6.0,Excursions d'une demi-journée
+09.6.0,Excursions d'une journée
+09.6.0,Pèlerinages
+09.6.0,"Circuits touristiques associant le transport, la nourriture, l'hébergement et la mise à disposition de guides"
+10.1.0,Enseignement préélémentaire et primaire
+10.1.0,Enseignement préélémentaire
+10.1.0,Enseignement primaire
+10.1.0,Niveau 0 de la CITE-97
+10.1.0,Niveau 1 de la CITE-97
+10.1.0,Programmes d'alphabétisation pour élèves trop âgés pour l'école primaire
+10.2.0,Enseignement secondaire
+10.2.0,Enseignement secondaire niveau 2 de la CITE-97
+10.2.0,Enseignement secondaire niveau 3 de la CITE-97
+10.2.0,Premier cycle de l'enseignement secondaire
+10.2.0,Deuxième cycle de l'enseignement secondaire
+10.2.0,Enseignement secondaire extrascolaire pour adultes
+10.2.0,Enseignement secondaire extrascolaire pour jeunes
+10.3.0,Enseignement postsecondaire non supérieur
+10.3.0,enseignement postsecondaire non supérieur
+10.3.0,niveau 4 de la CITE-97
+10.3.0,enseignement extrascolaire postsecondaire non supérieur dispensé à des adultes
+10.3.0,enseignement extrascolaire postsecondaire non supérieur dispensé à des jeunes
+10.4.0,Enseignement supérieur
+10.4.0,Niveau 5 de la CITE-97 : premier cycle de l'enseignement supérieur
+10.4.0,Niveau 6 de la CITE-97 : deuxième cycle de l'enseignement supérieur
+10.5.0,Enseignement non défini par niveau
+10.5.0,Programmes d'enseignement pour adultes sans exigence de niveau scolaire préalable
+10.5.0,Formation professionnelle pour adultes
+10.5.0,Programmes de culture générale pour adultes sans conditions de diplôme
+11.1.1,"Restaurants, cafés et établissements similaires"
+11.1.1,Services de restauration fournis par les restaurants
+11.1.1,Services de restauration fournis par les cafés
+11.1.1,Services de restauration fournis par les buffets
+11.1.1,Services de restauration fournis par les bars
+11.1.1,Services de restauration fournis par les salons de thé
+11.1.1,Services de restauration dans les théâtres
+11.1.1,Services de restauration dans les cinémas
+11.1.1,Services de restauration dans les stades
+11.1.1,Services de restauration dans les piscines
+11.1.1,Services de restauration dans les complexes sportifs
+11.1.1,Services de restauration dans les musées
+11.1.1,Services de restauration dans les galeries d'art
+11.1.1,Services de restauration dans les boîtes de nuit et clubs de danse
+11.1.1,"Services de restauration dans les transports publics (bus, trains, bateaux, avions, etc.)"
+11.1.1,Vente de produits alimentaires et boissons par les kiosques
+11.1.1,Vente de produits alimentaires et boissons par les vendeurs ambulants
+11.1.1,Vente de produits alimentaires et boissons par les distributeurs automatiques
+11.1.1,Vente de plats cuisinés à emporter par les restaurants
+11.1.1,Vente de plats cuisinés par les traiteurs
+11.1.1,Pourboires
+13.1.0,Logement
+13.1.0,Logement comme indiqué sous 01.0.0 dans la COPNI
+13.1.0,Correspond à 04.1.1
+13.1.0,Correspond à 14.1.0
+07.3.3,Transporte de pasajeros por aire
+07.3.3,Transporte de pasajeros por avión
+07.3.3,Transporte de personas por helicóptero
+07.3.3,Transporte de equipaje por aeroplano
+07.3.3,Transporte de grupos de personas por aire
