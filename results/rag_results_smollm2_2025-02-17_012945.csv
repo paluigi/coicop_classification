@@ -1,0 +1,4 @@
+name,category,code,prediction,correct_option,match
+elledi latte leggero e deigeribile 1% di grassi senaza lattosio bio,"latticini | latte, uova e burro",01.1.4.2,01.1.4.7,False,False
+caffe hag solubile 100g,coffee,01.2.2.0,,True,False
+nescafe gold iced salted caramel latte x6,beverages | coffee & tea,01.1.4.7,01.2.2.0,False,False
