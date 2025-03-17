@@ -160,7 +160,10 @@ cython_debug/
 #.idea/
 
 # Ignore files in the "private_labels" folder
-private_labels/*
+private_labels
 
 scratchbook.ipynb
 temp
+results_history
+# Ignore files that are prefixed with wip (work in progress)
+wip_*

@@ -1,0 +1,2048 @@
+code,title
+01.1.1.1,Cereals
+01.1.1.1,Wheat
+01.1.1.1,Rice
+01.1.1.1,Sorghum
+01.1.1.1,Barley
+01.1.1.1,Millet
+01.1.1.1,Maize (Corn)
+01.1.1.1,Quinoa
+01.1.1.1,Teff
+01.1.1.1,Bulgur
+01.1.1.1,Rye
+01.1.1.1,Oats
+01.1.1.1,Triticale
+01.1.1.1,Buckwheat
+01.1.1.1,Canary Seed
+01.1.1.1,Quihuicha (Inca Wheat)
+01.1.1.1,Canagua (Coaihua)
+01.1.1.1,Adlay (Job's Tears)
+01.1.1.1,Mixed Cereal Grains
+01.1.1.2,Flour of cereals
+01.1.1.2,Wheat flour
+01.1.1.2,Barley flour
+01.1.1.2,Rye flour
+01.1.1.2,Oat flour
+01.1.1.2,Maize flour
+01.1.1.2,Instant wheat flour
+01.1.1.2,Pre-steamed polenta flour
+01.1.1.2,Instant barley flour with yeast
+01.1.1.2,Rye flour for bread making
+01.1.1.2,Oat flour for pastry
+01.1.1.3,Bread and bakery products
+01.1.1.3,Baguette
+01.1.1.3,Ciabatta
+01.1.1.3,Focaccia
+01.1.1.3,Naan
+01.1.1.3,Pita
+01.1.1.3,Rye bread
+01.1.1.3,Sourdough
+01.1.1.3,Tortilla
+01.1.1.3,Injera
+01.1.1.3,Pizza base
+01.1.1.3,Gingerbread
+01.1.1.3,Sweet biscuit
+01.1.1.3,Waffle
+01.1.1.3,Wafer
+01.1.1.3,Ice cream cone
+01.1.1.3,Crumpet
+01.1.1.3,Muffin
+01.1.1.3,Croissant
+01.1.1.3,Sweet tart
+01.1.1.3,Sweet pie
+01.1.1.3,Cake
+01.1.1.4,Breakfast cereals
+01.1.1.4,Corn Flakes
+01.1.1.4,Oatmeal
+01.1.1.4,Oat Flakes
+01.1.1.4,Muesli
+01.1.1.4,Granola
+01.1.1.4,Puffed Rice Cakes
+01.1.1.4,Cinnamon Toast Crunch
+01.1.1.4,Raisin Bran
+01.1.1.4,Frosted Flakes
+01.1.1.4,Cocoa Puffs
+01.1.1.4,Cheerios
+01.1.1.4,Special K
+01.1.1.4,Rice Krispies
+01.1.1.4,Shredded Wheat
+01.1.1.4,Almond Granola
+01.1.1.4,Cranberry Muesli
+01.1.1.4,Pecan Praline Crunch
+01.1.1.5,"Macaroni, noodles, couscous and similar pasta products"
+01.1.1.5,Spaghetti
+01.1.1.5,Fettuccine
+01.1.1.5,Couscous
+01.1.1.5,Ravioli
+01.1.1.5,Tortellini
+01.1.1.5,Macaroni
+01.1.1.5,Udon noodles
+01.1.1.5,Rigatoni
+01.1.1.5,Cannelloni
+01.1.1.5,Gnocchi
+01.1.1.9,Other milled cereal and grain products
+01.1.1.9,Popcorn kernels
+01.1.1.9,Granola bar mix
+01.1.1.9,Malt extract powder
+01.1.1.9,Cereal chip crumbs
+01.1.1.9,Seitan meat substitute
+01.1.1.9,Bakery product dough mix
+01.1.1.9,Cereal-based breakfast cereal
+01.1.1.9,Grain-based snack bars
+01.1.1.9,Cereal-flavored energy bars
+01.1.1.9,Meat substitute patties made from cereals
+01.1.2.1,Live land animals
+01.1.2.1,Angus beef
+01.1.2.1,Wagyu beef
+01.1.2.1,Pork belly
+01.1.2.1,Lamb shank
+01.1.2.1,Chicken breast
+01.1.2.1,Duck breast
+01.1.2.1,Rabbit meat
+01.1.2.1,Horse meat
+01.1.2.1,Donkey meat
+01.1.2.1,Camel meat
+01.1.2.1,Ostrich meat
+01.1.2.1,Emu meat
+01.1.2.1,Rhea meat
+01.1.2.1,Pheasant meat
+01.1.2.1,Grouse meat
+01.1.2.1,Pigeon meat
+01.1.2.1,Quail meat
+01.1.2.1,Snake meat
+01.1.2.1,Frog legs
+01.1.2.1,Terrestrial snail
+01.1.2.1,Hare meat
+01.1.2.2,"Meat, fresh, chilled or frozen"
+01.1.2.2,Beef
+01.1.2.2,Pork
+01.1.2.2,Lamb
+01.1.2.2,Chicken
+01.1.2.2,Duck
+01.1.2.2,Turkey
+01.1.2.2,Rabbit
+01.1.2.2,Horse
+01.1.2.2,Donkey
+01.1.2.2,Camel
+01.1.2.2,Deer
+01.1.2.2,Kangaroo
+01.1.2.2,Ostrich
+01.1.2.2,Emu
+01.1.2.2,Rhea
+01.1.2.2,Pheasant
+01.1.2.2,Grouse
+01.1.2.2,Pigeon
+01.1.2.2,Quail
+01.1.2.2,Snake
+01.1.2.2,Alligator
+01.1.2.2,Frog
+01.1.2.2,Snail
+01.1.2.2,Seal
+01.1.2.2,Walrus
+01.1.2.2,Whale
+01.1.2.4,"Offal, blood and other parts of slaughtered animals, fresh, chilled or frozen, dried, salted, in brine or smoked"
+01.1.2.4,pork liver
+01.1.2.4,beef kidneys
+01.1.2.4,lamb tongues
+01.1.2.4,chicken gizzards
+01.1.2.4,pork heads
+01.1.2.4,pork tails
+01.1.2.4,pork ears
+01.1.2.4,chicken feet
+01.1.2.4,beef bones
+01.1.2.4,lamb bones
+01.1.2.4,pork bones
+01.1.2.5,"Preparations of meat, offal, blood and other parts of slaughtered animals"
+01.1.2.5,Sausages
+01.1.2.5,Marinated beef
+01.1.2.5,Canned corned beef
+01.1.2.5,Minced pork mix
+01.1.2.5,Duck liver pate
+01.1.2.5,Breaded chicken nuggets
+01.1.2.5,Meatballs
+01.1.2.5,Blood sausages
+01.1.2.5,Pork cracklings
+01.1.2.5,Meat extracts
+01.1.2.5,Meat juices
+01.1.3.1,"Fish, live, fresh, chilled or frozen"
+01.1.3.1,Cod
+01.1.3.1,Salmon
+01.1.3.1,Tilapia
+01.1.3.1,Swordfish
+01.1.3.1,Tuna
+01.1.3.1,Halibut
+01.1.3.1,Snapper
+01.1.3.1,Grouper
+01.1.3.1,Trout
+01.1.3.1,Haddock
+01.1.3.1,Mackerel
+01.1.3.1,Sardines
+01.1.3.1,Anchovies
+01.1.3.1,Herring
+01.1.3.1,Mullet
+01.1.3.1,Perch
+01.1.3.1,Bass
+01.1.3.1,Catfish
+01.1.3.1,Crab
+01.1.3.1,Lobster
+01.1.3.1,Shrimp
+01.1.3.1,Scallops
+01.1.3.1,Clams
+01.1.3.1,Oysters
+01.1.3.1,Mussels
+01.1.3.2,"Fish, dried, salted, in brine or smoked"
+01.1.3.2,Dried cod
+01.1.3.2,Smoked salmon fillets
+01.1.3.2,Salted anchovies
+01.1.3.2,Smoked haddock
+01.1.3.2,Dried mackerel
+01.1.3.2,Salted herring fillets
+01.1.3.2,Smoked trout
+01.1.3.3,Fish preparations
+01.1.3.3,Breaded Fish Sticks
+01.1.3.3,Canned Tuna
+01.1.3.3,Surimi Crab Meat
+01.1.3.3,Frozen Fish Fillets
+01.1.3.3,Smoked Salmon
+01.1.3.3,Fish Cakes
+01.1.3.3,Fish Fingers
+01.1.3.3,Canned Sardines
+01.1.3.3,Fish Burgers
+01.1.3.3,Crab Sticks
+01.1.3.4,"Other seafood, live, fresh, chilled or frozen"
+01.1.3.4,crab
+01.1.3.4,lobster
+01.1.3.4,crayfish
+01.1.3.4,krill
+01.1.3.4,sea spider
+01.1.3.4,shrimp
+01.1.3.4,prawn
+01.1.3.4,cuttlefish
+01.1.3.4,squid
+01.1.3.4,octopus
+01.1.3.4,sea snail
+01.1.3.4,abalone
+01.1.3.4,oyster
+01.1.3.4,scallop
+01.1.3.4,mussel
+01.1.3.4,clam
+01.1.3.4,cockle
+01.1.3.4,ark shell
+01.1.3.4,sea urchin
+01.1.3.4,beche-de-mer
+01.1.3.4,jellyfish
+01.1.3.5,"Other seafood, dried, salted, in brine or smoked"
+01.1.3.5,Dried cod
+01.1.3.5,Smoked salmon
+01.1.3.5,Salted anchovies
+01.1.3.5,Brined mussels
+01.1.3.5,Dried shrimp
+01.1.3.5,Smoked trout
+01.1.3.5,Salted herring
+01.1.3.5,Brined crab
+01.1.3.6,Other seafood preparations
+01.1.3.6,Frozen crab cakes
+01.1.3.6,Shrimp burgers
+01.1.3.6,Canned tuna salad
+01.1.3.6,Smoked salmon fillets
+01.1.3.6,Crab sticks
+01.1.3.6,Fish balls
+01.1.3.6,Surimi products
+01.1.3.6,Seafood salad mix
+01.1.3.7,"Livers, roes and other offal of fish and of other seafood in all forms"
+01.1.3.7,Cod liver oil
+01.1.3.7,Salmon roe
+01.1.3.7,Shrimp maws
+01.1.3.7,Dried fish fins
+01.1.3.7,Smoked fish heads
+01.1.3.7,Frozen fish livers
+01.1.3.7,Canned fish offal
+01.1.3.7,Fish meal for animal feed
+01.1.4.1,Raw and whole milk
+01.1.4.1,Whole cow milk
+01.1.4.1,Raw buffalo milk
+01.1.4.1,Fresh goat milk
+01.1.4.1,Pasteurized sheep milk
+01.1.4.1,UHT camel milk
+01.1.4.1,Reconstituted whole milk
+01.1.4.2,Skimmed milk
+01.1.4.2,Skimmed cow milk
+01.1.4.2,Semi-skimmed buffalo milk
+01.1.4.2,Skimmed goat milk
+01.1.4.2,Semi-skimmed sheep milk
+01.1.4.2,Skimmed camel milk
+01.1.4.2,Skimmed yak milk
+01.1.4.2,Semi-skimmed reindeer milk
+01.1.4.3,Other milk and cream
+01.1.4.3,Goat milk
+01.1.4.3,Sheep milk
+01.1.4.3,Camel milk
+01.1.4.3,Water buffalo milk
+01.1.4.3,Yak milk
+01.1.4.3,Reindeer milk
+01.1.4.3,Donkey milk
+01.1.4.3,Horse milk
+01.1.4.3,Powdered cow milk
+01.1.4.3,Whole cow milk
+01.1.4.3,Skimmed cow milk
+01.1.4.3,Evaporated cow milk
+01.1.4.3,Condensed cow milk
+01.1.4.3,Fresh cream
+01.1.4.3,Clotted cream
+01.1.4.3,Thickened cream
+01.1.4.3,Whipped cream
+01.1.4.3,Baked cow milk
+01.1.4.4,Non-animal milk
+01.1.4.4,almond milk
+01.1.4.4,coconut milk for drinking
+01.1.4.4,oat milk
+01.1.4.4,rice milk
+01.1.4.4,soy milk
+01.1.4.4,hazelnut milk
+01.1.4.4,cashew milk
+01.1.4.4,peanut milk
+01.1.4.4,flax milk
+01.1.4.4,quinoa milk
+01.1.4.4, hemp milk
+01.1.4.5,Cheese
+01.1.4.5,Feta
+01.1.4.5,Mozzarella
+01.1.4.5,Cheddar
+01.1.4.5,Gouda
+01.1.4.5,Blue cheese
+01.1.4.5,Cottage cheese
+01.1.4.5,Ricotta
+01.1.4.5,Curd
+01.1.4.5,Goat cheese
+01.1.4.5,Sheep cheese
+01.1.4.5,Buffalo mozzarella
+01.1.4.5,Parmesan
+01.1.4.5,Provolone
+01.1.4.5,Gruyère
+01.1.4.5,Emmental
+01.1.4.5,Brie
+01.1.4.5,Camembert
+01.1.4.5,Fleur d'Aunis
+01.1.4.5,Reblochon
+01.1.4.5,Manchego
+01.1.4.5,Idiazabal
+01.1.4.5,Pecorino Romano
+01.1.4.5,Mascarpone
+01.1.4.5,Cream cheese
+01.1.4.5,Neufchâtel
+01.1.4.5,Ossau-Iraty
+01.1.4.5,Taleggio
+01.1.4.5,Asiago
+01.1.4.5,Edam
+01.1.4.5,Gjetost
+01.1.4.5,Havarti
+01.1.4.5,Muenster
+01.1.4.5,Pepper Jack
+01.1.4.5,Colby
+01.1.4.5,Monterey Jack
+01.1.4.5,Limburger
+01.1.4.5,Bucheron
+01.1.4.5,Beaufort
+01.1.4.5,Comté
+01.1.4.5,Pont l'Évêque
+01.1.4.5,Crottin de Chavignol
+01.1.4.5,Burrata
+01.1.4.5,Stracchino
+01.1.4.5,Robiola
+01.1.4.5,Torta de Aceite
+01.1.4.5,Idiazabal
+01.1.4.5,Mahon
+01.1.4.5,Garrotxa
+01.1.4.5,Ossau-Iraty
+01.1.4.5,Requeijão
+01.1.4.5,Queijo fresco
+01.1.4.5,Crottin de Chavignol
+01.1.4.5,Brie de Meaux
+01.1.4.5,Brie de Nangis
+01.1.4.5,Chaource
+01.1.4.5,Époisses
+01.1.4.5,Langres
+01.1.4.5,Soumaintrain
+01.1.4.5,Pont l'Évêque
+01.1.4.5,Livarno
+01.1.4.5,Torta de Aceite
+01.1.4.5,Torta de Azeitão
+01.1.4.5,Requeijão
+01.1.4.5,Queijo fresco
+01.1.4.5,Crottin de Chavignol
+01.1.4.5,Brie de Meaux
+01.1.4.5,Brie de Nangis
+01.1.4.5,Chaource
+01.1.4.5,Époisses
+01.1.4.5,Langres
+01.1.4.5,Soumaintrain
+01.1.4.5,Pont l'Évêque
+01.1.4.5,Livarno
+01.1.4.5,Torta de Aceite
+01.1.4.5,Torta de Azeitão
+01.1.4.6,Yoghurt and similar products
+01.1.4.6,yoghurt
+01.1.4.6,buttermilk
+01.1.4.6,curdled milk
+01.1.4.6,kefir
+01.1.4.6,coconut yoghurt
+01.1.4.6,soy yoghurt
+01.1.4.6,fermented dairy products
+01.1.4.6,acidified milk
+01.1.4.6,flavoured yoghurt
+01.1.4.6,fruit yoghurt
+01.1.4.6,nut yoghurt
+01.1.4.6,cocoa yoghurt
+01.1.4.7,Milk-based dessert and beverages
+01.1.4.7,Chocolate Milkshake
+01.1.4.7,Strawberry Milk Smoothie
+01.1.4.7,Creme Brulee
+01.1.4.7,Panna Cotta with Fresh Berries
+01.1.4.7,Coffee Milk
+01.1.4.7,Hot Chocolate
+01.1.4.7,Milk Chocolate Mousse
+01.1.4.7,Rice Pudding with Cinnamon
+01.1.4.7,Crema Catalana with Caramel Sauce
+01.1.4.7,Vanilla Milkshake with Whipped Cream
+01.1.4.8,Eggs
+01.1.4.8,Chicken eggs
+01.1.4.8,Duck eggs
+01.1.4.8,Quail eggs
+01.1.4.8,Turtle eggs
+01.1.4.8,Goose eggs
+01.1.4.8,Egg yolks
+01.1.4.8,Egg albumen
+01.1.4.8,Hard-boiled eggs
+01.1.4.8,Pickled eggs
+01.1.4.8,Deviled eggs
+01.1.4.8,Scrambled eggs
+01.1.4.8,Poached eggs
+01.1.4.8,Boiled eggs
+01.1.4.8,Fried eggs
+01.1.4.8,Soft-boiled eggs
+01.1.4.9,Other dairy products
+01.1.4.9,Whey protein powder
+01.1.4.9,Sweetened cream
+01.1.4.9,Casein milk protein
+01.1.4.9,Concentrated cream
+01.1.4.9,Milk protein concentrate
+01.1.4.9,Whey powder
+01.1.4.9,Sweetened condensed milk
+01.1.4.9,Casein protein powder
+01.1.4.9,Milk constituent blend
+01.1.5.1,Vegetable oils
+01.1.5.1,sunflower seed oil
+01.1.5.1,safflower oil
+01.1.5.1,palm oil
+01.1.5.1,olive oil
+01.1.5.1,soya bean oil
+01.1.5.1,groundnut oil
+01.1.5.1,rapeseed oil
+01.1.5.1,colza oil
+01.1.5.1,mustard oil
+01.1.5.1,corn oil
+01.1.5.1,cotton oil
+01.1.5.1,coconut oil
+01.1.5.1,avocado oil
+01.1.5.1,rice bran oil
+01.1.5.1,grapeseed oil
+01.1.5.1,hazelnut oil
+01.1.5.1,pumpkin seed oil
+01.1.5.1,flaxseed oil
+01.1.5.1,sesame oil
+01.1.5.1,argan oil
+01.1.5.1,walnut oil
+01.1.5.1,peanut oil
+01.1.5.2,Butter and other oils and fats derived from milk
+01.1.5.2,butter
+01.1.5.2,butter oil
+01.1.5.2,ghee
+01.1.5.2,clarified butter
+01.1.5.2,whipped butter
+01.1.5.2,salted butter
+01.1.5.2,unsalted butter
+01.1.5.2,cultured butter
+01.1.5.2,brown butter
+01.1.5.3,Margarine and similar preparations
+01.1.5.3,Margarine
+01.1.5.3,Diet Margarine
+01.1.5.3,Vegetable Margarine
+01.1.5.3,Low-Fat Margarine
+01.1.5.3,Butter-Blend Margarine
+01.1.5.3,Whipped Margarine
+01.1.5.3,Salted Margarine
+01.1.5.3,Unsalted Margarine
+01.1.5.9,Other animal oils and fats
+01.1.5.9,Pig fat
+01.1.5.9,Lard with rosemary
+01.1.5.9,Beef tallow
+01.1.5.9,Mutton fat
+01.1.5.9,Goat fat
+01.1.5.9,Chicken fat
+01.1.5.9,Greaves fat
+01.1.5.9,Cod oil
+01.1.5.9,Salmon oil
+01.1.5.9,Tuna oil
+01.1.6.1,"Dates, figs and tropical fruits, fresh"
+01.1.6.1,Dates
+01.1.6.1,Figs
+01.1.6.1,Avocados
+01.1.6.1,Sweet bananas
+01.1.6.1,Mangoes
+01.1.6.1,Guavas
+01.1.6.1,Mangosteens
+01.1.6.1,Papayas
+01.1.6.1,Pineapples
+01.1.6.1,Coconuts
+01.1.6.1,Breadfruits
+01.1.6.1,Passion fruits
+01.1.6.1,Starfruits
+01.1.6.1,Rambutans
+01.1.6.1,Lychees
+01.1.6.1,Longans
+01.1.6.1,Dragon fruits
+01.1.6.1,Physalis
+01.1.6.1,Tamarillo
+01.1.6.1,Feijoa
+01.1.6.1,Soursop
+01.1.6.1,Guanabana
+01.1.6.1,Tahiti lime
+01.1.6.1,Yuzu
+01.1.6.1,Kumquat
+01.1.6.1,Loquat
+01.1.6.1,Monstera deliciosa
+01.1.6.1,Santol
+01.1.6.1,Wampee
+01.1.6.1,Rambai
+01.1.6.1,Gac
+01.1.6.1,Buddha's hand
+01.1.6.1,Yubari king
+01.1.6.1,Shiroi housei
+01.1.6.1,Kabosu
+01.1.6.1,Ugli fruit
+01.1.6.1,Tangelo
+01.1.6.1,Kumquat
+01.1.6.1,Sour orange
+01.1.6.1,Calamondin
+01.1.6.1,Kaffir lime
+01.1.6.1,Finger lime
+01.1.6.1,Yuzu
+01.1.6.1,Ume
+01.1.6.1,Loquat
+01.1.6.1,Jaboticaba
+01.1.6.1,Guavas
+01.1.6.1,Soursop
+01.1.6.1,Guanabana
+01.1.6.1,Tahiti lime
+01.1.6.1,Yuzu
+01.1.6.1,Kumquat
+01.1.6.1,Loquat
+01.1.6.1,Monstera deliciosa
+01.1.6.1,Santol
+01.1.6.1,Wampee
+01.1.6.1,Rambai
+01.1.6.1,Gac
+01.1.6.1,Buddha's hand
+01.1.6.1,Yubari king
+01.1.6.1,Shiroi housei
+01.1.6.1,Kabosu
+01.1.6.1,Ugli fruit
+01.1.6.1,Tangelo
+01.1.6.1,Kumquat
+01.1.6.1,Sour orange
+01.1.6.1,Calamondin
+01.1.6.1,Kaffir lime
+01.1.6.1,Finger lime
+01.1.6.1,Yuzu
+01.1.6.1,Ume
+01.1.6.1,Loquat
+01.1.6.1,Jaboticaba
+01.1.6.2,"Citrus fruits, fresh"
+01.1.6.2,oranges
+01.1.6.2,pomelos
+01.1.6.2,grapefruits
+01.1.6.2,lemons
+01.1.6.2,limes
+01.1.6.2,tangerines
+01.1.6.2,mandarins
+01.1.6.2,clementines
+01.1.6.2,satsumas
+01.1.6.2,kumquats
+01.1.6.2,ugli fruits
+01.1.6.2,blood oranges
+01.1.6.2,navel oranges
+01.1.6.2,valencia oranges
+01.1.6.2,seville oranges
+01.1.6.2,bergamot oranges
+01.1.6.2,yuzu
+01.1.6.2,sour oranges
+01.1.6.2,calamondin oranges
+01.1.6.3,"Stone fruits and pome fruits, fresh"
+01.1.6.3,Apples
+01.1.6.3,Pears
+01.1.6.3,Quinces
+01.1.6.3,Apricots
+01.1.6.3,Cherries
+01.1.6.3,Sour Cherries
+01.1.6.3,Peaches
+01.1.6.3,Nectarines
+01.1.6.3,Plums
+01.1.6.3,Sloes
+01.1.6.3,Greengages
+01.1.6.3,Damson
+01.1.6.3,Mirabelle
+01.1.6.3,Ume
+01.1.6.4,"Berries, fresh"
+01.1.6.4,currants
+01.1.6.4,gooseberries
+01.1.6.4,raspberries
+01.1.6.4,blackberries
+01.1.6.4,mulberries
+01.1.6.4,loganberries
+01.1.6.4,strawberries
+01.1.6.4,cranberries
+01.1.6.4,blueberries
+01.1.6.4,elderberries
+01.1.6.4,huckleberries
+01.1.6.4,bilberries
+01.1.6.4,cloudberries
+01.1.6.4,crowberries
+01.1.6.4,salmonberries
+01.1.6.4,thimbleberries
+01.1.6.4,wineberries
+01.1.6.4,youngberries
+01.1.6.5,"Other fruits, fresh"
+01.1.6.5,grapes
+01.1.6.5,kiwi fruits
+01.1.6.5,cantaloupes
+01.1.6.5,watermelons
+01.1.6.5,pomegranates
+01.1.6.5,strawberries
+01.1.6.5,blueberries
+01.1.6.5,raspberries
+01.1.6.5,blackberries
+01.1.6.5,mangoes
+01.1.6.5,pineapples
+01.1.6.5,papayas
+01.1.6.5,bananas
+01.1.6.5,avocados
+01.1.6.5,guavas
+01.1.6.5,passion fruits
+01.1.6.5,dragon fruits
+01.1.6.5,starfruits
+01.1.6.5,lychees
+01.1.6.5,longans
+01.1.6.5,rambutans
+01.1.6.5,mangosteens
+01.1.6.5,soursop
+01.1.6.5,tamarinds
+01.1.6.5,feijoas
+01.1.6.5,persimmons
+01.1.6.5,quinces
+01.1.6.5,loquats
+01.1.6.5,medlars
+01.1.6.5,cornelian cherries
+01.1.6.5,elderberries
+01.1.6.5,hawthorns
+01.1.6.5,serviceberries
+01.1.6.5,cranberries
+01.1.6.5,gooseberries
+01.1.6.5,currants
+01.1.6.5,barberries
+01.1.6.5,bilberries
+01.1.6.5,cloudberries
+01.1.6.5,crowberries
+01.1.6.5,huckleberries
+01.1.6.5,salmonberries
+01.1.6.5,thimbleberries
+01.1.6.5,wineberries
+01.1.6.5,loganberries
+01.1.6.5,boysenberries
+01.1.6.5,youngberries
+01.1.6.5,elderberries
+01.1.6.5,goji berries
+01.1.6.5,sea buckthorn
+01.1.6.5,seabuckthorn
+01.1.6.5,cloudberry
+01.1.6.5,crowberry
+01.1.6.5,honeyberry
+01.1.6.5,salmonberry
+01.1.6.5,thimbleberry
+01.1.6.5,wineberry
+01.1.6.5,loganberry
+01.1.6.5,boysenberry
+01.1.6.5,youngberry
+01.1.6.6,"Fruits, frozen"
+01.1.6.6,Frozen strawberries
+01.1.6.6,Frozen blueberries
+01.1.6.6,Frozen raspberries
+01.1.6.6,Frozen blackberries
+01.1.6.6,Frozen mixed berries
+01.1.6.6,Frozen pineapple
+01.1.6.6,Frozen peaches
+01.1.6.6,Frozen cherries
+01.1.6.6,Frozen apricots
+01.1.6.6,Frozen plums
+01.1.6.6,Frozen grapes
+01.1.6.6,Frozen mango
+01.1.6.6,Frozen papaya
+01.1.6.6,Frozen kiwi
+01.1.6.6,Frozen banana
+01.1.6.6,Frozen avocado
+01.1.6.7,"Fruits, dried and dehydrated"
+01.1.6.7,raisins
+01.1.6.7,prunes
+01.1.6.7,dried apricots
+01.1.6.7,dried coconuts
+01.1.6.7,dried bananas
+01.1.6.7,dried mangoes
+01.1.6.7,dried pineapples
+01.1.6.7,dried strawberries
+01.1.6.7,dried blueberries
+01.1.6.7,dried cranberries
+01.1.6.8,"Nuts, in shell or shelled"
+01.1.6.8,almonds
+01.1.6.8,cashew nuts
+01.1.6.8,chestnuts
+01.1.6.8,hazelnuts
+01.1.6.8,pistachios
+01.1.6.8,walnuts
+01.1.6.8,brazil nuts
+01.1.6.8,groundnuts
+01.1.6.8,pecans
+01.1.6.8,hickory nuts
+01.1.6.8,macadamia nuts
+01.1.6.8,pine nuts
+01.1.6.8,peanuts
+01.1.6.9,"Fruits and nuts, ground, and in other preparations"
+01.1.6.9,Almond flour
+01.1.6.9,Walnut flour
+01.1.6.9,Roasted peanuts
+01.1.6.9,Canned pineapple
+01.1.6.9,Homogenized strawberry preparation
+01.1.6.9,Fruit pickle mix
+01.1.6.9,Pecan praline
+01.1.6.9,Chestnut puree (not butter)
+01.1.6.9,Dried apricot mix
+01.1.6.9,Pistachio meal
+01.1.6.9,Canned mandarin oranges
+01.1.6.9,Fruit salad mix
+01.1.7.1,"Leafy or stem vegetables, fresh or chilled"
+01.1.7.1,asparagus
+01.1.7.1,cabbages
+01.1.7.1,cauliflower
+01.1.7.1,broccoli
+01.1.7.1,lettuce
+01.1.7.1,chicory
+01.1.7.1,spinach
+01.1.7.1,artichokes
+01.1.7.1,celery
+01.1.7.1,kale
+01.1.7.1,collard greens
+01.1.7.1,bok choy
+01.1.7.1,watercress
+01.1.7.1,arugula
+01.1.7.1,endive
+01.1.7.1,escarole
+01.1.7.1,frisee
+01.1.7.1,radicchio
+01.1.7.1,tatsoi
+01.1.7.1, Komatsuna
+01.1.7.1,land cress
+01.1.7.1,mizuna
+01.1.7.1,mustard greens
+01.1.7.1,pak choi
+01.1.7.1,rapini
+01.1.7.1,shungiku
+01.1.7.1,swiss chard
+01.1.7.1,turnip greens
+01.1.7.1,wong bok
+01.1.7.2,"Fruit-bearing vegetables, fresh or chilled"
+01.1.7.2,Chili peppers
+01.1.7.2,Cucumbers
+01.1.7.2,Eggplants
+01.1.7.2,Tomatoes
+01.1.7.2,Pumpkins
+01.1.7.2,Acorn squash
+01.1.7.2,Butternut squash
+01.1.7.2,Gourds
+01.1.7.2,Okra
+01.1.7.2,Olives
+01.1.7.2,Corn husks
+01.1.7.3,"Green leguminous vegetables, fresh or chilled"
+01.1.7.3,green beans
+01.1.7.3,garden peas
+01.1.7.3,broad beans
+01.1.7.3,horsebeans
+01.1.7.3,fava beans
+01.1.7.3,soya beans
+01.1.7.3,snow peas
+01.1.7.3,snap peas
+01.1.7.3,green peas
+01.1.7.3,flat beans
+01.1.7.3,bush beans
+01.1.7.3,pole beans
+01.1.7.3,yardlong beans
+01.1.7.3,mung beans
+01.1.7.3,adzuki beans
+01.1.7.3,cannellini beans
+01.1.7.3,lima beans
+01.1.7.3,butter beans
+01.1.7.3,cranberry beans
+01.1.7.3,pinto beans
+01.1.7.3,kidney beans
+01.1.7.3,black beans
+01.1.7.3,chickpeas
+01.1.7.3,lentils
+01.1.7.4,"Other vegetables, fresh or chilled"
+01.1.7.4,carrots
+01.1.7.4,turnips
+01.1.7.4,garlic
+01.1.7.4,onions
+01.1.7.4,leeks
+01.1.7.4,shallots
+01.1.7.4,scallions
+01.1.7.4,root vegetables
+01.1.7.4,beets
+01.1.7.4,radishes
+01.1.7.4,tuberous vegetables
+01.1.7.4,potatoes
+01.1.7.4,sweet potatoes
+01.1.7.4,yams
+01.1.7.4,mushrooms
+01.1.7.4,truffles
+01.1.7.4,seaweeds
+01.1.7.4,dulse
+01.1.7.4,kombu
+01.1.7.4,olives
+01.1.7.4,mixed vegetables
+01.1.7.4,vegetable medley
+01.1.7.5,"Tubers, plantains and cooking bananas, fresh or chilled"
+01.1.7.5,Potatoes
+01.1.7.5,Sweet potatoes
+01.1.7.5,Cassava
+01.1.7.5,Manioc
+01.1.7.5,Yucca
+01.1.7.5,Yams
+01.1.7.5,Taro
+01.1.7.5,Yautia
+01.1.7.5,Malanga
+01.1.7.5,New cocoyam
+01.1.7.5,Ocumo
+01.1.7.5,Tannia
+01.1.7.5,Plantains
+01.1.7.5,Cooking bananas
+01.1.7.5,Arrowroots
+01.1.7.5,Lotus roots
+01.1.7.5,Jerusalem artichokes
+01.1.7.5,Topinambur
+01.1.7.5,Tacca
+01.1.7.6,Pulses
+01.1.7.6,Common beans
+01.1.7.6,Broad beans
+01.1.7.6,Chickpeas
+01.1.7.6,Lentils
+01.1.7.6,Peas
+01.1.7.6,Cowpeas
+01.1.7.6,Pigeon peas
+01.1.7.6,Bambara beans
+01.1.7.6,Mix of pulses
+01.1.7.6,Fava beans
+01.1.7.6,Horsebeans
+01.1.7.6,Shelled lentils
+01.1.7.6,Unshelled chickpeas
+01.1.7.6,Split peas
+01.1.7.6,Dried cowpeas
+01.1.7.6,Pigeon pea flour
+01.1.7.7,"Other vegetables, tubers, plantains and cooking bananas, dried and dehydrated"
+01.1.7.7,dried cassava
+01.1.7.7,dehydrated sweet potatoes
+01.1.7.7,dried yams
+01.1.7.7,dried plantains
+01.1.7.7,dehydrated carrots
+01.1.7.7,dried green beans
+01.1.7.7,dried peas
+01.1.7.7,dehydrated onions
+01.1.7.7,dried garlic
+01.1.7.7,dried mushrooms
+01.1.7.7,dried asparagus
+01.1.7.7,dried broccoli
+01.1.7.7,dried cauliflower
+01.1.7.7,dried Brussels sprouts
+01.1.7.8,"Vegetables, tubers, plantains and cooking bananas, frozen"
+01.1.7.8,Frozen broccoli
+01.1.7.8,Frozen carrots
+01.1.7.8,Frozen peas
+01.1.7.8,Frozen sweet potatoes
+01.1.7.8,Frozen yams
+01.1.7.8,Frozen plantains
+01.1.7.8,Frozen cooking bananas
+01.1.7.9,"Vegetables, tubers, plantains, cooking bananas and pulses, ground, and in other preparations"
+01.1.7.9,Frozen peas
+01.1.7.9,Canned carrots
+01.1.7.9,Vegetable flakes
+01.1.7.9,Chipped potatoes
+01.1.7.9,Vegetable concentrates
+01.1.7.9,Homogenized preparations
+01.1.7.9,Vegetable pickles
+01.1.7.9,Soy meat
+01.1.7.9,Veggie burgers
+01.1.7.9,Tofu
+01.1.7.9,Tempeh
+01.1.7.9,Kocho
+01.1.7.9,Potato starch
+01.1.7.9,Tapioca
+01.1.7.9,Sago
+01.1.8.1,Cane sugar and beet sugar
+01.1.8.1,Cane sugar
+01.1.8.1,Beet sugar
+01.1.8.1,Raw cane sugar
+01.1.8.1,Refined cane sugar
+01.1.8.1,Powdered cane sugar
+01.1.8.1,Crystallized cane sugar
+01.1.8.1,Lump cane sugar
+01.1.8.1,Raw beet sugar
+01.1.8.1,Refined beet sugar
+01.1.8.1,Powdered beet sugar
+01.1.8.1,Crystallized beet sugar
+01.1.8.1,Lump beet sugar
+01.1.8.2,Other sugars and sugar substitutes
+01.1.8.2,Coconut sugar
+01.1.8.2,Stevia
+01.1.8.2,Glucose syrup
+01.1.8.2,Fructose syrup
+01.1.8.2,Lactose syrup
+01.1.8.2,Invert sugar
+01.1.8.2,Artificial honey
+01.1.8.2,Saccharin
+01.1.8.2,Flavoured cane sugar
+01.1.8.2,Coloured beet sugar
+01.1.8.2,Maple sugar
+01.1.8.2,Maple syrup
+01.1.8.2,Caramel
+01.1.8.2,Molasses
+01.1.8.2,Other sugars n.e.c.
+01.1.8.3,"Jams, marmalades, fruit jellies, purées and pastes, and honey"
+01.1.8.3,Strawberry jam
+01.1.8.3,Orange marmalade
+01.1.8.3,Raspberry fruit jelly
+01.1.8.3,Apple puree
+01.1.8.3,Apricot paste
+01.1.8.3,Acacia honey
+01.1.8.3,Lemon curd
+01.1.8.3,Raspberry curd
+01.1.8.3,Quince paste
+01.1.8.3,Grape jelly
+01.1.8.3,Peach jam
+01.1.8.3,Pineapple marmalade
+01.1.8.3,Mango chutney
+01.1.8.3,Peach puree
+01.1.8.3,Apricot jam
+01.1.8.3,Orange curd
+01.1.8.4,"Nut purées, nut butters and nut pastes"
+01.1.8.4,peanut butter
+01.1.8.4,almond butter
+01.1.8.4,cashew butter
+01.1.8.4,hazelnut butter
+01.1.8.4,macadamia nut butter
+01.1.8.4,pecan butter
+01.1.8.4,pistachio butter
+01.1.8.4,walnut butter
+01.1.8.5,"Chocolate, cocoa and cocoa-based food products"
+01.1.8.5,Cocoa beans
+01.1.8.5,Dark chocolate bars
+01.1.8.5,Cocoa powder for baking
+01.1.8.5,Chocolate-covered strawberries
+01.1.8.5,Cocoa-based ice cream
+01.1.8.5,Chocolate-hazelnut spread
+01.1.8.5,Milk chocolate chips
+01.1.8.5,Cocoa-based cake mix
+01.1.8.5,Chocolate-dipped pretzels
+01.1.8.5,Cocoa-based muffin mix
+01.1.8.6,"Ice, ice cream and sorbets"
+01.1.8.6,Ice Cubes
+01.1.8.6,Vanilla Ice Cream
+01.1.8.6,Mango Kulfi
+01.1.8.6,Raspberry Sorbet
+01.1.8.6,Frozen Yoghurt
+01.1.8.6,Fruit Ice Pop
+01.1.8.6,Tofu Ice Cream
+01.1.8.6,Chocolate Chip Ice Cream
+01.1.8.6,Pistachio Kulfi
+01.1.8.6,Lemon Sorbet
+01.1.8.9,Other sugar confectionery and desserts n.e.c.
+01.1.8.9,Candied ginger
+01.1.8.9,Fruit leathers
+01.1.8.9,Sugar-coated nuts
+01.1.8.9,Toffee apples
+01.1.8.9,White chocolate truffles
+01.1.8.9,Creme brulee
+01.1.8.9,Fruit salad with sugar syrup
+01.1.8.9,Candied fruit peels
+01.1.8.9,Sugar-coated almonds
+01.1.8.9,Gummies
+01.1.8.9,Lollipops
+01.1.8.9,Pastille candies
+01.1.8.9,Sugar-coated fruit rolls
+01.1.9.1,Ready-made food
+01.1.9.1,Pre-cooked Lasagna
+01.1.9.1,Chicken Fajita Meal Kit
+01.1.9.1,Vegetable Stir-Fry with Sauce
+01.1.9.1,Turkey and Avocado Wrap
+01.1.9.1,Beef and Mushroom Stroganoff
+01.1.9.1,Shrimp and Vegetable Fried Rice
+01.1.9.1,Chicken Quesadilla
+01.1.9.1,Meatball Sub Sandwich
+01.1.9.1,Egg and Sausage Omelette
+01.1.9.1,Creamy Tomato Soup
+01.1.9.1,Chicken Caesar Salad
+01.1.9.1,Beef and Broccoli Stir-Fry
+01.1.9.1,Grilled Chicken and Vegetable Skewers
+01.1.9.1,Breakfast Burrito with Scrambled Eggs and Sausage
+01.1.9.2,Baby food
+01.1.9.2,Baby Formula Powder
+01.1.9.2,Baby Rice Cereal
+01.1.9.2,Homogenized Baby Food
+01.1.9.2,Evaporated Milk for Baby Use
+01.1.9.2,Condensed Milk for Baby Use
+01.1.9.2,Baby Oatmeal Cereal
+01.1.9.2,Baby Barley Cereal
+01.1.9.2,Baby Wheat Flour
+01.1.9.2,Baby Mashed Peas and Carrots
+01.1.9.2,Baby Fruit Puree
+01.1.9.2,Baby Vegetable Puree
+01.1.9.3,"Salt, condiments and sauces"
+01.1.9.3,Salt
+01.1.9.3,Mustard
+01.1.9.3,Mayonnaise
+01.1.9.3,Ketchup
+01.1.9.3,Soy sauce
+01.1.9.3,Vinegar
+01.1.9.3,Fish sauce
+01.1.9.3,Oyster sauce
+01.1.9.3,Teriyaki sauce
+01.1.9.3,Hot sauce
+01.1.9.3,Barbecue sauce
+01.1.9.3,Worcestershire sauce
+01.1.9.3,Coconut milk for cooking
+01.1.9.3,Tomato sauce
+01.1.9.3,Alfredo sauce
+01.1.9.3,Salsa
+01.1.9.3,Guacamole
+01.1.9.3,Ranch dressing
+01.1.9.3,Tzatziki sauce
+01.1.9.4,"Spices, culinary herbs and seeds"
+01.1.9.4,black pepper
+01.1.9.4,white pepper
+01.1.9.4,pimento
+01.1.9.4,ginger
+01.1.9.4,parsley
+01.1.9.4,rosemary
+01.1.9.4,thyme
+01.1.9.4,poppy seed
+01.1.9.4,sesame seed
+01.1.9.4,linseed
+01.1.9.4,cinnamon
+01.1.9.4,nutmeg
+01.1.9.4,cardamom
+01.1.9.4,cloves
+01.1.9.4,star anise
+01.1.9.4,fennel seeds
+01.1.9.4,coriander seeds
+01.1.9.4,caraway seeds
+01.1.9.4,dill seeds
+01.1.9.4,mustard seeds
+01.1.9.9,Other food products n.e.c.
+01.1.9.9,Sugarcane sticks
+01.1.9.9,Baking powder
+01.1.9.9,Broth cubes
+01.1.9.9,Soup bases
+01.1.9.9,Agar-agar dessert mix
+01.1.9.9,Instant chocolate mousse
+01.1.9.9,Ready-made hummus
+01.1.9.9,Canned fruit salad
+01.2.1.0,Fruit and vegetable juices
+01.2.1.0,Apple juice
+01.2.1.0,Carrot juice
+01.2.1.0,Orange juice
+01.2.1.0,Grapefruit juice
+01.2.1.0,Pineapple juice
+01.2.1.0,Tomato juice
+01.2.1.0,Beetroot juice
+01.2.1.0,Cranberry juice
+01.2.1.0,Grape juice
+01.2.1.0,Peach juice
+01.2.1.0,Pear juice
+01.2.1.0,Apricot juice
+01.2.1.0,Cherry juice
+01.2.1.0,Plum juice
+01.2.1.0,Pomegranate juice
+01.2.1.0,Raspberry juice
+01.2.1.0,Strawberry juice
+01.2.1.0,Watermelon juice
+01.2.1.0,Fruit punch
+01.2.1.0,V8 juice
+01.2.1.0,Fruit smoothie
+01.2.1.0,Vegetable cocktail
+01.2.1.0,Fruit and vegetable blend
+01.2.1.0,Powdered orange juice
+01.2.1.0,Concentrated apple juice
+01.2.1.0,Syrup of pineapple
+01.2.2.0,Coffee and coffee substitutes
+01.2.2.0,Arabica coffee
+01.2.2.0,Robusta coffee
+01.2.2.0,Decaffeinated coffee
+01.2.2.0,Instant coffee
+01.2.2.0,Coffee essence
+01.2.2.0,Coffee extract
+01.2.2.0,Coffee concentrate
+01.2.2.0,Roasted chicory
+01.2.2.0,Coffee substitute
+01.2.2.0,Mocha coffee drink
+01.2.2.0,Cappuccino coffee drink
+01.2.2.0,Latte coffee drink
+01.2.2.0,Espresso coffee drink
+01.2.3.0,"Tea, maté and other plant-derived products for infusion"
+01.2.3.0,Green tea
+01.2.3.0,Black tea
+01.2.3.0,Mate tea
+01.2.3.0,Rooibos tea
+01.2.3.0,Herbal tea
+01.2.3.0,Fruit tea
+01.2.3.0,Instant tea
+01.2.3.0,Iced tea
+01.2.3.0,Tea extracts
+01.2.3.0,Tea essences
+01.2.3.0,Tea substitutes
+01.2.4.0,Cocoa drinks
+01.2.4.0,Hot Chocolate
+01.2.4.0,Mocha
+01.2.4.0,Cocoa Latte
+01.2.4.0,Chocolate Milkshake
+01.2.4.0,Cocoa Tea
+01.2.4.0,Chocolate Frappuccino
+01.2.5.0,Water
+01.2.5.0,San Pellegrino
+01.2.5.0,Evian
+01.2.5.0,Fiji Water
+01.2.5.0,Poland Spring
+01.2.5.0,Arrowhead
+01.2.5.0,Voss
+01.2.5.0,Smartwater
+01.2.5.0,Dasani
+01.2.6.0,Soft drinks
+01.2.6.0,Coca-Cola
+01.2.6.0,Fanta
+01.2.6.0,Sprite
+01.2.6.0,7 Up
+01.2.6.0,Ginger Ale
+01.2.6.0,Root Beer
+01.2.6.0,Orange Crush
+01.2.6.0,Fruitopia
+01.2.6.0,Sparkling Apple Juice
+01.2.6.0,Sparkling Grape Juice
+01.2.9.0,Other non-alcoholic beverages
+01.2.9.0,Flavoured sparkling water
+01.2.9.0,Energy drink with guarana
+01.2.9.0,Protein powder mixed with water and fruit
+01.2.9.0,Birch sap juice
+01.2.9.0,Aloe vera drink with honey
+01.2.9.0,Ginseng energy drink
+01.2.9.0,Fruit-flavoured water with vitamins
+01.2.9.0,Coconut water with electrolytes
+01.2.9.0,Herbal tea concentrate
+01.3.0.0,Services for processing primary goods for food and non-alcoholic beverages
+01.3.0.0,Custom cattle slaughtering
+01.3.0.0,Home-made flour milling
+01.3.0.0,Private fruit juice pressing
+01.3.0.0,Domestic oil extraction
+01.3.0.0,Wild game meat processing
+01.3.0.0,Household vegetable juice production
+02.1.1.0,Spirits and liquors
+02.1.1.0,Cognac
+02.1.1.0,Armagnac
+02.1.1.0,Calvados
+02.1.1.0,Rum
+02.1.1.0,Whiskey
+02.1.1.0,Vodka
+02.1.1.0,Gin
+02.1.1.0,Tequila
+02.1.1.0,Mead
+02.1.1.0,Pisco
+02.1.1.0,Grappa
+02.1.1.0,Marc
+02.1.1.0,Absinthe
+02.1.1.0,Sambuca
+02.1.1.0,Kahlúa
+02.1.1.0,Baileys Irish Cream
+02.1.1.0,Grand Marnier
+02.1.1.0,Cointreau
+02.1.1.0,Triple Sec
+02.1.2.1,Wine from grapes
+02.1.2.1,Chardonnay
+02.1.2.1,Merlot
+02.1.2.1,Cabernet Sauvignon
+02.1.2.1,Vermouth
+02.1.2.1,Sherry
+02.1.2.1,Port wine
+02.1.2.1,Champagne
+02.1.2.1,Ice wine
+02.1.2.1,Sparkling wine
+02.1.2.1,Low-alcohol wine
+02.1.2.1,Non-alcoholic wine
+02.1.2.1,Wine-based aperitif
+02.1.2.2,Wine from other sources
+02.1.2.2,Cider
+02.1.2.2,Perry
+02.1.2.2,Sake
+02.1.2.2,Fruit wine
+02.1.2.2,Mead
+02.1.2.2,Kumis
+02.1.2.2,Honey wine
+02.1.2.2,Ice cider
+02.1.2.2,Sparkling cider
+02.1.2.2, Perry pear cider
+02.1.3.0,Beer
+02.1.3.0,Pale Ale
+02.1.3.0,India Pale Ale
+02.1.3.0,Lager
+02.1.3.0,Pilsner
+02.1.3.0,Stout
+02.1.3.0,Porter
+02.1.3.0,Wheat Beer
+02.1.3.0,Fruit Beer
+02.1.3.0,Low-Alcohol Lager
+02.1.3.0,Non-Alcoholic Beer
+02.1.3.0,Amber Ale
+02.1.3.0,Brown Ale
+02.1.3.0,Dark Ale
+02.1.3.0,Light Ale
+02.1.3.0,Malt Beer
+02.1.3.0,Sour Beer
+02.1.3.0,Belgian Ale
+02.1.3.0,Craft Beer
+02.1.9.0,Other alcoholic beverages
+02.1.9.0,Alcopop
+02.1.9.0,Shandy
+02.1.9.0,Cola Beer
+02.1.9.0,Radler
+02.1.9.0,Vodka Soda
+02.1.9.0,Rum and Cola
+02.1.9.0,Gin Fizz
+02.1.9.0,Whiskey Sour
+02.1.9.0,Tequila Sunrise
+02.1.9.0,Mojito
+02.2.0.0,Alcohol production services
+02.2.0.0,Fruit crushing services for home winemaking
+02.2.0.0,Vegetable pressing services for home brewing
+02.2.0.0,Distilling services for home spirits production
+02.2.0.0,Fermentation services for home beer brewing
+02.2.0.0,Brewing services for home beer production
+02.2.0.0,Ageing services for home wine production
+02.2.0.0,Bottling services for home wine packaging
+02.3.0.1,Cigarettes
+02.3.0.1,Marlboro cigarettes
+02.3.0.1,Winston cigarettes
+02.3.0.1,Lucky Strike cigarettes
+02.3.0.1,Camel cigarettes
+02.3.0.1,Virginia Slims cigarettes
+02.3.0.1,Menthol cigarettes
+02.3.0.1,Light cigarettes
+02.3.0.1,Ultra Light cigarettes
+02.3.0.1,Cigarillos
+02.3.0.1,Bidis
+02.3.0.1,Kretek cigarettes
+02.3.0.1,Clove cigarettes
+02.3.0.2,Cigars
+02.3.0.2,Cigarillos
+02.3.0.2,Corona
+02.3.0.2,Robusto
+02.3.0.2,Pyramid
+02.3.0.2,Torpedo
+02.3.0.2,Churchill
+02.3.0.2,Panatela
+02.3.0.2,Belicoso
+02.3.0.2,Cigar Sampler
+02.3.0.9,Other tobacco products
+02.3.0.9,Pipe Tobacco
+02.3.0.9,Chewing Tobacco
+02.3.0.9,Hookah Blends
+02.3.0.9,Snus
+02.3.0.9,Snuff
+02.3.0.9,Cigarette Tobacco
+02.3.0.9,Tobacco Leaf
+02.3.0.9,Cigarette Papers
+02.3.0.9,Single-Use Filters
+02.3.0.9,Refills for Electronic Cigarettes
+02.3.0.9,Shisha Tobacco
+02.3.0.9,Hookah Tobacco
+02.4.0.0,Narcotics
+02.4.0.0,Marijuana
+02.4.0.0,Opium
+02.4.0.0,Cocaine
+02.4.0.0,Hashish
+02.4.0.0,Heroin
+02.4.0.0,Codeine
+02.4.0.0,Morphine
+02.4.0.0,Betel leaves
+02.4.0.0,Betel nuts
+02.4.0.0,Cola nuts
+02.4.0.0,Kava
+02.4.0.0,Khat
+02.4.0.0,Psilocybin mushroom
+02.4.0.0,LSD
+02.4.0.0,MDMA
+02.4.0.0,Amphetamine
+02.4.0.0,Methamphetamine
+03.1.1.0,Clothing materials
+03.1.1.0,Cotton fabric
+03.1.1.0,Polyester fabric
+03.1.1.0,Wool fabric
+03.1.1.0,Leather
+03.1.1.0,Fur
+03.1.1.0,Fusible webbing
+03.1.1.0,Wadding
+03.1.1.0,Felt filling
+03.1.1.0,Silk fabric
+03.1.1.0,Nylon fabric
+03.1.1.0,Acrylic fabric
+03.1.1.0,Blended fabric
+03.1.1.0,Velvet
+03.1.1.0,Suede
+03.1.1.0,Faux fur
+03.1.2.1,Garments for men or boys
+03.1.2.1,Men's leather jacket
+03.1.2.1,Boys' tracksuit
+03.1.2.1,Men's wool sweater
+03.1.2.1,Boys' swimsuit
+03.1.2.1,Men's business suit
+03.1.2.1,Boys' pyjamas
+03.1.2.1,Men's denim jeans
+03.1.2.1,Boys' sports jersey
+03.1.2.1,Men's winter coat
+03.1.2.1,Boys' school uniform
+03.1.2.3,Garments for infants (under 2 years of age)
+03.1.2.3,Baby raincoat
+03.1.2.3,Infant anorak
+03.1.2.3,Toddler parka
+03.1.2.3,Baby blouson
+03.1.2.3,Infant jacket
+03.1.2.3,Baby trousers
+03.1.2.3,Infant waistcoat
+03.1.2.3,Baby suit
+03.1.2.3,Infant costume
+03.1.2.3,Baby dress
+03.1.2.3,Infant skirt
+03.1.2.3,Baby vest
+03.1.2.3,Infant underpants
+03.1.2.3,Baby socks
+03.1.2.3,Infant stockings
+03.1.2.3,Baby tights
+03.1.2.3,Infant pyjamas
+03.1.2.3,Baby nightshirt
+03.1.2.3,Infant nightdress
+03.1.2.3,Baby dressing gown
+03.1.2.3,Infant bathrobe
+03.1.2.4,School uniforms
+03.1.2.4,Blazers
+03.1.2.4,Dresses
+03.1.2.4,Pants
+03.1.2.4,Shirts
+03.1.2.4,Skirts
+03.1.2.4,Sweaters
+03.1.2.4,Ties
+03.1.3.1,Other articles of clothing
+03.1.3.1,Ties
+03.1.3.1,Handkerchiefs
+03.1.3.1,Scarves
+03.1.3.1,Gloves
+03.1.3.1,Mittens
+03.1.3.1,Muffs
+03.1.3.1,Belts
+03.1.3.1,Braces
+03.1.3.1,Aprons
+03.1.3.1,Smocks
+03.1.3.1,Bibs
+03.1.3.1,Sleeve protectors
+03.1.3.1,Hats
+03.1.3.1,Caps
+03.1.3.1,Berets
+03.1.3.1,Bonnets
+03.1.3.1,Working gloves
+03.1.3.1,Woolen hats
+03.1.3.1,Fur hats
+03.1.3.1,Leather belts
+03.1.3.1,Cotton scarves
+03.1.3.1,Silk ties
+03.1.3.1,Woolen gloves
+03.1.3.1,Leather gloves
+03.1.3.1,Fur muffs
+03.1.3.1,Cotton aprons
+03.1.3.1,Polyester smocks
+03.1.3.1,Cotton bibs
+03.1.3.1,Leather sleeve protectors
+03.1.3.1,Straw hats
+03.1.3.1,Cotton caps
+03.1.3.1,Woolen berets
+03.1.3.1,Cotton bonnets
+03.1.3.2,Clothing accessories
+03.1.3.2,Sewing threads
+03.1.3.2,Knitting yarns
+03.1.3.2,Buckles
+03.1.3.2,Buttons
+03.1.3.2,Press studs
+03.1.3.2,Zip fasteners
+03.1.3.2,Ribbons
+03.1.3.2,Laces
+03.1.3.2,Trimmings
+03.1.3.2,Embroidery floss
+03.1.3.2,Tapestry needles
+03.1.3.2,Crochet hooks
+03.1.3.2,Yarn needles
+03.1.3.2,Sewing scissors
+03.1.3.2,Thimble
+03.1.3.2,Measuring tape
+03.1.3.2,Sewing machine needles
+03.1.3.2,Zipper stops
+03.1.3.2,Buttonhole rings
+03.1.3.2,Shank buttons
+03.1.3.2,Eyelets
+03.1.3.2,Grommets
+03.1.3.2,Ribbon bows
+03.1.3.2,Lace trim
+03.1.3.2,Beads for embroidery
+03.1.3.2,Sequins for embroidery
+03.1.4.1,Cleaning of clothing
+03.1.4.1,Dry cleaning of suits
+03.1.4.1,Laundering of dresses
+03.1.4.1,Dyeing of jeans
+03.1.4.1,Cleaning of leather jackets
+03.1.4.1,Stain removal of shirts
+03.1.4.1,Pressing of trousers
+03.1.4.1,Alteration of coats
+03.1.4.1,Steam cleaning of wedding gowns
+03.1.4.2,"Repair, tailoring and hire of clothing"
+03.1.4.2,Darning of trousers
+03.1.4.2,Mending of sweaters
+03.1.4.2,Repair of jeans
+03.1.4.2,Altering of dresses
+03.1.4.2,Tailoring services for custom suits
+03.1.4.2,Hire of wedding attire
+03.1.4.2,Repair of leather jackets
+03.1.4.2,Mending of coats
+03.1.4.2,Hire of formal wear
+03.1.4.2,Altering of business attire
+03.2.1.1,Footwear for men
+03.2.1.1,Dress shoes
+03.2.1.1,Boots
+03.2.1.1,Loafers
+03.2.1.1,Sneakers
+03.2.1.1,Sandals
+03.2.1.1,Gaiters
+03.2.1.1,Shoelaces
+03.2.1.1,Heels
+03.2.1.1,Soles
+03.2.1.1,Jogging shoes
+03.2.1.1,Cross-training shoes
+03.2.1.1,Tennis shoes
+03.2.1.1,Basketball shoes
+03.2.1.1,Boating shoes
+03.2.1.2,Footwear for women
+03.2.1.2,High heels
+03.2.1.2,Sandals
+03.2.1.2,Boots
+03.2.1.2,Sneakers
+03.2.1.2,Mules
+03.2.1.2,Loafers
+03.2.1.2,Flats
+03.2.1.2,Wedges
+03.2.1.2,Gaiters
+03.2.1.2,Shoelaces
+03.2.1.2,Heel caps
+03.2.1.2,Sole protectors
+03.2.1.2,Jogging shoes
+03.2.1.2,Cross-training shoes
+03.2.1.2,Tennis shoes
+03.2.1.2,Basketball shoes
+03.2.1.2,Boating shoes
+04.4.4.1,Charges for maintenance of multi-occupied buildings
+04.4.4.1,Caretaking fees
+04.4.4.1,Gardening services
+04.4.4.1,Stairwell cleaning costs
+04.4.4.1,Heating and lighting maintenance charges
+04.4.4.1,Lift maintenance fees
+04.4.4.1,Refuse disposal chute maintenance costs
+04.4.4.1,Pool cleaning services
+04.4.4.1,Common area cleaning fees
+04.4.4.1,Building exterior maintenance costs
+04.4.4.1,Fire alarm system maintenance fees
+04.4.4.1,Fire hydrant maintenance costs
+04.4.4.1,Electrical system maintenance fees
+04.4.4.1,Plumbing system maintenance costs
+04.4.4.1,HVAC system maintenance fees
+04.4.4.1,Pest control services (excluding extermination)
+04.4.4.1,Waste management services
+04.4.4.1,Snow removal services
+04.4.4.1,Landscaping services
+04.4.4.1,Door maintenance fees
+04.4.4.1,Window maintenance costs
+04.4.4.1,Roof maintenance fees
+04.4.4.1,Floor maintenance costs
+04.4.4.1,Wall maintenance fees
+04.4.4.1,Ceiling maintenance costs
+04.4.4.1,Elevator maintenance fees
+04.4.4.1,Generator maintenance costs
+04.4.4.1,Fire pump maintenance fees
+04.4.4.1,Boiler maintenance costs
+04.4.4.1,Chiller maintenance fees
+04.4.4.1,Cooling tower maintenance costs
+04.4.4.1,Electrical distribution system maintenance fees
+04.4.4.1,Plumbing distribution system maintenance costs
+04.4.4.1,HVAC distribution system maintenance fees
+04.4.4.1,Fire suppression system maintenance costs
+04.4.4.1,Security system maintenance fees
+04.4.4.1,Access control system maintenance costs
+04.4.4.1,CCTV system maintenance fees
+04.4.4.1,Intercom system maintenance costs
+04.4.4.1,Public address system maintenance fees
+04.4.4.1,Telephone system maintenance costs
+04.4.4.1,Internet system maintenance fees
+04.4.4.1,TV system maintenance costs
+04.4.4.1,Satellite system maintenance fees
+04.4.4.1,Gym equipment maintenance costs
+04.4.4.1,Swimming pool maintenance fees
+04.4.4.1,Sauna maintenance costs
+04.4.4.1,Steam room maintenance fees
+04.4.4.1,Jacuzzi maintenance costs
+04.4.4.1,Fitness center maintenance fees
+04.4.4.1,Game room maintenance costs
+04.4.4.1,Theater maintenance fees
+04.4.4.1,Library maintenance costs
+04.4.4.1,Meeting room maintenance fees
+04.4.4.1,Party room maintenance fees
+04.4.4.1,Fitness class maintenance fees
+04.4.4.1,Yoga room maintenance fees
+04.4.4.1,Meditation room maintenance fees
+04.4.4.1,Spa maintenance costs
+04.4.4.1,Parking area maintenance fees
+04.4.4.1,Garage maintenance costs
+04.4.4.1,Elevator lobby maintenance fees
+04.4.4.1,Stairwell maintenance costs
+04.4.4.1,Corridor maintenance fees
+04.4.4.1,Hallway maintenance fees
+04.4.4.1,Lobby maintenance costs
+04.4.4.1,Reception area maintenance fees
+04.4.4.1,Mailroom maintenance fees
+04.4.4.1,Package room maintenance fees
+04.4.4.1,Laundry room maintenance fees
+04.4.4.1,Utility room maintenance costs
+04.4.4.1,Storage room maintenance fees
+04.4.4.1,Waste room maintenance costs
+04.4.4.1,Janitorial closet maintenance fees
+04.4.4.1,Electrical room maintenance costs
+04.4.4.1,Mechanical room maintenance fees
+04.4.4.1,Boiler room maintenance costs
+04.4.4.1,Pump room maintenance fees
+04.4.4.1,Chiller room maintenance costs
+04.4.4.1,Cooling tower room maintenance fees
+04.4.4.1,Fire pump room maintenance costs
+04.4.4.1,Generator room maintenance fees
+04.4.4.1,Transformer room maintenance costs
+04.4.4.1,Electrical distribution room maintenance fees
+04.4.4.1,Plumbing distribution room maintenance costs
+04.4.4.1,HVAC distribution room maintenance fees
+04.4.4.1,Fire suppression room maintenance costs
+04.4.4.1,Security room maintenance fees
+04.4.4.1,Access control room maintenance costs
+04.4.4.1,CCTV room maintenance fees
+04.4.4.1,Intercom room maintenance costs
+04.4.4.1,Public address room maintenance fees
+04.4.4.1,Telephone room maintenance costs
+04.4.4.1,Internet room maintenance fees
+04.4.4.1,TV room maintenance costs
+04.4.4.1,Satellite room maintenance fees
+04.4.4.9,Other services related to the dwelling n.e.c.
+04.4.4.9,Road cleaning services
+04.4.4.9,Sidewalk cleaning services
+04.4.4.9,Chimney sweeping services
+04.4.4.9,Background radiation measurement services
+04.4.4.9,Harmful substance testing services
+04.4.4.9,Landscaping services
+04.4.4.9,Dwelling surrounding grounds cleaning services
+04.4.4.9,Snow removal services
+04.5.1.0,Electricity
+04.5.1.0,Electricity from coal-fired power plants
+04.5.1.0,Solar panel electricity
+04.5.1.0,Hydroelectric power
+04.5.1.0,Meter rental fees
+04.5.1.0,Cost of meter readings
+04.5.1.0,Standing charges for electricity
+04.5.1.0,Storage costs for self-produced electricity transmission
+04.5.2.1,Natural gas through networks
+04.5.2.1,Natural Gas Supply
+04.5.2.1,Town Gas Distribution
+04.5.2.1,Gas Meter Rental
+04.5.2.1,Meter Reading Fee
+04.5.2.1,Standing Charge for Gas
+04.5.2.1,Gas Network Maintenance
+04.5.2.1,Gas Pipeline Construction
+04.5.2.1,Gas Meter Installation
+04.5.2.2,Liquefied hydrocarbons
+04.5.2.2,Propane in 20-pound cylinders
+04.5.2.2,Butane in 5-gallon containers
+04.5.2.2,Rental of liquefied hydrocarbon storage tanks
+04.5.2.2,Standing charges for liquefied hydrocarbon delivery
+04.5.2.2,Purchase of liquefied hydrocarbon storage containers
+04.5.2.2,Liquefied petroleum gas in 100-pound cylinders
+04.5.2.2,Refurbished liquefied hydrocarbon storage containers
+04.5.2.2,Liquefied hydrocarbon storage container maintenance fees
+04.5.3.0,Liquid fuels
+04.5.3.0,Heating oil
+04.5.3.0,Kerosene
+04.5.3.0,Bioethanol
+04.5.3.0,Biodiesel
+04.5.3.0,Fireplace fuel
+04.5.3.0,Cooking oil
+04.5.3.0,Lamp oil
+04.5.3.0,Paraffin wax
+04.5.4.1,"Coal, coal briquettes, peat and peat briquettes"
+04.5.4.1,Coal
+04.5.4.1,Coal briquettes
+04.5.4.1,Peat
+04.5.4.1,Peat briquettes
+04.5.4.1,Anthracite coal
+04.5.4.1,Bituminous coal
+04.5.4.1,Lignite coal
+04.5.4.1,Sub-bituminous coal
+04.5.4.1,Peat pellets
+04.5.4.1,Coal dust
+04.5.4.1,Coal fines
+04.5.4.1,Peat moss
+05.4.0.1,"Glassware, crystal ware, ceramic ware and china ware"
+05.4.0.1,Water glasses
+05.4.0.1,Wine glasses
+05.4.0.1,Ceramic plates
+05.4.0.1,China tea sets
+05.4.0.1,Glass vases
+05.4.0.1,Crystal tumblers
+05.4.0.1,Ceramic mugs
+05.4.0.1,Toilet soap dishes
+05.4.0.1,Bathroom accessories
+07.2.2.1,Diesel
+07.2.2.1,Diesel fuel for cars
+07.2.2.1,Diesel fuel for trucks
+07.2.2.1,Marine diesel fuel
+07.2.2.1,Agricultural diesel fuel
+07.2.2.1,Industrial diesel fuel
+07.2.2.1,Ultra-low sulfur diesel fuel
+07.2.2.1,Biodiesel fuel
+07.2.2.1,Synthetic diesel fuel
+07.2.2.2,Petrol
+07.2.2.2,Petrol
+07.2.2.2,Gasoline
+07.2.2.2,Petrol with 10% Ethanol
+07.2.2.2,Gasoline with 5% Methanol
+07.2.2.2,Premium Petrol
+07.2.2.2,Regular Gasoline
+07.2.2.2,Diesel-Petrol Blend
+07.2.2.2,E10 Petrol
+07.2.2.2,E5 Petrol
+07.2.2.3,Other fuels for personal transport equipment
+07.2.2.3,LPG fuel for motorcycles
+07.2.2.3,CNG for cars
+07.2.2.3,LNG for buses
+07.2.2.3,Ethanol fuel for scooters
+07.2.2.3,Methanol fuel for mopeds
+07.2.2.3,Two-stroke mixtures for ATVs
+07.2.2.3,Electricity for electric vehicles
+07.2.2.3,Hydrogen fuel cell for fuel cell electric vehicles
+07.2.2.4,Lubricants
+07.2.2.4,Engine Oil
+07.2.2.4,Gear Oil
+07.2.2.4,Brake Fluid
+07.2.2.4,Transmission Fluid
+07.2.2.4,Coolant
+07.2.2.4,Fuel Additive
+07.2.2.4,Motor Oil
+07.2.2.4,Grease
+07.2.2.4,Lubricating Spray
+07.2.3.0,Maintenance and repair of personal transport equipment
+07.2.3.0,Car oil change service
+07.2.3.0,Motorcycle tyre replacement
+07.2.3.0,Bicycle wheel alignment
+07.2.3.0,Car locksmith service
+07.2.3.0,Installation of dash cam
+07.2.3.0,Car wash and detailing
+07.2.3.0,Breakdown service subscription
+07.2.3.0,Car battery replacement
+07.2.3.0,Wheel balancing service
+07.2.4.1,Parking services
+07.2.4.1,Municipal Street Parking Rental
+07.2.4.1,Parking Meter Fee
+07.2.4.1,Short-Term Parking Garage Rental
+07.2.4.1,Valet Parking Service
+07.2.4.1,Residential Parking Permit
+07.2.4.1,Daily Parking Pass
+07.2.4.1,Hourly Parking Fee
+07.2.4.1,Parking Lot Rental
+07.2.4.1,Parking Space Lease
+07.2.4.2,Toll facilities
+07.2.4.2,Tunnel tolls
+07.2.4.2,Bridge tolls
+07.2.4.2,Motorway tolls
+07.2.4.2,Electronic toll tags
+07.2.4.2,Toll devices
+07.2.4.2,Highway tolls
+07.2.4.2,Ferry tolls
+07.2.4.2,River crossing tolls
+07.2.4.2,Mountain pass tolls
+07.2.4.3,"Driving lessons, tests, licences and roadworthiness tests"
+07.2.4.3,Driving lessons for cars
+07.2.4.3,Driving tests for motorcycles
+07.2.4.3,Driving licences for commercial vehicles
+07.2.4.3,Roadworthiness tests for buses
+07.2.4.3,Emissions control tests for trucks
+07.2.4.3,Vehicle registration fees for electric cars
+07.2.4.3,Charges for transferring ownership of a boat
+07.2.4.3,Driving lessons for recreational planes
+07.2.4.3,Driving tests for mobile homes
+07.2.4.4,Hire of personal transport equipment without driver
+07.2.4.4,Car rental
+07.2.4.4,Bicycle-sharing scheme
+07.2.4.4,Motorcycle rental
+07.2.4.4,Car-sharing service
+07.2.4.4,Electric bike rental
+07.2.4.4,Scooter rental
+07.2.4.4,Moped rental
+07.2.4.4,Motorhome rental
+07.2.4.4,Campervan rental
+07.2.4.4,Trailer rental
+07.3.1.1,Passenger transport by train
+07.3.1.1,Intercity train travel
+07.3.1.1,High-speed rail transport
+07.3.1.1,Maglev passenger service
+07.3.1.1,Train travel with private vehicle
+07.3.1.1,Commuter rail service
+07.3.1.1,Long-distance train travel
+07.3.1.1,Tourist train excursion
+07.3.1.1,Railway passenger transport
+08.3.9.1,Television and radio licences and fees
+08.3.9.1,TV licence fee
+08.3.9.1,Radio broadcasting licence
+08.3.9.1,Television reception permit
+08.3.9.1,Radio possession permit
+08.3.9.1,Public television subscription
+08.3.9.1,Radio broadcast access fee
+08.3.9.1,Television set ownership licence
+08.3.9.1,Radio receiver permit
+09.8.0.0,Package holidays
+09.8.0.0,All-Inclusive Caribbean Cruise
+09.8.0.0,Guided European City Tour
+09.8.0.0,Summer Sports Camp for Kids
+09.8.0.0,Adventure Travel Package
+09.8.0.0,Family Fun Resort Stay
+09.8.0.0,Winter Ski Holiday
+09.8.0.0,Culinary Tour of Italy
+09.8.0.0,Relaxation and Wellness Retreat
+09.8.0.0,Scuba Diving Expedition
+09.8.0.0,Wildlife Safari Adventure
+10.4.0.0,Tertiary education
+10.4.0.0,Bachelor's degree
+10.4.0.0,Master's degree
+10.4.0.0,PhD programme
+10.4.0.0,Postgraduate diploma
+10.4.0.0,Advanced certificate in engineering
+10.4.0.0,Specialized training in medicine
+10.4.0.0,University preparation course
+10.4.0.0,Vocational training in IT
+10.4.0.0,Research fellowship
+10.5.0.1,Tutoring
+10.5.0.1,Private Math Tutor
+10.5.0.1,SAT Prep Course
+10.5.0.1,Online English Language Tutoring
+10.5.0.1,Homework Help Centre
+10.5.0.1,Private Science Lessons
+10.5.0.1,ACT Prep Classes
+10.5.0.1,Online Tutoring Platform
+10.5.0.1,Individualized Learning Centre
+10.5.0.9,Other education not defined by level
+10.5.0.9,Language and Culture Course
+10.5.0.9,Vocational Training in Cooking
+10.5.0.9,Online Language Proficiency Test
+10.5.0.9,Computer Skills for Beginners
+10.5.0.9,French Language Immersion Program
+10.5.0.9,Software Application Training
+10.5.0.9,English Language Course for Adults
+10.5.0.9,Cultural Development Workshop
+10.5.0.9,Language Learning App Subscription
+10.5.0.9,Typing Skills Course
+11.1.1.1,"Restaurants, cafés and the like – with full service"
+11.1.1.1,Fine dining restaurant
+11.1.1.1,Casual dining restaurant
+11.1.1.1,Café with waiter service
+11.1.1.1,Bar with food service
+11.1.1.1,Tearoom with full service
+11.1.1.1,Hotel restaurant with separate pricing
+11.1.1.1,Restaurant with home delivery
+11.1.1.1,Café with outdoor seating
+11.1.1.1,Sports stadium restaurant
+11.1.1.1,Museum café
+11.1.1.1,Nightclub with food service
+11.1.1.1,Shisha lounge with food and beverage service
+11.1.1.2,"Restaurants, cafés and the like – with limited service"
+11.1.1.2,Fast-food outlets
+11.1.1.2,Self-service restaurants
+11.1.1.2,Refreshment stands
+11.1.1.2,Fish and chip stands
+11.1.1.2,Food carts
+11.1.1.2,Street vendors
+11.1.1.2,Kiosks
+11.1.1.2,Food stalls
+11.1.1.2,Ice-cream parlours
+11.1.1.2,Cake-serving places
+11.1.1.2,Catering contractors
+11.1.1.2,Food and beverage services on public transport
+11.1.1.2,Shisha or hookah pipe lounges
+11.1.2.1,"Canteens and cafeterias of universities, schools and kindergartens"
+11.1.2.1,University cafeteria meals
+11.1.2.1,School lunch programs
+11.1.2.1,Kindergarten snack services
+11.1.2.1,College dining hall food
+11.1.2.1,Elementary school breakfast programs
+11.1.2.1,High school vending machine snacks
+11.1.2.1,University food trucks
+11.1.2.1,School cafeteria sandwiches
+11.1.2.1,Kindergarten juice boxes
+11.1.2.1,College coffee shop drinks
+11.1.2.9,"Other canteens, cafeterias and refectories"
+11.1.2.9,Military mess food
+11.1.2.9,Office cafeteria meals
+11.1.2.9,Hospital staff cafeteria food
+11.1.2.9,Wardroom dining
+11.1.2.9,Company cafeteria breakfast
+11.1.2.9,University refectory lunch
+11.1.2.9,Factory canteen dinner
+11.2.0.1,"Hotels, motels, inns and similar accommodation services"
+11.2.0.1,Hotel rooms
+11.2.0.1,Motel suites
+11.2.0.1,Inn accommodations
+11.2.0.1,Resort villas
+11.2.0.1,Private holiday home rentals
+11.2.0.1,Guesthouse stays
+11.2.0.1,Bed and breakfast units
+11.2.0.1,Timeshare apartments
+11.2.0.1,Hourly hotel rooms
+11.2.0.1,Pension lodgings
+11.2.0.1,Boarding house accommodations
+11.2.0.2,"Holiday centres, camping sites, youth hostels and similar accommodation services"
+11.2.0.2,Holiday Village
+11.2.0.2,Camping Ground
+11.2.0.2,Youth Hostel
+11.2.0.2,Mountain Refuge
+11.2.0.2,Bungalow
+11.2.0.2,Chalet
+11.2.0.2,Housekeeping Cottage
+11.2.0.2,Cabin
+11.2.0.2,Caravan Park
+11.2.0.2,Recreational Vehicle Park
+11.2.0.2,Trailer Park
+11.2.0.3,"Accommodation services of boarding schools, universities and other educational establishments"
+11.2.0.3,Student dormitories
+11.2.0.3,University residences
+11.2.0.3,Boarding school hostels
+11.2.0.3,College apartments
+11.2.0.3,Educational institution lodgings
+11.2.0.3,Campus housing
+11.2.0.3,School dorms
+11.2.0.3,Academic living quarters
+15.2.2.0,Other medical products
+15.2.2.0,Medical gloves
+15.2.2.0,Surgical masks
+15.2.2.0,First aid kits
+15.2.2.0,Medical tapes
+15.2.2.0,Orthopedic devices
+15.2.2.0,Prosthetic limbs
+15.2.2.0,Contact lenses
+15.2.2.0,Hearing aids
+15.2.2.0,Wheelchairs
+15.2.2.0,Crutches
+15.2.3.0,Therapeutic appliances and equipment
+15.2.3.0,Massage chairs
+15.2.3.0,Infrared lamps
+15.2.3.0,Heat therapy units
+15.2.3.0,Electrotherapy devices
+15.2.3.0,Ultrasound therapy machines
+15.2.3.0,Laser therapy equipment
+15.2.3.0,Cryotherapy units
+15.2.3.0,Diathermy machines
+15.2.3.0,Shortwave diathermy units
+15.2.3.0,Magnetic therapy devices
+15.2.3.0,TENS units
+15.2.3.0,EMS units
+15.2.3.0,Muscle stimulators
+15.2.3.0,Interferential therapy units
+15.2.3.0,Microcurrent therapy devices
+15.2.3.0,Galvanic therapy units
+15.2.3.0,Iontophoresis devices
+15.2.3.0,Ultrasound cleaners
+15.2.3.0,Surgical diathermy units
+15.2.3.0,Electrosurgical units
+15.2.3.0,Radiofrequency ablation devices
+15.2.3.0,Cryosurgical units
+15.2.3.0,Laser surgical devices
+15.2.3.0,Phototherapy units
+15.2.3.0,Low-level laser therapy devices
+15.2.3.0,Pneumatic compression therapy devices
+15.2.3.0,Sequential compression devices
+15.2.3.0,Intermittent pneumatic compression devices
+15.2.3.0,Lymphedema pumps
+15.2.3.0,Negative pressure wound therapy devices
+15.2.3.0,Wound vacuum systems
+15.2.3.0,Hyperbaric oxygen therapy chambers
+15.2.3.0,Oxygen concentrators
+15.2.3.0,Portable oxygen concentrators
+15.2.3.0,Oxygen generators
+15.2.3.0,Respiratory therapy devices
+15.2.3.0,Ventilators
+15.2.3.0,Anesthesia machines
+15.2.3.0,Defibrillators
+15.2.3.0,External pacemakers
+15.2.3.0,Cardiac monitors
+15.2.3.0,ECG machines
+15.2.3.0,Blood pressure monitors
+15.2.3.0,Pulse oximeters
+15.2.3.0,Infusion pumps
+15.2.3.0,Syringe pumps
+15.2.3.0,Insulin pumps
+15.2.3.0,Enteral feeding pumps
+15.2.3.0,Parenteral nutrition pumps
+15.2.3.0,Wound care devices
+15.2.3.0,Dressing kits
+15.2.3.0,Wound closure strips
+15.2.3.0,Surgical staplers
+15.2.3.0,Surgical sealants
+15.2.3.0,Tissue adhesives
+15.2.3.0,Wound debridement agents
+15.2.3.0,Wound cleansers
+15.2.3.0,Wound dressings
+15.2.3.0,Gauze pads
+15.2.3.0,Gauze rolls
+15.2.3.0,Bandages
+15.2.3.0,Adhesive bandages
+15.2.3.0,Elastic bandages
+15.2.3.0,Cohesive bandages
+15.2.3.0,Gauze sponges
+15.2.3.0,Wound drainage systems
+15.2.3.0,Negative pressure wound therapy systems
+15.2.3.0,Wound irrigation systems
+15.2.3.0,Wound suction devices
+15.2.3.0,Wound vacuum systems
+15.2.3.0,Wound care accessories
+15.2.4.0,Outpatient medical services
+15.2.4.0,Physiotherapy sessions
+15.2.4.0,Medical consultations
+15.2.4.0,Lab tests
+15.2.4.0,X-rays
+15.2.4.0,MRI scans
+15.2.4.0,Ultrasound tests
+15.2.4.0,Blood tests
+15.2.4.0,Vaccinations
+15.2.4.0,Allergy tests
+15.2.4.0,Dermatology services
+15.2.4.0,Orthopedic services
+15.2.4.0,Cardiology services
+15.2.4.0,Gastroenterology services
+15.2.4.0,Neurology services
+15.2.4.0,Oncology services
+15.2.4.0,Pulmonology services
+15.2.4.0,Radiology services
+15.2.4.0,Urology services
+15.2.5.0,Outpatient dental services
+15.2.5.0,Dental consultations
+15.2.5.0,Dental X-rays
+15.2.5.0,Dental fillings
+15.2.5.0,Dental crowns
+15.2.5.0,Dental bridges
+15.2.5.0,Dental implants
+15.2.5.0,Teeth whitening
+15.2.5.0,Dental cleaning
+15.2.5.0,Oral surgery
+15.2.5.0,Orthodontic treatment
+15.2.5.0,Denture fittings
+15.2.5.0,Mouthguard fittings
+15.2.6.0,Outpatient paramedical services
+15.2.6.0,Ambulance services
+15.2.6.0,Medical transportation services
+15.2.6.0,Paramedic consultations
+15.2.6.0,Emergency medical response
+15.2.6.0,Non-emergency medical transportation
+15.2.6.0,Medical escort services
+15.2.6.0,Paramedical home care
+15.2.6.0,Mobile health services
+15.2.6.0,Urgent care services
+15.2.6.0,Medical transportation insurance
+15.2.7.0,Hospital services
+15.2.7.0,Surgical operations
+15.2.7.0,Emergency room services
+15.2.7.0,Maternity services
+15.2.7.0,Rehabilitation services
+15.2.7.0,Diagnostic services
+15.2.7.0,Therapeutic services
+15.2.7.0,Medical consultations
+15.2.7.0,Laboratory tests
+15.2.7.0,Imaging services
+15.2.7.0,Pharmacy services
+15.2.7.0,Dental services
+15.2.7.0,Ophthalmology services
+15.2.7.0,Orthopedic services
+15.2.7.0,Cardiology services
+15.2.7.0,Neurology services
+15.2.7.0,Oncology services
+15.2.7.0,Gynecology services
+15.2.7.0,Pediatric services
+15.2.7.0,Geriatric services
+15.2.8.0,Public health services
+15.2.8.0,Vaccination services
+15.2.8.0,Disease screening services
+15.2.8.0,Health education services
+15.2.8.0,Epidemiology services
+15.2.8.0,Public health emergency preparedness services
+15.2.8.0,Health promotion services
+15.2.8.0,Disease prevention services
+15.2.8.0,Health protection services
+15.4.3.0,Post-secondary non-tertiary education
+15.4.3.0,Vocational training courses
+15.4.3.0,Technical education programs
+15.4.3.0,Adult education classes
+15.4.3.0,Continuing education seminars
+15.4.3.0,Professional certification courses
+15.4.3.0,Apprenticeship programs
+15.4.3.0,On-the-job training
+15.4.4.0,Tertiary education
+15.4.4.0,Bachelor's degree
+15.4.4.0,Master's degree
+15.4.4.0,PhD program
+15.4.4.0,Vocational training
+15.4.4.0,Online courses
+15.4.4.0,Diploma programs
+15.4.4.0,Certificate programs
+15.4.4.0,Postgraduate research
+15.4.5.0,Education not defined by level
+15.4.5.0,Tuition fees for online courses
+15.4.5.0,Language learning apps
+15.4.5.0,Professional certification programs
+15.4.5.0,Vocational training services
+15.4.5.0,Educational software
+15.4.5.0,Online educational resources
+15.4.5.0,Test preparation services
+15.4.5.0,Career counseling services
+15.4.6.0,Subsidiary services to education
+15.4.6.0,Tutoring services
+15.4.6.0,Online course platforms
+15.4.6.0,Education consulting
+15.4.6.0,Academic support services
+15.4.6.0,Career counseling
+15.4.6.0,Language training
+15.4.6.0,Test preparation services
+15.4.6.0,Education research services
+15.4.6.0,Education policy consulting
